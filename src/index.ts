@@ -18,6 +18,7 @@ import {
   reflectOnAnswer,
   searchVectors,
   splitText,
+  crawlURL,
 } from './queues'
 
 // add dummy job
@@ -30,6 +31,10 @@ downloadPDF.add('volvo', {
   url: 'https://www.volvogroup.com/content/dam/volvo-group/markets/master/investors/reports-and-presentations/annual-reports/AB-Volvo-Annual-Report-2022.pdf',
 })*/
 
+crawlURL.add('crawl url', {
+  url: 'https://www.volvogroup.com/',
+})
+
 // start workers
 Object.values(workers).forEach((worker) => worker.run())
 
@@ -39,6 +44,7 @@ serverAdapter.setBasePath('/admin/queues')
 
 createBullBoard({
   queues: [
+    new BullMQAdapter(crawlURL),
     new BullMQAdapter(downloadPDF),
     new BullMQAdapter(splitText),
     new BullMQAdapter(indexParagraphs),

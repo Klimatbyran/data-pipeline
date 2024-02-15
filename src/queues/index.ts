@@ -13,6 +13,7 @@ const indexParagraphs = new Queue('indexParagraphs', options)
 const searchVectors = new Queue('searchVectors', options)
 const reflectOnAnswer = new Queue('reflectOnAnswer', options)
 const discordReview = new Queue('discordReview', options)
+const crawlURL = new Queue('crawlURL', options)
 
 export {
   downloadPDF,
@@ -22,4 +23,5 @@ export {
   searchVectors,
   reflectOnAnswer,
   discordReview,
+  crawlURL,
 }
