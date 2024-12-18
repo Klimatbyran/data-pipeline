@@ -1,0 +1,90 @@
+{
+  "wikidataId": "Q65083539",
+  "name": "Embracer Group",
+  "description": "Embracer Group är ett svenskt företag som utvecklar och publicerar PC-, konsol-, mobil-, VR- och brädspel inom spel- och underhållningsindustrin. Företaget äger och förvaltar en stor portfölj av spelstudior och varumärken, och är engagerat i att skapa underhållning för en global publik.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://embracer.com/wp-content/uploads/2023/06/Embracer-Group-publishes-Annual-Report-202223-230621.pdf",
+      "economy": {
+        "turnover": {
+          "value": 37665000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 11956,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1443,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4418,
+          "mb": 6952,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6952
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 678707,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 678707
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 687102,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1068,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 4458,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4458
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 676963,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 676963
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 682489,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "50",
+      "groupCode": "5020",
+      "industryCode": "502020",
+      "subIndustryCode": "50202020"
+    }
+  }
+}

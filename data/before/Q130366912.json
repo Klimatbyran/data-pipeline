@@ -1,0 +1,197 @@
+{
+  "wikidataId": "Q130366912",
+  "name": "Byggmästare Anders J Ahlström Holding",
+  "description": "Byggmästare Anders J Ahlström Holding AB investerar i och utvecklar företagsgrupper, främst små och medelstora bolag i Sverige och Norden, både noterade och onoterade. Företaget kan vara majoritets- eller minoritetsägare och fokuserar på långsiktigt värdeskapande för aktieägare.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 5831000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 325,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1012704000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 876342000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 162760000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1500,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2500,
+          "mb": 2000,
+          "unknown": 300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 213111000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 168663000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 216706000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 189249000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202010"
+    }
+  }
+}

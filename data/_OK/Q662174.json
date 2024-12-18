@@ -1,0 +1,123 @@
+{
+  "wikidataId": "Q662174",
+  "name": "Securitas",
+  "description": "Securitas är ett globalt säkerhetsföretag som erbjuder bevakning, elektroniska säkerhetslösningar, brand- och räddningstjänster samt riskhantering. Företaget är verksamt i över 50 länder och har en bred portfölj av säkerhetstjänster och teknologier.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.securitas.se/globalassets/sweden/pdf/securitas_ars_och_hallbarhetsredovisning_2023_24.pdf",
+      "economy": {
+        "turnover": {
+          "value": 157249000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 279479,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 126606,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 21300,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 21300
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1768814,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 1768814
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1916720,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.securitas.se/globalassets/sweden/pdf/securitas_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 155933,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 24181,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 24181
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2032330,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 2032330
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2212444,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 113492,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 25273,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 25273
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 63133,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 63133
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 201898,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202010",
+      "subIndustryCode": "20201080"
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "wikidataId": "Q4356015",
+  "name": "Rejlers",
+  "description": "Rejlers är ett teknikkonsultföretag med verksamhet i Sverige, Finland, Norge och Förenade Arabemiraten. Företaget erbjuder expertis inom teknik för att stödja energisystem, industriomvandling och infrastrukturprojekt. Rejlers grundades 1942 och har cirka 3 300 anställda.",
+  "reviewComments": ["Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rejlers.com/globalassets/swedish/bolagsstyrning/rejlers_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4088300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3254,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 251,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 654,
+          "mb": 654,
+          "unknown": 654,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 654
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2318,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 2318,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2318
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3223,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rejlers.com/globalassets/swedish/bolagsstyrning/rejlers_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3513000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2773,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 96,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 366,
+          "mb": 366,
+          "unknown": 366,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 366
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1831,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 1831,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1831
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2294,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rejlers.com/globalassets/swedish/bolagsstyrning/rejlers_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2898700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2464,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 132,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 339,
+          "mb": 339,
+          "unknown": 339,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 339
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1498,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 1498,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1498
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1968,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rejlers.com/globalassets/swedish/bolagsstyrning/rejlers_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2366900000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2330,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 111,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 359,
+          "mb": 359,
+          "unknown": 359,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 359
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1427,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 1427,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1427
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1897,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rejlers.com/globalassets/swedish/bolagsstyrning/rejlers_ars_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2136700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2218,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 136,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 261,
+          "mb": 261,
+          "unknown": 261,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 261
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1782,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 1782,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1782
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2180,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202020"
+    }
+  }
+}

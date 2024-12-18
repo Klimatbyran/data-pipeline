@@ -1,0 +1,314 @@
+{
+  "wikidataId": "Q106574109",
+  "name": "Scandi Standard",
+  "description": "Scandi Standard är ett företag som producerar och distribuerar kycklingprodukter. Verksamheten bedrivs i Sverige, Danmark, Finland, Norge och Irland, med export till internationella marknader. Företaget är noterat på Mid Cap Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.scandistandard.com/sites/default/files/pr/202403220720-1.pdf?ts=1711112529",
+      "economy": {
+        "turnover": {
+          "value": 13014000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3204,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 15883,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 14424,
+          "mb": 658,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 658
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 911013,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 878410,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 13303,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 5952,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 11975,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 69,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 327,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 118,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 859,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 911013
+        },
+        "biogenicEmissions": {
+          "total": 3596,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 16547,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 927560,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.scandistandard.com/sites/default/files/pr/202403220720-1.pdf?ts=1711112529",
+      "economy": {
+        "turnover": {
+          "value": 12119000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3294,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 16999,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 12905,
+          "mb": 925,
+          "unknown": 925,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 925
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 792518,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 775182,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 6127,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 10761,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 69,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 268,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 111,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 792518
+        },
+        "biogenicEmissions": {
+          "total": 1755,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 17924,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 810442,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.scandistandard.com/sites/default/files/pr/202403220720-1.pdf?ts=1711112529",
+      "economy": {
+        "turnover": {
+          "value": 10101000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3215,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 16291,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 13070,
+          "mb": 658,
+          "unknown": 925,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 658
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 850794,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 878410,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 13303,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 5952,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 11975,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 69,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 327,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 118,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 859,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 850794
+        },
+        "biogenicEmissions": {
+          "total": 1286,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 29361,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 880155,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.scandistandard.com/sites/default/files/pr/202403220720-1.pdf?ts=1711112529",
+      "economy": {
+        "turnover": {
+          "value": 9940000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3220,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.scandistandard.com/sites/default/files/pr/202403220720-1.pdf?ts=1711112529",
+      "economy": {
+        "turnover": {
+          "value": 9891000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3266,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "30",
+      "groupCode": "3020",
+      "industryCode": "302020",
+      "subIndustryCode": "30202030"
+    }
+  }
+}

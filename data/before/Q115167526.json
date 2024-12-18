@@ -1,0 +1,354 @@
+{
+  "wikidataId": "Q115167526",
+  "name": "Nordic Waterproofing Holding",
+  "description": "Nordic Waterproofing Holding AB tillhandahåller produkter och tjänster för vattentätning inom byggindustrin. Företaget erbjuder lösningar som bitumenbaserade tätskikt, EPDM-produkter och prefabricerade träelement samt installationstjänster. Verksamheten omfattar flera nordiska marknader.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4463400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1318,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3182,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 19470.944,
+          "mb": 1126,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1126
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 110090,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 101439,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 565,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1482,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 5151,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 913,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 541,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 110090
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 114397,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4343400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1365,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3235,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 19234.131,
+          "mb": 1592,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1592
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 141719,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 115753,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 829,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1472,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 18390,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 847,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 695,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1105,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 141719
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 146545,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3664000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1272,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 4097,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20458.689,
+          "mb": 1839,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1839
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 166826,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 155827,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2940,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1749,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 9250,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 721,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 471,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 117,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 166826
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 172760,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3303000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1147,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3122000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1116,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2680000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1033,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2187000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 830,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordicwaterproofing.com/en/wp-content/uploads/sites/2/2024/03/nordic-waterproofing-annual-report-2023-240325.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1813000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 630,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151020",
+      "subIndustryCode": "15102010"
+    }
+  }
+}

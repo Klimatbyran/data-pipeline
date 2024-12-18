@@ -1,0 +1,193 @@
+{
+  "wikidataId": "Q131426217",
+  "name": "Swedish Logistic Property",
+  "description": "Swedish Logistic Property AB förvärvar, förädlar och förvaltar logistikfastigheter. Företaget fokuserar på att skapa värdetillväxt genom förädling av fastigheter i strategiska logistikpunkter i Sverige.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://slproperty.se/wp-content/uploads/2024/04/SLP-Arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 585000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 132,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 519,
+          "mb": 388,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 388
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7665,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 6417,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 71,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 1166,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7665
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8316,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://slproperty.se/wp-content/uploads/2024/04/SLP-Arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 411000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 13,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 54,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 463,
+          "mb": 344,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 344
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6564,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 5303,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 59,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 1187,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6564
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7081,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://slproperty.se/wp-content/uploads/2024/04/SLP-Arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 268000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 12,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://slproperty.se/wp-content/uploads/2024/04/SLP-Arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 96000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601025",
+      "subIndustryCode": "60102510"
+    }
+  }
+}

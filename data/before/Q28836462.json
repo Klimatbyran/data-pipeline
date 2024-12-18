@@ -1,0 +1,54 @@
+{
+  "wikidataId": "Q28836462",
+  "name": "Xvivo Perfusion",
+  "description": "XVIVO Perfusion AB är ett medicinteknikföretag som fokuserar på att förlänga livslängden på organ för transplantation. Företaget är verksamt inom fyra huvudområden: lung-, hjärt-, lever- och njurtransplantation, och erbjuder teknologier och tjänster för organbevarande och återhämtning.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 598000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 130,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 12.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 34.5,
+          "mb": 23.4,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 23.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351010",
+      "subIndustryCode": "35101010"
+    }
+  }
+}

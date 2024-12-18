@@ -1,0 +1,127 @@
+{
+  "wikidataId": "Q30256485",
+  "name": "FM Mattsson",
+  "description": "FM Mattsson Group utvecklar, tillverkar och levererar lösningar för badrum och kök under varumärkena Mora Armatur, FM Mattsson, Damixa, Hotbath, Aqualla och Adamsez. Företaget har en stark närvaro i Norden och expanderar i Europa, med 41% av försäljningen utanför Norden 2023.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1938600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 568,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 548,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4,
+          "mb": 881,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 881
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 12439,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 12439,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 12439
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1429,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1925600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 559,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1824800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 532,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1536800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 516,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1313500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 489,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201020",
+      "subIndustryCode": "20102010"
+    }
+  }
+}

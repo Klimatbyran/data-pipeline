@@ -1,0 +1,181 @@
+{
+  "wikidataId": "Q10484125",
+  "name": "Engcon",
+  "reviewComments": [
+    "Emissions missing for 2022 but not present in 2023 PDF",
+    "Garbo OK"
+  ],
+  "description": "Engcon utvecklar och tillverkar tiltrotatorer och tillhörande redskap för grävmaskiner. Företaget erbjuder lösningar som gör grävmaskiner till redskapsbärare, vilket möjliggör fler användningsområden. Produktionen sker i Sverige och Polen, och försäljning bedrivs globalt.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1898000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 406,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 493,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 452,
+          "mb": 427,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 427
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 33000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 14400,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1620,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2330,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 121,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 69,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 14460,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 33000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 33920,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1938000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 425,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 815,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 492,
+          "mb": 461,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 461
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 57700,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 57700
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 58976,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1488000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 327,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 815,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 492,
+          "mb": 461,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 461
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1077000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 315,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106010"
+    }
+  }
+}

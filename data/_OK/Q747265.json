@@ -1,0 +1,267 @@
+{
+  "wikidataId": "Q747265",
+  "name": "Stora Enso",
+  "description": "Stora Enso är en global leverantör av hållbara lösningar inom förnybara material. Företaget är verksamt inom flera affärsområden, inklusive skogsbruk, massa och papper, förpackningar, biomaterial och träprodukter. Med fokus på innovation och hållbarhet strävar Stora Enso efter att ersätta fossilbaserade material med förnybara alternativ.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.storaenso.com/-/media/documents/download-center/documents/annual-reports/2023/storaenso_annual_report_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 9396000000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 20822,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1470000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 510000,
+          "mb": 50000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 50000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4950000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1680000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 310000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 680000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 1950000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 330000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4950000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6470000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.storaenso.com/-/media/documents/download-center/documents/annual-reports/2022/storaenso_annual_report_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1800000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 600000,
+          "mb": 80000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 80000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5690000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2010000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 390000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 790000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 2130000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 380000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5690000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7570000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.storaenso.com/-/media/documents/download-center/documents/annual-reports/2021/storaenso_annual_report_2021?h=760&w=1200",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 2150000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 730000,
+          "mb": 100000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 100000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7720000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2230000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 440000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 890000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 3740000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 420000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7720000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 9970000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 2020000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 310000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 310000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7380000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 7380000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 9710000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 10040000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 480000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 480000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7980000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 7980000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 18500000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151050",
+      "subIndustryCode": "15105020"
+    }
+  }
+}

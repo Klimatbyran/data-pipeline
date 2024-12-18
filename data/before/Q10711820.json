@@ -1,0 +1,150 @@
+{
+  "wikidataId": "Q10711820",
+  "name": "VBG Group",
+  "reviewComments": ["Ambiguous turnover", "Garbo OK"],
+  "description": "VBG Group är en global industrikoncern som äger och styr framgångsrika industriföretag. Koncernen är indelad i tre divisioner: Truck & Trailer Equipment, Mobile Thermal Solutions och Ringfeder Power Transmission, med fokus på långsiktigt ägande och strategisk styrning.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/a/vbg-group/5345f79f-3ffa-41aa-89e2-462d70620b12/vbg-group-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5740000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1864,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.75,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.75,
+          "mb": 0.75,
+          "unknown": 0.75,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.75
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/a/vbg-group/5345f79f-3ffa-41aa-89e2-462d70620b12/vbg-group-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4579978000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1773,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/a/vbg-group/5345f79f-3ffa-41aa-89e2-462d70620b12/vbg-group-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3611200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1714,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/a/vbg-group/5345f79f-3ffa-41aa-89e2-462d70620b12/vbg-group-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3147200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1484,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/a/vbg-group/5345f79f-3ffa-41aa-89e2-462d70620b12/vbg-group-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3725400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1612,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

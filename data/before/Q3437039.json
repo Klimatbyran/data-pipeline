@@ -1,0 +1,88 @@
+{
+  "wikidataId": "Q3437039",
+  "name": "Cloetta",
+  "reviewComments": ["Garbo OK", "Ambiguous turnover"],
+  "description": "Cloetta är ett företag som producerar och säljer konfektyrprodukter, inklusive godis, choklad, pastiller, tuggummi och nötter. Företaget verkar på flera marknader och fokuserar på att erbjuda produkter som skapar glädje och minnesvärda stunder för konsumenterna.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8301000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2880,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 20107,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 12082,
+          "mb": 12082,
+          "unknown": 12082,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 12082
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 250529,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 250529
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 282718,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 21390,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 17510,
+          "mb": 17510,
+          "unknown": 17510,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 17510
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 257990,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 257990
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "30",
+      "groupCode": "3020",
+      "industryCode": "302020",
+      "subIndustryCode": "30202030"
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "wikidataId": "Q862811",
+  "name": "Billerud",
+  "description": "Billerud är ett svenskt företag som tillverkar papper och kartong. Företaget fokuserar på hållbarhet och innovation inom förpackningslösningar. Billerud har produktionsenheter i både Europa och Nordamerika och arbetar aktivt med att minska sin klimatpåverkan genom olika initiativ och samarbeten.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.billerud.se/globalassets/billerud/investors/financial-reports/2023/billerud_ar2023_sve.pdf",
+      "economy": {
+        "turnover": {
+          "value": 41224000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": null,
+          "unit": "?"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 778627,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 389370,
+          "mb": 88671,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 88671
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3006061,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1127905,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 137179,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 131262,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 363813,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2041,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 704,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5522,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 318878,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 657067,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 261424,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 266,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3006061
+        },
+        "biogenicEmissions": {
+          "total": 5834000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3873359,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.billerud.se/globalassets/cision/documents/2023/20230405-billeruds-ars-och-hallbarhetsredovisning-2022-sv-0-4510289.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 928263,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 429655,
+          "mb": 91118,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 91118
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3458852,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1371336,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 140000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 206274,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 385770,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1179,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5300,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 289050,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 750272,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 307000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 279,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3458852
+        },
+        "biogenicEmissions": {
+          "total": 6939377,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4478233,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151050",
+      "subIndustryCode": "15105020"
+    }
+  }
+}

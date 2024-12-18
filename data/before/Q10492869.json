@@ -1,0 +1,147 @@
+{
+  "wikidataId": "Q10492869",
+  "name": "Ework Group",
+  "description": "Ework Group är ett företag som specialiserar sig på kompetens- och talangförsörjning i norra Europa. De erbjuder tjänster inom planering, rekrytering, administration och utveckling av både temporär och permanent personal, med fokus på IT, digitalisering, R&D och verksamhetsutveckling.",
+  "reviewComments": ["Import NOT OK", "Ambiguous CO2 reporting", "Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 17247000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 335,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 47,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 47,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 16069954000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 314,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 67,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 67,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13188655000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 280,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 12237865000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 283,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 12621305000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 306,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202010"
+    }
+  }
+}

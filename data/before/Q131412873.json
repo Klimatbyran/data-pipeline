@@ -1,0 +1,214 @@
+{
+  "wikidataId": "Q131412873",
+  "name": "Nivika",
+  "description": "Nivika är ett fastighetsbolag som hanterar och utvecklar fastigheter. Företaget fokuserar på att mäta och rapportera sina utsläpp av växthusgaser enligt GHG-protokollet, med särskild uppmärksamhet på direkta och indirekta utsläpp från verksamhetens olika delar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2022-09-01T00:00:00.000Z",
+      "endDate": "2023-08-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20845/3888172/2479235.pdf",
+      "economy": {
+        "turnover": {
+          "value": 611913000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 62,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 26,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1547,
+          "mb": 638,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 638
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 10608,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 6139,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 430,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 18,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 4021,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 10608
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 664,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 11272,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-09-01T00:00:00.000Z",
+      "endDate": "2022-08-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20845/3888172/2479235.pdf",
+      "economy": {
+        "turnover": {
+          "value": 528082000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 26,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1547,
+          "mb": 638,
+          "unknown": 1292,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 638
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 10608,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 6139,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 430,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 18,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 3472,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 10608
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-09-01T00:00:00.000Z",
+      "endDate": "2021-08-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20845/3888172/2479235.pdf",
+      "economy": {
+        "turnover": {
+          "value": 327433000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 21,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1313,
+          "mb": 613,
+          "unknown": 1292,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 613
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-09-01T00:00:00.000Z",
+      "endDate": "2020-08-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20845/3888172/2479235.pdf",
+      "economy": {
+        "turnover": {
+          "value": 259050000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2018-09-01T00:00:00.000Z",
+      "endDate": "2019-08-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20845/3888172/2479235.pdf",
+      "economy": {
+        "turnover": {
+          "value": 190897000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601025",
+      "subIndustryCode": "60102510"
+    }
+  }
+}

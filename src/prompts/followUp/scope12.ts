@@ -6,7 +6,7 @@ const schema = z.object({
       year: z.number(),
       scope1: z
         .object({
-          total: z.number(),
+          total: z.number().optional(),
         })
         .optional(),
       scope2: z
@@ -36,7 +36,7 @@ const schema = z.object({
 
 const prompt = `
 *** Golden Rule ***
-- Extract values only if explicitly available in the context. Do not infer or create data. Leave optional fields absent if no data is provided.
+- Extract values only if explicitly available in the context. Do not infer or create data. Leave optional fields absent or null if no data is provided. Never use 0 to indicate the absence of a value.
 
 Extract scope 1 and 2 emissions according to the GHG protocol (CO2e). Include all years you can find and never exclude the latest year.
 Include market-based and location-based in scope 2. 

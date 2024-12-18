@@ -1,0 +1,131 @@
+{
+  "wikidataId": "Q113465911",
+  "name": "Arise",
+  "description": "Arise utvecklar och förvaltar förnybar elproduktion med fokus på vindkraft, solkraft och batterilagring. Företaget är verksamt i Sverige, Storbritannien, Finland, Norge och Ukraina, och arbetar med att hantera påverkan och risker i värdekedjan.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 503000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 67,
+          "unit": "medelantal"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 12,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 8,
+          "mb": 8,
+          "unknown": 4,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 8
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 74279,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 157,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 48,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 74074,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 74279
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 74299,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 41,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 18,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4,
+          "mb": 6,
+          "unknown": 8,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1941,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 158,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 26,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 17577,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1941
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1965,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "55",
+      "groupCode": "5510",
+      "industryCode": "551050",
+      "subIndustryCode": "55105020"
+    }
+  }
+}

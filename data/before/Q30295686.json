@@ -1,0 +1,88 @@
+{
+  "wikidataId": "Q30295686",
+  "name": "Hansa Biopharma",
+  "description": "Hansa Biopharma är ett företag som fokuserar på att utveckla och leverera nya läkemedel för patienter med sällsynta immunologiska sjukdomar. Företaget arbetar inom prioriterade terapeutiska områden och strävar efter att möta medicinska behov genom vetenskapliga framsteg.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 134094000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 168,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5600,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5.6,
+          "mb": 5600,
+          "unknown": 5.6,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5600
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7105000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 5970000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 15000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 6000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 822500,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 260,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 290720,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7105000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7116000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352010",
+      "subIndustryCode": "35201010"
+    }
+  }
+}

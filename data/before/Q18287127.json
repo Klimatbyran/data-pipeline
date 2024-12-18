@@ -1,0 +1,234 @@
+{
+  "wikidataId": "Q18287127",
+  "name": "Bactiguard Holding B",
+  "reviewComments": ["Garbo NOT OK", "Emissions empty"],
+  "description": "Bactiguard är ett globalt MedTech-företag som utvecklar teknologi för att förhindra infektioner relaterade till medicintekniska produkter. Företaget erbjuder en unik metallbeläggning som minskar bakterieadhesion och biofilm på medicinska enheter. Bactiguard samarbetar med licenspartners och har även produkter för sårvård.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 223174000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 217,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 31,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 811,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 811
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7100,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4510,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 16,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1923,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 652,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7100
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7943,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 253500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 199,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 25,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 903,
+          "mb": 903,
+          "unknown": 903,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 903
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7367,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4300,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 21,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 2490,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 556,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7367
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8295,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 179000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 31,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 811,
+          "mb": 811,
+          "unknown": 811,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 811
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7100,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4510,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 16,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1923,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 652,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7100
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 180600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 193900000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351010",
+      "subIndustryCode": "35101010"
+    }
+  }
+}

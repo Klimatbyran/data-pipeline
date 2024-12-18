@@ -1,0 +1,145 @@
+{
+  "wikidataId": "Q10559602",
+  "name": "Lernia",
+  "description": "Lernia är ett statligt ägt företag som erbjuder tjänster inom bemanning, rekrytering, omställning, matchning och vuxenutbildning. Företaget arbetar med att utveckla och matcha människors kompetens med arbetsmarknadens behov och finns på cirka 100 orter i Sverige.",
+  "reviewComments": ["Garbo OK", "Ambiguous turnover"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3482000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5314,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3304000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5494,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2941000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4687,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2090000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3377,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2660000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4613,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202010"
+    }
+  }
+}

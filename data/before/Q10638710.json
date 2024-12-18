@@ -1,0 +1,139 @@
+{
+  "wikidataId": "Q10638710",
+  "name": "Pricer",
+  "reviewComments": ["Garbo OK", "Ambiguous turnover"],
+  "description": "Pricer är ett företag som erbjuder lösningar för automatisering och kommunikation i fysiska butiker. Företaget använder elektroniska hyllkantsetiketter och digital skyltning för att förbättra butiksverksamhet och kundupplevelse. Pricer grundades 1991 och är noterat på Nasdaq Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.pricer.com/hubfs/Pricer-Annual-Report-2023-SV.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2681000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 206,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.pricer.com/hubfs/Pricer-Annual-Report-2023-SV.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2267787000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 193,
+          "unit": "number"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.pricer.com/hubfs/Pricer-Annual-Report-2023-SV.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1765800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 180,
+          "unit": "number"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.pricer.com/hubfs/Pricer-Annual-Report-2023-SV.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1759500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 150,
+          "unit": "number"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.pricer.com/hubfs/Pricer-Annual-Report-2023-SV.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1002900000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 135,
+          "unit": "number"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4520",
+      "industryCode": "452030",
+      "subIndustryCode": "45203010"
+    }
+  }
+}

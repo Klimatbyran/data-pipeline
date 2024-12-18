@@ -1,0 +1,45 @@
+{
+  "wikidataId": "Q115167515",
+  "name": "Norva24",
+  "description": null,
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.norva24.com/sv/wp-content/uploads/sites/3/2021/06/norva24-arsredovisning-2023-o.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3152000000,
+          "currency": "NOK"
+        },
+        "employees": {
+          "value": 1751,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9567,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 734,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 734
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 10032,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 10032,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

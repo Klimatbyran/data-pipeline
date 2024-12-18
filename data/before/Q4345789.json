@@ -1,0 +1,341 @@
+{
+  "wikidataId": "Q4345789",
+  "name": "Fagerhult Group",
+  "reviewComments": [
+    "Garbo has interpreted Upstream total as category 1",
+    "Total footprint has been interpreted as total for scope 3",
+    "Garbo NOT OK"
+  ],
+  "description": "Fagerhult Group tillverkar och säljer belysningslösningar. Företaget fokuserar på produktutveckling och kunskapsdelning för att minska växthusgasutsläpp under produkternas livscykel. Verksamheten omfattar både direkt och indirekt energianvändning samt materialhantering.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.fagerhultgroup.com/files/mfn/447e3bb8-a1d1-443d-859d-fcd79fcd6c09/fagerhult-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 8560400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4080,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 7518,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3991,
+          "mb": 3991,
+          "unknown": 3991,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3991
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1155443,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 115490,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 5313,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2971,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 14117,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 260,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2520,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2648,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 2088,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 1007887,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 428,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1155443
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1166952,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.fagerhultgroup.com/files/mfn/447e3bb8-a1d1-443d-859d-fcd79fcd6c09/fagerhult-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 8270000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4059,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 8294,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4486,
+          "mb": 4486,
+          "unknown": 4486,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4486
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1508720,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 171991,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 3822,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 3330,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 16014,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 251,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2252,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2458,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 2654,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 1333535,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 540,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1508720
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1521501,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.fagerhultgroup.com/files/mfn/447e3bb8-a1d1-443d-859d-fcd79fcd6c09/fagerhult-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7088000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4237,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9341,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9561,
+          "mb": 9561,
+          "unknown": 9561,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9561
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1507588,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 171331,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 7623,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 3358,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 17837,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 296,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1066,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2323,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 3182,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 1332415,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 659,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1507588
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1526489,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.fagerhultgroup.com/files/mfn/447e3bb8-a1d1-443d-859d-fcd79fcd6c09/fagerhult-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 6816000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4419,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.fagerhultgroup.com/files/mfn/447e3bb8-a1d1-443d-859d-fcd79fcd6c09/fagerhult-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7845000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4465,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201040",
+      "subIndustryCode": "20104010"
+    }
+  }
+}

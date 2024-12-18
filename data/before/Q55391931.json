@@ -1,0 +1,273 @@
+{
+  "wikidataId": "Q55391931",
+  "name": "Viaplay Group",
+  "description": "Viaplay Group är ett företag som erbjuder streamingtjänster med fokus på underhållning, sport och originalinnehåll. Företaget verkar i flera länder och tillhandahåller abonnemangstjänster för att strömma filmer, serier och sportevenemang online.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viaplaygroup.com/sites/default/files/pr/202403273723-3.pdf",
+      "economy": {
+        "turnover": {
+          "value": 18567000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1525,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 76,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 488,
+          "mb": 1382,
+          "unknown": 168,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1382
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 117998,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 105139,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 325,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 559,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 48,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 3663,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 691,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 7516,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 57,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 117998
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 119456,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viaplaygroup.com/sites/default/files/pr/202403273723-3.pdf",
+      "economy": {
+        "turnover": {
+          "value": 15691000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1586,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 97,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 697,
+          "mb": 648,
+          "unknown": 203,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 648
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 91954,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 78549,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 469,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 255,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 160,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 4596,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1863,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 5934,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 126,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 91954
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 92699,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viaplaygroup.com/sites/default/files/pr/202403273723-3.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 161,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 974,
+          "mb": 1960,
+          "unknown": 247,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1960
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 74102,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 61153,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 105,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 947,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 82,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 11,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 5239,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1500,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 4894,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 171,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 74102
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 76223,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "50",
+      "groupCode": "5020",
+      "industryCode": "502010",
+      "subIndustryCode": "50201030"
+    }
+  }
+}

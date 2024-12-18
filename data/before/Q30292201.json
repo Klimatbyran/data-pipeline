@@ -1,0 +1,271 @@
+{
+  "wikidataId": "Q30292201",
+  "name": "PowerCell Sweden",
+  "description": "PowerCell utvecklar och producerar bränslecellsstackar och bränslecellssystem för applikationer inom flyg, marin, kraftgenerering, terrängfordon och vägfordon. Produkterna drivs av vätgas och genererar elektricitet och värme med vatten som enda utsläpp.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/0ea8c86a-5984-4b84-bb88-b4a686e134ea/powercell-ar23-swe.pdf",
+      "economy": {
+        "turnover": {
+          "value": 310287000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 151,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 14.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 36.4,
+          "mb": 42.5,
+          "unknown": 35,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 42.5
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 50003.8,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 6088.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 238,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 21.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 466,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 282.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 8.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 42892,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 5.8,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 50003.8
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 50060.8,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/0ea8c86a-5984-4b84-bb88-b4a686e134ea/powercell-ar23-swe.pdf",
+      "economy": {
+        "turnover": {
+          "value": 244691000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 112,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 35,
+          "mb": 36.4,
+          "unknown": 35,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 36.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 394.8,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 28.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 283.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 83.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 394.8
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 433.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/0ea8c86a-5984-4b84-bb88-b4a686e134ea/powercell-ar23-swe.pdf",
+      "economy": {
+        "turnover": {
+          "value": 159757000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 78,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1.4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 35,
+          "mb": 35,
+          "unknown": 35,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 35
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 156.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 27.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 31.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 98,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 156.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 193.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/0ea8c86a-5984-4b84-bb88-b4a686e134ea/powercell-ar23-swe.pdf",
+      "economy": {
+        "turnover": {
+          "value": 103528000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 58,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/0ea8c86a-5984-4b84-bb88-b4a686e134ea/powercell-ar23-swe.pdf",
+      "economy": {
+        "turnover": {
+          "value": 66850000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 58,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

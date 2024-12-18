@@ -1,0 +1,152 @@
+{
+  "wikidataId": "Q267558",
+  "name": "OEM International",
+  "reviewComments": [
+    "Stated Scope 3 missing",
+    "Alex rounding error",
+    "Garbo OK"
+  ],
+  "description": "OEM är en teknikhandelskoncern som erbjuder ett brett sortiment av produkter och system till kunder inom olika branscher. Företaget fungerar som en förlängd arm för leverantörer och fokuserar på att skapa värde genom teknisk kompetens och lokal närvaro.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.oem.se/-/media/oem-international/publications/annual-reports/pdf/oem-arsredovisning-2023-sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5145000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1045,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1045,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 153,
+          "mb": 606,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 606
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4945,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 4945,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4945
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6596,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.oem.se/-/media/oem-international/publications/annual-reports/pdf/oem-arsredovisning-2023-sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4731100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 968,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.oem.se/-/media/oem-international/publications/annual-reports/pdf/oem-arsredovisning-2023-sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3774000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 886,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.oem.se/-/media/oem-international/publications/annual-reports/pdf/oem-arsredovisning-2023-sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3283000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 894,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.oem.se/-/media/oem-international/publications/annual-reports/pdf/oem-arsredovisning-2023-sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3299000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 887,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201070",
+      "subIndustryCode": "20107010"
+    }
+  }
+}

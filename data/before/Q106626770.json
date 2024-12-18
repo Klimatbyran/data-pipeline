@@ -1,0 +1,84 @@
+{
+  "wikidataId": "Q106626770",
+  "name": "ITAB Shop Concept",
+  "description": "ITAB Shop Concept AB utvecklar, tillverkar, säljer och installerar lösningar och tjänster för butiksinredning, teknik och belysning inom detaljhandeln. Företaget verkar i 24 länder med cirka 2 500 anställda och 15 produktionsanläggningar i Europa och Kina.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6139000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2533,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5935,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2000,
+          "mb": 7856,
+          "unknown": 5856,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 7856
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1500,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 1500
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1600,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2200,
+          "mb": 2200,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2200
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1700,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 1700
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2550",
+      "industryCode": "255040",
+      "subIndustryCode": "25504040"
+    }
+  }
+}

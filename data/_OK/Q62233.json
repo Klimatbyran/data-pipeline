@@ -1,0 +1,314 @@
+{
+  "wikidataId": "Q62233",
+  "name": "SBAB",
+  "description": "SBAB är en svensk bank som erbjuder bolån och sparande till privatpersoner samt finansiering till fastighetsbolag och bostadsutvecklare. Banken har en stark inriktning på hållbarhet och arbetar aktivt med att minska sin klimatpåverkan genom att erbjuda gröna bolån och hållbarhetslänkade lån. SBAB var den första banken i Sverige att emittera en grön obligation och har sedan dess fortsatt att vara en ledande aktör inom hållbar finansiering.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sbab.se/download/18.476dd96218dc44a3ffe1c70/1710767496681/SBAB%20%C3%85R%202023_SVE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5367000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 910,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 31.2,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 31.2
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 59462.8,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 390,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 9.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 95.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 22.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 58969,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 59462.8
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 59494,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sbab.se/download/18.3dd4193a1867e1c48471a83/1679601678817/SV%20-%20SBAB_climate_analysis_2022_v4.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 38.7,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 38.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 58274,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 174.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 9.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 89,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 58001,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 58274
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 58313,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 43.7,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 43.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 418,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 355.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 23.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 39.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 418
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 462,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1.4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 54.1,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 54.1
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 546,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 465.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 14.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 66.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 546
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 602,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 12.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 39.6,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 39.6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 482,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 298.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 13,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 169.8,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 482
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 534,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402010",
+      "subIndustryCode": "40201050"
+    }
+  }
+}

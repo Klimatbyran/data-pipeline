@@ -1,0 +1,21 @@
+{
+  "wikidataId": "Q30289762",
+  "name": "BioInvent International",
+  "description": "BioInvent International AB är ett bioteknikföretag som fokuserar på forskning och utveckling av antikroppsbaserade immunterapier för behandling av cancer. Företaget driver flera kliniska program och samarbetar med olika partners för att utveckla och kommersialisera sina teknologier.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.bioinvent.com/sites/bioinvent/files/pr/20240404-4d60a77a-781b-4766-a8ed-8abeeb47ddbc-1.pdf?ts=1712231114",
+      "economy": {
+        "turnover": {
+          "value": 326865000,
+          "currency": "SEK"
+        },
+        "employees": null
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

@@ -1,0 +1,185 @@
+{
+  "wikidataId": "Q5055199",
+  "name": "Cavotec SA",
+  "reviewComments": ["Garbo OK"],
+  "description": "Cavotec designar och levererar anslutnings- och elektrifieringslösningar för hamnar och industriella applikationer. Företaget erbjuder automatiserade förtöjningssystem, landström, motoriserade rullar, kranelektrifiering och laddningslösningar, med installationer i över 80 länder.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 180734000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 664,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 286,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 842,
+          "mb": 842,
+          "unknown": 842,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 842
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 202,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 202,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 202
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 1128,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 1330,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 147849000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 631,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 233,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1025,
+          "mb": 1025,
+          "unknown": 1025,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1025
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 338,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 338,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 338
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 1258,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 1596,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 115794000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 603,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 243,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 976,
+          "mb": 976,
+          "unknown": 976,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 976
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 331,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 331,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 331
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 1219,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 1550,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 115342000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 603,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "wikidataId": "Q4573584",
+  "name": "SkiStar",
+  "reviewComments": [
+    "Ambiguous turnover",
+    "Missing category 6",
+    "Missing biogenic",
+    "Garbo NOT OK"
+  ],
+  "description": "SkiStar bedriver verksamhet inom drift av fjällanläggningar, fastighetsutveckling och exploatering samt hotellverksamhet. Företaget erbjuder alpinskidåkning vintertid och aktiviteter som vandring och cykling sommartid, med fokus på att skapa fjällupplevelser för sina gäster.",
+  "reportingPeriods": [
+    {
+      "startDate": "2022-09-01T00:00:00.000Z",
+      "endDate": "2023-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4304000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1554,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 852,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 49,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 49
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 149566,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 35574,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 29505,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2474,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 123,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1815,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 17,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 266,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 78439,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 729,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 249,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 373,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 149566
+        },
+        "biogenicEmissions": {
+          "total": 6216,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 901,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 150466,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-09-01T00:00:00.000Z",
+      "endDate": "2022-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4092000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1149,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 871,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 131,
+          "mb": 131,
+          "unknown": 52,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 131
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 126272,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 35574,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 29505,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2474,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 123,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1815,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 266,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 78439,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 729,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 249,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 373,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 126272
+        },
+        "biogenicEmissions": {
+          "total": 5287,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 127274,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-09-01T00:00:00.000Z",
+      "endDate": "2021-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2689000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1196,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2021,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 52,
+          "mb": 32,
+          "unknown": 29,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 32
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2222,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 2222
+        },
+        "biogenicEmissions": {
+          "total": 5587,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4274,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-09-01T00:00:00.000Z",
+      "endDate": "2020-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2489,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 29,
+          "mb": 9,
+          "unknown": 20,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4159,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 4159
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6657,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-09-01T00:00:00.000Z",
+      "endDate": "2019-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2498,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20,
+          "mb": 29,
+          "unknown": 15,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 29
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2017-09-01T00:00:00.000Z",
+      "endDate": "2018-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 4160,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 15,
+          "mb": 20,
+          "unknown": 15,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 20
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2016-09-01T00:00:00.000Z",
+      "endDate": "2017-08-31T00:00:00.000Z",
+      "reportURL": "https://cdn.prod.website-files.com/65461f0524928b020fd9b939/65f1c834c4561f6a8d7b1f78_!!!20231115-GNW1000899305-sv-1_compressed.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5989,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 15,
+          "mb": 15,
+          "unknown": 15,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 15
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253010",
+      "subIndustryCode": "25301020"
+    }
+  }
+}

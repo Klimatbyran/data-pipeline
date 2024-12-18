@@ -1,0 +1,234 @@
+{
+  "wikidataId": "Q627577",
+  "name": "VNV Global",
+  "description": "VNV Global AB är ett investeringsbolag som fokuserar på att stödja teknikföretag. Företaget investerar i tidiga skeden och strävar efter att maximera aktieägarvärde genom att identifiera och utveckla företag med potential att lösa betydande globala utmaningar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://sv.vnv.global/netcat_files/44/98/vnv_sustainabilityreport_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 9,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 329.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 28.8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 57.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 6.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 243,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 329.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 329.9,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://sv.vnv.global/netcat_files/44/98/vnv_sustainabilityreport_2023.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 49.2,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 49.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 49.2
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://sv.vnv.global/netcat_files/44/98/vnv_sustainabilityreport_2023.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8.3,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 8.3,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8.3
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://sv.vnv.global/netcat_files/44/98/vnv_sustainabilityreport_2023.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8.6,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 8.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8.6
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://sv.vnv.global/netcat_files/44/98/vnv_sustainabilityreport_2023.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.14,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 53.8,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 53.8,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 53.8
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451020",
+      "subIndustryCode": "45102030"
+    }
+  }
+}

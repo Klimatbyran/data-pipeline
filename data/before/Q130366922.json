@@ -1,0 +1,70 @@
+{
+  "wikidataId": "Q130366922",
+  "name": "CoinShares International Limited",
+  "description": "CoinShares är ett företag som specialiserar sig på investeringar i digitala tillgångar. Företaget erbjuder tjänster inom kapitalförvaltning och kapitalmarknader, med fokus på att utveckla och diversifiera sina produkter inom digitala tillgångar och alternativa investeringar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 43082721,
+          "currency": "GBP"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 51336682,
+          "currency": "GBP"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402030",
+      "subIndustryCode": "40203010"
+    }
+  }
+}

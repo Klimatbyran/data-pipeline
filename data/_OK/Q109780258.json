@@ -1,0 +1,47 @@
+{
+  "wikidataId": "Q109780258",
+  "name": "TF Bank",
+  "description": null,
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://group.tfbank.se/sv/wp-content/uploads/sites/3/2024/03/wkr0006.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1998000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 380,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 534.9,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": {
+          "total": 484,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": null
+}

@@ -1,0 +1,154 @@
+{
+  "wikidataId": "Q106629013",
+  "name": "Calliditas Therapeutics",
+  "description": "Calliditas Therapeutics är ett biopharmaföretag som forskar, utvecklar och kommersialiserar nya terapier för sällsynta sjukdomar. Företagets huvudprodukt, Nefecon, är godkänd för behandling av IgA-nefropati i flera regioner. Calliditas har även en pipeline med NOX-hämmare för inflammatoriska och fibrotiska sjukdomar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1200000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 181,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 802879000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 86,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 15000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 25000,
+          "mb": 20000,
+          "unknown": 5000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 20000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 229347000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 56,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 14000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 24000,
+          "mb": 19000,
+          "unknown": 4000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 19000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 874000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 23,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 184829000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352010",
+      "subIndustryCode": "35201010"
+    }
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "wikidataId": "Q731938",
+  "name": "AstraZeneca",
+  "description": "AstraZeneca är ett globalt, vetenskapsdrivet bioläkemedelsföretag som fokuserar på forskning, utveckling och kommersialisering av receptbelagda läkemedel, främst för behandling av sjukdomar inom områdena onkologi, kardiovaskulära, njur- och metabola sjukdomar samt andningsvägar och immunologi. Företaget har en stark närvaro i över 100 länder och dess innovativa läkemedel används av miljontals patienter världen över.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.se/content/dam/az-se/dokument/hallbarhet/Sustainability-Report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 192505000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 89900,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 180898,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 183332,
+          "mb": 19940,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 19940
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6736878,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4622257,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 81938,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 52634,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 241422,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 19043,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 155443,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 50827,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 30101,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 135689,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 1330844,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 14579,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 2101,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6736878
+        },
+        "biogenicEmissions": {
+          "total": 59750,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 200838,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 6937716,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Sustainability/2023/pdf/Sustainability_Data_Summary_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 237703,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 180403,
+          "mb": 18491,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 18491
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6167415,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4480479,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 76863,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 57975,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 218745,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 18434,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 145814,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 44128,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 25872,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 118800,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 960650,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 13572,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 6082,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6167415
+        },
+        "biogenicEmissions": {
+          "total": 39908,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 256194,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 6423609,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2021/pdf/AstraZeneca_AR_2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 239468,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 189395,
+          "mb": 21135,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 21135
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5925850,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4400747,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 88762,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 51333,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 228675,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 19372,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 83774,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 41293,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 25074,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 129078,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 835337,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 20023,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 2382,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5925850
+        },
+        "biogenicEmissions": {
+          "total": 8919,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 260603,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 6186453,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2020/pdf/AstraZeneca_AR_2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 239459,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 228727,
+          "mb": 32218,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 32218
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5689936,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4005685,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 75914,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 55252,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 218144,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 20204,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 83806,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 37646,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 57628,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 130882,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 978895,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 19933,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 5947,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5689936
+        },
+        "biogenicEmissions": {
+          "total": 10426,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 271676,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 5961613,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2019/pdf/AstraZeneca_AR_2019.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 269647,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 248054,
+          "mb": 138261,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 138261
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5884273,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3637033,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 76941,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 80556,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 248112,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 19661,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 327051,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 46461,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 33058,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 133627,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 1037501,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 16122,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 25072,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5884273
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6292181,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2018/PDF/AstraZeneca_AR_2018.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 272737,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 248984,
+          "mb": 140350,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 140350
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6603075,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 6603075
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 413087,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 7016162,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-reports-homepage/AstraZeneca_AR_2017%20(1).pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 295677,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 248263,
+          "mb": 170851,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 170851
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5855309,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5855309
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6321837,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/Annual-report-2016/AZ_AR2016_Full_Report.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 309685,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 288210,
+          "mb": 218770,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 218770
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5813138,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5813138
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6341593,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2015-01-01T00:00:00.000Z",
+      "endDate": "2015-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 318633,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 285052,
+          "mb": 348664,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 348664
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5681194,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5681194
+        },
+        "biogenicEmissions": {
+          "total": 2822,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6348491,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352020",
+      "subIndustryCode": "35202010"
+    }
+  }
+}

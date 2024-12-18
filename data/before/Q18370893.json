@@ -1,0 +1,243 @@
+{
+  "wikidataId": "Q18370893",
+  "name": "SOS Alarm",
+  "description": "SOS Alarm hanterar larm och samordnar hjälpresurser vid olyckor, kriser och störningar i Sverige. Företaget ansvarar för nödnumret 112 och har en central roll i samhällets krisberedskap. Det erbjuder även tjänster inom trygghet och säkerhet i samverkan med olika aktörer.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13366000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 273,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 64,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 302,
+          "mb": 302,
+          "unknown": 302,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 302
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5043,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4717,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 326,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5043
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5409,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1447614000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1172,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 51,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 303,
+          "mb": 303,
+          "unknown": 303,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 303
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3217,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3059,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 159,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3217
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3571,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1365223000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1164,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 32,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 303,
+          "mb": 303,
+          "unknown": 303,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 303
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2910,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2826,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 83,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2910
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3245,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1312616000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1171,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 49,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 304,
+          "mb": 304,
+          "unknown": 304,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 304
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3540,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3424,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 115,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3540
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3893,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1257394000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1096,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202010",
+      "subIndustryCode": "20201080"
+    }
+  }
+}

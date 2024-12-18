@@ -1,0 +1,98 @@
+{
+  "wikidataId": "Q115167405",
+  "name": "KABE Group",
+  "description": "KABE Group tillverkar och säljer husvagnar, husbilar, pick-up campers och campingtillbehör på den europeiska marknaden. Produkterna marknadsförs under varumärken som KABE, Adria, Coachman, Affinity, KAMA Fritid och S Karosser.",
+  "reportingPeriods": [
+    {
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4084000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4084000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1066,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1016,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3456,
+          "mb": 1111,
+          "unknown": 4567,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1111
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2127,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1207,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3345,
+          "mb": 796,
+          "unknown": 4456,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 796
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2003,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2030",
+      "industryCode": "203040",
+      "subIndustryCode": "20304030"
+    }
+  }
+}

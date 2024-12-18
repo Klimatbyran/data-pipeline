@@ -1,0 +1,85 @@
+{
+  "wikidataId": "Q253423",
+  "reviewComments": ["Wrong turnover", "Wrong currency", "Garbo Wrong"],
+  "name": "Orrön Energy",
+  "description": "Orron Energy AB är ett oberoende, börsnoterat företag inom förnybar energi. Företaget äger och utvecklar tillgångar för energiproduktion i Norden, Storbritannien, Frankrike och Tyskland, med fokus på vindkraft, solenergi och batterilagring.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.orron.com/download/annual-and-sustainability-report-2023/?wpdmdl=43166&refresh=66728f556c5c81718783829/",
+      "economy": {
+        "turnover": {
+          "value": 28000000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 32,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 12,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 93,
+          "mb": 93,
+          "unknown": 93,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 93
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 105,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.orron.com/download/annual-and-sustainability-report-2023/?wpdmdl=43166&refresh=66728f556c5c81718783829/",
+      "economy": {
+        "turnover": {
+          "value": 13400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 262,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "55",
+      "groupCode": "5510",
+      "industryCode": "551050",
+      "subIndustryCode": "55105020"
+    }
+  }
+}

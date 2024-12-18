@@ -1,0 +1,151 @@
+{
+  "wikidataId": "Q60967616",
+  "name": "Fortnox",
+  "description": "Fortnox är ett svenskt företag som erbjuder abonnemangsbaserade och transaktionsbaserade tjänster inom bokföring, fakturering, löneadministration och förmedlingstjänster. Företaget tillhandahåller även utlåningsbaserade tjänster relaterade till finansieringsverksamhet såsom fakturaköp, fakturabelåning och företagslån. Fortnox är känt för sina digitala lösningar som hjälper små och medelstora företag att effektivisera sina administrativa processer.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15293/3947623/2677237.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1642000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 665,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 27,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 27
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2419,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1618,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 245,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 17,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 119,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 317,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 77,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2419
+        },
+        "biogenicEmissions": {
+          "total": 597,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2462,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://a.storyblok.com/f/134143/x/d7e198c5d8/fortnox-ars-och-hallbarhetsredovisning-2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope2": {
+          "lb": null,
+          "mb": 26,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 26
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 344,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 344
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 370,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope2": {
+          "lb": null,
+          "mb": 14,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 14
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1064,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 1064
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1078,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451030",
+      "subIndustryCode": "45103010"
+    }
+  }
+}

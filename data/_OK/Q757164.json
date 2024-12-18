@@ -1,0 +1,267 @@
+{
+  "wikidataId": "Q757164",
+  "name": "Atlas Copco",
+  "description": "Atlas Copco är en världsledande leverantör av hållbara produktivitetslösningar, inklusive innovativa kompressorer, vakuumlösningar och industriell teknik.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.atlascopcogroup.com/content/dam/atlas-copco/group/documents/investors/financial-publications/swedish/20240321-kopia-av-den-officella-arsredovisningen-i-ESEF-format-inkl-hallbarhetsredovisning-och-rapport-om-koncernens-styrning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 173000000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 53000,
+          "unit": "Approx. Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 86000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 142000,
+          "mb": 26000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 26000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 250528000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3764000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 244618000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 1668000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 478000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 250528000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 112000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 250640000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.atlascopcogroup.com/content/dam/atlas-copco/group/documents/investors/financial-publications/english/20230322-annual-report-incl-sustainability-report-and-corporate-governance-report-2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 84000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 140000,
+          "mb": 33000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 33000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 233197000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4250000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 226902000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 1541000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 504000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 233197000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 117000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 233314000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 79000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 56000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 56000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 179393000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 179393000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 135000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 179528000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 75000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 83000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 83000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 172279000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 172279000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 158000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 172437000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 86000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 94000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 94000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 195236000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3276000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 190381000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 10086000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 493000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 195236000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 180000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 195416000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

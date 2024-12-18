@@ -1,0 +1,85 @@
+{
+  "wikidataId": "Q4836728",
+  "name": "BTS Group",
+  "description": "BTS är ett globalt konsultföretag med huvudkontor i Stockholm. Företaget specialiserar sig på strategiutförande, ledarskapsutveckling, försäljning och marknadsföring, bedömning, innovation, affärskunnande, förändring och transformation samt digitala tjänster.",
+  "reviewComments": ["Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://ir.bts.com/static-files/a33c42c7-a264-466e-9e9f-a3c04c610771",
+      "economy": {
+        "turnover": {
+          "value": 2682892000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1152,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1746,
+          "mb": 1746,
+          "unknown": 1746,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1746
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7003,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 7003,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 7003
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8749,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://ir.bts.com/static-files/a33c42c7-a264-466e-9e9f-a3c04c610771",
+      "economy": {
+        "turnover": {
+          "value": 2529634000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1129,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202020"
+    }
+  }
+}

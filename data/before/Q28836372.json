@@ -1,0 +1,286 @@
+{
+  "wikidataId": "Q28836372",
+  "name": "Heba",
+  "description": "Heba utvecklar, äger och förvaltar bostäder och samhällsfastigheter i Stockholmsregionen och Mälardalen. Företaget fokuserar på centrala lägen och erbjuder bostäder för olika livsfaser. Heba har en stark finansiell ställning och arbetar med nyproduktion och renovering av fastigheter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 565700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 46,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1238,
+          "mb": 848,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 848
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5124,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 4338,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 780,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 371,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 76,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 333,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1152,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5124
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5997,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 510000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 47,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1230,
+          "mb": 881,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 881
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 12290,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 9026,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 20,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 16,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 2426,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 88,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 323,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 391,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 12290
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 13176,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 450000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 51,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1395,
+          "mb": 830,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 830
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 14252,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 13281,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 83,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 18,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 356,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 181,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 333,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 14252
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 15091,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 394000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 51,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 388000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 51,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601060",
+      "subIndustryCode": "60106010"
+    }
+  }
+}

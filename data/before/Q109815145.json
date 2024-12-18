@@ -1,0 +1,93 @@
+{
+  "wikidataId": "Q109815145",
+  "name": "Green Landscaping Group",
+  "description": "Green Landscaping Group är verksamt inom grönområdesskötsel och finplanering. Företaget förvärvar lokala företag och integrerar dem i en multinationell koncern, samtidigt som de behåller sin småföretagaranda. Koncernen erbjuder tjänster i flera europeiska länder.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.greenlandscaping.com/files/Main/16824/3952472/ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5831000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2712,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2.45,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.greenlandscaping.com/files/Main/16824/3952472/ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4810000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1343,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2.95,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202010",
+      "subIndustryCode": "20201050"
+    }
+  }
+}

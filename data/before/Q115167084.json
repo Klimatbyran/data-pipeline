@@ -1,0 +1,173 @@
+{
+  "wikidataId": "Q115167084",
+  "name": "CTEK",
+  "description": "CTEK är ett företag som specialiserar sig på utveckling och försäljning av batteriladdare och laddlösningar för elfordon. Företaget erbjuder produkter för både konsument- och professionella marknader, inklusive laddare för elbilar och andra batteridrivna enheter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 898000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 210,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 50,
+          "mb": 36,
+          "unknown": 50,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 36
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 45.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 950100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 201,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 27.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 50,
+          "mb": 36,
+          "unknown": 50,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 36
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 63.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 921800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 12.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 36,
+          "mb": 38,
+          "unknown": 36,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 38
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 50.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 706300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 635400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201040",
+      "subIndustryCode": "20104020"
+    }
+  }
+}

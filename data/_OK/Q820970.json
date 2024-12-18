@@ -1,0 +1,192 @@
+{
+  "wikidataId": "Q820970",
+  "name": "Hexagon",
+  "description": "Hexagon Composites är ett norskt företag som specialiserar sig på tillverkning av kompositcylindrar och andra lågkoldioxidteknologier för transport och industriella applikationer. Företaget är känt för sina innovativa lösningar inom bränslesystem för kommersiella fordon och mobila pipelines. Hexagon Composites arbetar aktivt med att minska klimatpåverkan genom att erbjuda produkter som möjliggör användning av förnybar naturgas och andra hållbara bränslen.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://bynder.hexagon.com/m/58ee0a6a069c9e30/original/2023-Sustainability-Report.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5435200000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 24581,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 15399,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 33323,
+          "mb": 31905,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 31905
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 362351,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 177546,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 29236,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 9598,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 14533,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 566,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 29064,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 24282,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 11267,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 66101,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 158,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 362351
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 409655,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.hexagon.com/~/media/Files/H/Hexagon-IR-V3/Annual%20Reports/annual-report-2022-sw.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 13726,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 38306,
+          "mb": 36800,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 36800
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 350816,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 170401,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 36503,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 12362,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 14257,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 798,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 22054,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 20535,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 10515,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 63234,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 158,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 350816
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 401342,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

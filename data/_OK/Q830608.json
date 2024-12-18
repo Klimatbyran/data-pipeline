@@ -1,0 +1,165 @@
+{
+  "wikidataId": "Q830608",
+  "name": "Elekta",
+  "description": "Elekta är ett svenskt företag som utvecklar och säljer kliniska lösningar för behandling av cancer och hjärnsjukdomar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2022-04-01T00:00:00.000Z",
+      "endDate": "2023-03-31T00:00:00.000Z",
+      "reportURL": "https://ir.elekta.com/files/mfn/55a85860-261b-494b-9197-5b90db7930d5/elekta-annual-report-2022-23-links.pdf",
+      "economy": {
+        "turnover": {
+          "value": 16869000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4587,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 4442,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4744,
+          "mb": 3347,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3347
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 500240,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 261793,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2618,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 17485,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 42,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 14852,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5159,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 198291,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 198,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 500240
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 508029,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://ir.elekta.com/files/mfn/173e70f5-e63c-4076-a8ee-00a1c80a87df/elekta-arsredovisning-2022-23-links.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 5722,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 6206,
+          "mb": 2859,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2859
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 569098,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 291584,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2212,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 17422,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 9810,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 4648,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 243211,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 200,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 569098
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 577679,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

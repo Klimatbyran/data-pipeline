@@ -1,0 +1,142 @@
+{
+  "wikidataId": "Q24882789",
+  "name": "BICO Group",
+  "description": "BICO Group AB erbjuder lösningar inom life science och laboratorieautomation som effektiviserar utvecklingen av nya behandlingar. Företaget kombinerar konventionella teknologier med biologi för att skapa användarvänliga lösningar, med fokus på bioprinting, bioautomation och biovetenskap.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2577000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 955,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.03,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.03,
+          "mb": 0.03,
+          "unknown": 0.03,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.03
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4339.15,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 54.15,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 3417,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 868,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4339.15
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4339.15,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2120800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1159,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1087700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 801,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 416000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 215,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 105500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 95,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352030",
+      "subIndustryCode": "35203010"
+    }
+  }
+}

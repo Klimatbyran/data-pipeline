@@ -1,0 +1,151 @@
+{
+  "wikidataId": "Q10443838",
+  "name": "Catella",
+  "description": "Catella är ett företag med huvudkontor i Stockholm som erbjuder rådgivning, fastighetsfonder och förvaltningsmandat samt genomför egna investeringsprojekt. Verksamheten är indelad i tre affärsområden: Corporate Finance, Investment Management och Principal Investments, med fokus på fastigheter.",
+  "reviewComments": ["Nettoomsättning eller total omsättning?", "Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2300000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 512,
+          "unit": "Heltidsanställda"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 114.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 110.6,
+          "mb": 110.6,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 110.6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 372.4,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 372.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 372.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 597.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1500000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 513,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 102.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 113.7,
+          "mb": 113.7,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 113.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 277,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 277,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 277
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 492.8,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 23.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 17.6,
+          "mb": 17.6,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 17.6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 87.5,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 87.5,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 87.5
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 128.6,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6020",
+      "industryCode": "602010",
+      "subIndustryCode": "60201030"
+    }
+  }
+}

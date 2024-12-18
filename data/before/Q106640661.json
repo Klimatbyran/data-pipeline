@@ -1,0 +1,99 @@
+{
+  "wikidataId": "Q106640661",
+  "name": "Hexatronic Group",
+  "description": "Hexatronic Group erbjuder fiberteknologi och lösningar för kontinuerlig uppkoppling globalt. Företaget samarbetar med kunder som teleoperatörer och nätverksägare över fyra kontinenter, med fokus på fiberlösningar, hårda miljöer, datacenter och trådlösa nätverk.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8150000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1961,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1125,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3.9,
+          "mb": 11953,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 11953
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 289701,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 957,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 957,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 957,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 957,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 957,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 289701
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 302779,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6574000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1430,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4520",
+      "industryCode": "452010",
+      "subIndustryCode": "45201020"
+    }
+  }
+}

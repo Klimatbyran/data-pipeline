@@ -1,0 +1,244 @@
+{
+  "wikidataId": "Q129391",
+  "reviewComments": ["Stated Scope 3 missing"],
+  "name": "Scandic Hotels Group",
+  "description": "Scandic är ett nordiskt hotellföretag som erbjuder boende för både fritids- och affärsresenärer. Företaget driver 267 hotell med 55,642 rum på 130 destinationer i Sverige, Norge, Finland, Danmark, Tyskland och Polen. Scandic är noterat på Nasdaq Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.scandichotelsgroup.com/files/Main/13379/3960811/scandic-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 21935000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 18784,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2655,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 31896.3,
+          "mb": 31883.6,
+          "unknown": 31883.6,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 31883.6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 453.4,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 453.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 453.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 34992,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.scandichotelsgroup.com/files/Main/13379/3960811/scandic-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 19230000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 18805,
+          "unit": "employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3129.8,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 24674.8,
+          "mb": 24674.8,
+          "unknown": 24674.8,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 24674.8
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 302.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 302.9,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 302.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 28107.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.scandichotelsgroup.com/files/Main/13379/3960811/scandic-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 10130000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2603.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 25487.6,
+          "mb": 25487.6,
+          "unknown": 25487.6,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 25487.6
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 83.4,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 83.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 83.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 28174.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.scandichotelsgroup.com/files/Main/13379/3960811/scandic-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7470000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1791.4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 23536.7,
+          "mb": 23536.7,
+          "unknown": 23536.7,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 23536.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 143.7,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 143.7
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 25471.8,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.scandichotelsgroup.com/files/Main/13379/3960811/scandic-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 18956000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2201.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 34955.1,
+          "mb": 34955.1,
+          "unknown": 34955.1,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 34955.1
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 666.61,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 666.61
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 37823.01,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253010",
+      "subIndustryCode": "25301020"
+    }
+  }
+}

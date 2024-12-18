@@ -1,0 +1,149 @@
+{
+  "wikidataId": "Q10457644",
+  "name": "Concentric",
+  "description": "Concentric designar, utvecklar, tillverkar och säljer lösningar för hydraulik och motorapplikationer. Företaget erbjuder produkter som smörj-, kyl- och bränslepumpar samt elektrohydrauliska styrpumpar till OEMs och distributörer inom bygg, industri, jordbruk och transport.",
+  "reviewComments": ["Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4205000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1282,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4056000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1207,
+          "unit": "average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.concentricab.com/content/uploads/2024/04/Concentric_AR2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2115000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1207,
+          "unit": "average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.concentricab.com/content/uploads/2024/04/Concentric_AR2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1502000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1207,
+          "unit": "average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.concentricab.com/content/uploads/2024/04/Concentric_AR2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2012000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1207,
+          "unit": "average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106010"
+    }
+  }
+}

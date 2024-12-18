@@ -1,0 +1,199 @@
+{
+  "wikidataId": "Q49103488",
+  "name": "Norion Bank",
+  "description": "Norion Bank AB är en nordisk bank som erbjuder finansieringslösningar till medelstora företag, fastighetsbolag, handlare och privatpersoner. Verksamheten bedrivs genom varumärkena Norion Bank, Collector och Walley, med fokus på företags- och fastighetskrediter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/efb62178-12b4-4495-a59e-bab99c14964e/norion-bank-ab-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3648000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 343,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 21.8,
+          "mb": 25,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 25
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 901.2,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 901.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 901.2
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 926.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/efb62178-12b4-4495-a59e-bab99c14964e/norion-bank-ab-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3212000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 308,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 17.7,
+          "mb": 52,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 52
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 186.2,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 186.2
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 239.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/efb62178-12b4-4495-a59e-bab99c14964e/norion-bank-ab-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2637000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 301,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.2,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 13,
+          "mb": 32.2,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 32.2
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 97.9,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 97.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 130.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/efb62178-12b4-4495-a59e-bab99c14964e/norion-bank-ab-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2158000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 321,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/efb62178-12b4-4495-a59e-bab99c14964e/norion-bank-ab-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1951000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 321,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4010",
+      "industryCode": "401010",
+      "subIndustryCode": "40101010"
+    }
+  }
+}

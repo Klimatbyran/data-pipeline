@@ -1,0 +1,236 @@
+{
+  "wikidataId": "Q65196792",
+  "name": "Boozt",
+  "description": "Boozt är ett nordiskt varuhus som säljer mode, barnkläder, sport, skönhet och hemprodukter online via sina webbplatser Boozt.com och Booztlet.com. Företaget använder egenutvecklad teknik för att erbjuda ett brett urval av produkter anpassade för olika livsstilar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 7755000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1093,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 133.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 160.5,
+          "mb": 48.3,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 48.3
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 632691,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 541362.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 4453.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 57.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 4692.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 47.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 341.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 545.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 71188.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 10002.1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 632691
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 632872.8,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6743000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1253,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 150.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 147.9,
+          "mb": 42,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 42
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 560524.3,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 441251.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 27234.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 66.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 4896.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 55.8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 136.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 479.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 73842.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 12561.5,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 560524.3
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 5814000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1049,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4359000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 375,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3425000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 337,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2550",
+      "industryCode": "255040",
+      "subIndustryCode": "25504010"
+    }
+  }
+}

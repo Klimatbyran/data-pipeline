@@ -1,0 +1,211 @@
+{
+  "wikidataId": "Q26794821",
+  "name": "Arctic Paper",
+  "description": "Arctic Paper SA är verksamt inom produktion och distribution av pappersprodukter. Företaget tillhandahåller olika typer av papper för tryck och förpackning, med fokus på att möta kundernas behov genom en effektiv leveranskedja och ansvarsfulla affärsmetoder.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3549153000,
+          "currency": "PLN"
+        },
+        "employees": {
+          "value": 1223,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 129085,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 18809,
+          "mb": 18852,
+          "unknown": 9809,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 18852
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 70353.622,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 37356,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 14321,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 70353.622
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 218290.622,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3580000000,
+          "currency": "PLN"
+        },
+        "employees": {
+          "value": 1201,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9982,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 114383,
+          "mb": 18852,
+          "unknown": 114383,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 18852
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 74323,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 53273,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 21050,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 74323
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 70609,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 49668,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 20941,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 70609
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 63864,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 43003,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 20861,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 63864
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 65720,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 43826,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 21894,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 65720
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151050",
+      "subIndustryCode": "15105020"
+    }
+  }
+}

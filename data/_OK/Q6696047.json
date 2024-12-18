@@ -1,0 +1,150 @@
+{
+  "wikidataId": "Q6696047",
+  "name": "Lucara Diamond Corp",
+  "description": "Lucara Diamond Corp. är ett kanadensiskt diamantgruvföretag med huvudkontor i Vancouver. Företaget driver Karowe Diamond Mine i Botswana och genererar intäkter genom försäljning av naturliga diamanter via Lucara Botswana. Försäljningen sker genom auktioner i Gaborone och Antwerpen samt via den digitala plattformen Clara.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://lucaradiamond.com/site/assets/files/63079/240910-luc-sustainability-report-2023-final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 177400000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 583,
+          "unit": "Number"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 20504,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 67600,
+          "mb": 67600,
+          "unknown": 67600,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 67600
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 88104,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 88104,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://lucaradiamond.com/site/assets/files/63079/240910-luc-sustainability-report-2023-final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 203800000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 586,
+          "unit": "Number"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 26662,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 59116,
+          "mb": 59116,
+          "unknown": 59116,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 59116
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 85778.48,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 85778,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://lucaradiamond.com/site/assets/files/63079/240910-luc-sustainability-report-2023-final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 230100000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 558,
+          "unit": "Number"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 75117,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 75117,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 76501,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 76501,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

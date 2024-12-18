@@ -1,0 +1,129 @@
+{
+  "wikidataId": "Q10485218",
+  "name": "Eolus Vind",
+  "reviewComments": ["Economy missing", "PDF not readable?", "Garbo NOT OK"],
+  "description": "Eolus Vind AB utvecklar och förvaltar projekt inom förnybar energi, inklusive land- och havsbaserad vindkraft samt solkraft. Företaget arbetar med energilagringslösningar och har verksamhet i flera länder, däribland Sverige, Finland, Polen och USA.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2301000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 134,
+          "unit": null
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 41.2,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1200,
+          "mb": 35.9,
+          "unknown": 1200,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 35.9
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 173.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 3.8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 113.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 56.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 173.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 251,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 19,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1400,
+          "mb": 10.4,
+          "unknown": 1400,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 10.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 97,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 97
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 126.4,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1500,
+          "mb": 1500,
+          "unknown": 1500,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1500
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "55",
+      "groupCode": "5510",
+      "industryCode": "551050",
+      "subIndustryCode": "55105020"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "wikidataId": "Q110086919",
+  "name": "Garo",
+  "description": "GARO AB tillverkar och distribuerar elektriska installationsprodukter och system för elbilsladdning, solenergi och byggnadsautomation. Företaget riktar sig mot både professionella installatörer och slutkunder inom bygg- och fastighetssektorn.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.garogroup.se/sites/garo-group/files/pr/202404098467-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1369900000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 478,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 690,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 690,
+          "mb": 690,
+          "unknown": 690,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 690
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 690,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 690
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 690,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 690,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.garogroup.se/sites/garo-group/files/pr/202404098467-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1390500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 521,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 250,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 250,
+          "mb": 250,
+          "unknown": 250,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 250
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 690,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 690
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 250,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.garogroup.se/sites/garo-group/files/pr/202404098467-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1295800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 498,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 279,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 279,
+          "mb": 279,
+          "unknown": 279,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 279
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 690,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 690
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 279,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.garogroup.se/sites/garo-group/files/pr/202404098467-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1039800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 412,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 246,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 246,
+          "mb": 246,
+          "unknown": 246,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 246
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 246,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.garogroup.se/sites/garo-group/files/pr/202404098467-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1008100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 421,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 229,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 229,
+          "mb": 229,
+          "unknown": 229,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 229
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 229,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

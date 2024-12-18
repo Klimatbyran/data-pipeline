@@ -1,0 +1,131 @@
+{
+  "wikidataId": "Q10427771",
+  "name": "Beijer Alma",
+  "reviewComments": ["Garbo OK", "Economy null"],
+  "description": "Beijer Alma är en internationell industrikoncern som förvärvar, äger och utvecklar företag i lönsamma nischer med stark tillväxtpotential. Koncernen fokuserar på komponenttillverkning och industriell handel, med kunder inom teknik, fordonsindustri, medicinteknik och infrastruktur.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6882000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2886,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3600,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 8500,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 240000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 240000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 240000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 12000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 252000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 4400,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9900,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 250000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 250000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 250000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 14300,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 254400,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 3800,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 13300,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

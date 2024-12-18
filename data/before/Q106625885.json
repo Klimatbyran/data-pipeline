@@ -1,0 +1,190 @@
+{
+  "wikidataId": "Q106625885",
+  "name": "Genova Property Group",
+  "description": "Genova är ett fastighetsbolag som fokuserar på fastighetsförvaltning och projektutveckling. Företaget hanterar en portfölj av förvaltningsfastigheter med fokus på uthyrning och utveckling av bostäder och kommersiella fastigheter, främst i Stockholms- och Uppsalaregionen.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 503000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 54,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 81.9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1499.7,
+          "mb": 1438,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1438
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 906.7,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 94,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 197.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 67.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 547.3,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 906.7
+        },
+        "biogenicEmissions": {
+          "total": 39.8,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2488.2,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 976,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 259,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 30,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 118,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 30,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 81,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 259
+        },
+        "biogenicEmissions": {
+          "total": 0.3,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1239,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1069.5,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 347.6,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 160.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 46.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 140.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 347.6
+        },
+        "biogenicEmissions": {
+          "total": 0.9,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1417.2,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6020",
+      "industryCode": "602010",
+      "subIndustryCode": "60201020"
+    }
+  }
+}

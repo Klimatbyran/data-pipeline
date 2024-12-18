@@ -1,0 +1,199 @@
+{
+  "wikidataId": "Q1324884",
+  "name": "Elanders",
+  "reviewComments": [
+    "Ambiguous empolees",
+    "Wrong Location Based",
+    "Garbo NOT OK"
+  ],
+  "description": "Elanders är ett globalt logistikföretag som erbjuder integrerade lösningar inom supply chain management. Verksamheten bedrivs genom affärsområdena Supply Chain Solutions och Print & Packaging Solutions, med kunder inom segment som Automotive, Electronics, Fashion, Health Care och Industrial.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13867000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7203,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 25900,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20721,
+          "mb": 10793,
+          "unknown": 8575,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 10793
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 195288,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 42755,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 3395,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 124365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 9680,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 15094,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 195288
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 231981,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 14974000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7245,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 26899,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 21339,
+          "mb": 11358,
+          "unknown": 9250,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 11358
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 219209,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 47981,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 39962,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 138798,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 219209,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 219209
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 257466,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11733000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7203,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11050000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7203,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11254000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7203,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2030",
+      "industryCode": "203010",
+      "subIndustryCode": "20301010"
+    }
+  }
+}

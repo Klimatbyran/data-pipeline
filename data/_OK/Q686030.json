@@ -1,0 +1,207 @@
+{
+  "wikidataId": "Q686030",
+  "name": "Alfa Laval",
+  "description": "Alfa Laval är ett svenskt globalt företag som erbjuder produkter och lösningar inom värmeöverföring, separation och flödeshantering. Företagets verksamhet sträcker sig över tre huvudsegment: energi, mat och vatten samt marina applikationer. Alfa Laval är känt för sin innovation och tekniska expertis, och dess produkter används i många kritiska industrier världen över.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.alfalaval.com/globalassets/documents/investors/english/annual-reports/2023/sustainability-notes-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 63598000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 17210,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 16282,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 50071,
+          "mb": 5082,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5082
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 44554244,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 605623,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 62110,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 17150,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 48308,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2203,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 26443,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2717,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 9662,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 43749138,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 5889,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 44554244
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 44575608,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.alfalaval.com/globalassets/documents/investors/english/annual-reports/2023/annual-report-2022-april-11.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 17855,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 51239,
+          "mb": 6916,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6916
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 46252638,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 46252638
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 46277409,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.alfalaval.com/globalassets/documents/investors/english/annual-reports/2022/alfa-laval-annual-report-2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 20489,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 65315,
+          "mb": 9711,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9711
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 42316690,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 42316690
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 42346890,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 21612,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 65534,
+          "mb": 23027,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 23027
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 41855905,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 41855905
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 41900544,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

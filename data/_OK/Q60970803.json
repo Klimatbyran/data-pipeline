@@ -1,0 +1,259 @@
+{
+  "wikidataId": "Q60970803",
+  "name": "Beijer Ref",
+  "description": "Beijer Ref är en ledande global distributör av kyl- och luftkonditioneringsprodukter. Företaget erbjuder ett brett sortiment av produkter och lösningar inom kylteknik, luftkonditionering och värmepumpar. Beijer Ref arbetar med både kommersiella och industriella kunder och har en stark närvaro på marknader över hela världen.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1860/3953485/2700544.pdf",
+      "economy": {
+        "turnover": {
+          "value": 32150000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6024,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9593,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 6631,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6631
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 10722442,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 204331,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 1,
+              "total": 4070000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 1,
+              "total": 3820000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 4590,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 82725,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 5780,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1309,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1412,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 8438767,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 2474432,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 10722442
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 16224,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 10738666,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.beijerref.com/wp-content/uploads/sites/2/2023/04/Beijer-Ref-Annual-report-and-sustainability-report-2022-1.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 37840,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 7058,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 7058
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 11337155,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 581911,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 10627,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 120855,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 5254,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 233,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 7990,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 8202284,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 2408001,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 11337155
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 11382053,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 6979,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 6789,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6789
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 11377838,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 286224,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 3103,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 163095,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 5452,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 135,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 6630,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 8438767,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 2474432,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 11377838
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 11391606,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402040",
+      "subIndustryCode": "40204010"
+    }
+  }
+}

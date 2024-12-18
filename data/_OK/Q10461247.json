@@ -1,0 +1,24 @@
+{
+  "wikidataId": "Q10461247",
+  "name": "Creades",
+  "description": null,
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.creades.se/media/qlmf5oux/creades_ar_2023_12mars_locked.pdf",
+      "economy": {
+        "turnover": {
+          "value": 9322000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

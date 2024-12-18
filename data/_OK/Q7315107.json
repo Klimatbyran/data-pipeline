@@ -1,0 +1,151 @@
+{
+  "wikidataId": "Q7315107",
+  "name": "RISE",
+  "description": "RISE AB är ett forskningsinstitut som erbjuder tjänster inom forskning, innovation och utveckling. Företaget arbetar med att utveckla lösningar för näringslivet och den offentliga sektorn, med fokus på teknik och vetenskap för att stödja olika industrier och samhällsutmaningar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.ri.se/sites/default/files/2024-04/RISE_Sustainability-2023_EN_WEB.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4212299000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3298,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1035,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2130,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2130
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 51662,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 48014,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 329,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 57,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2809,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 453,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 51662
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 54826,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.ri.se/sites/default/files/2024-04/RISE_Sustainability-2023_EN_WEB.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3993948000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3298,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1017,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2883,
+          "mb": 1786,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1786
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 40654,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 38223,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 266,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 34,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1702,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 429,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 40654
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 43457,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202020"
+    }
+  }
+}

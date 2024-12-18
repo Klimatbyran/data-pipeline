@@ -1,0 +1,122 @@
+{
+  "wikidataId": "Q130367235",
+  "name": "INVISIO",
+  "description": "INVISIO utvecklar och marknadsför avancerade kommunikationssystem för professionella användare i bullriga och kritiska miljöer, med fokus på hörselskydd. Företaget är baserat i Köpenhamn och har försäljningsorganisationer i USA, Frankrike, Storbritannien, Italien och Thailand. Produkterna marknadsförs under varumärkena INVISIO och Racal Acoustics.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1238500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 216,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 25,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 102,
+          "mb": 65,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 65
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 11963,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 9421,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1059,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1489,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 11963
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 12053,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 25,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 104,
+          "mb": 64,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 64
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8188,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 6140,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 901,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1147,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8188
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8277,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201010",
+      "subIndustryCode": "20101010"
+    }
+  }
+}

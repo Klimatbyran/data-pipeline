@@ -1,0 +1,231 @@
+{
+  "wikidataId": "Q25387724",
+  "name": "Bonava",
+  "description": "Bonava är en bostadsutvecklare som förädlar byggbar mark till bostadsområden i Tyskland, Sverige, Finland och Baltikum. Företaget bygger flerbostadshus, småhus och radhus med olika upplåtelseformer och fokuserar på storstadsregioner för långsiktigt värdeskapande.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13300000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1300,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3245,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5860,
+          "mb": 3570,
+          "unknown": 4000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3570
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 355402,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 355402
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 362217,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13987000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1787,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3569,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 6809,
+          "mb": 5052,
+          "unknown": 4900,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5052
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 477171,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 477171
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 485792,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 3086,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 7372,
+          "mb": 6801,
+          "unknown": 6300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6801
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 731520,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 731520
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 741407,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 3209,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 7154,
+          "mb": 6830,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6830
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 711930,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 711930
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 721969,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 4114,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 6555,
+          "mb": 6961,
+          "unknown": 7500,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 6961
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 729019,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 729019
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 740094,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 4996,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 7337,
+          "mb": 8275,
+          "unknown": 9700,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 8275
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 791239,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 791239
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 804510,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151020",
+      "subIndustryCode": "15102010"
+    }
+  }
+}

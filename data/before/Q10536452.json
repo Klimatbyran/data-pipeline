@@ -1,0 +1,115 @@
+{
+  "wikidataId": "Q10536452",
+  "name": "Inwido",
+  "description": "Inwido är en koncern som utvecklar och säljer fönster och dörrlösningar. Företaget består av 34 affärsenheter och har verksamhet i tolv länder, inklusive Sverige, Danmark och Finland. Inwido fokuserar på kundanpassade produkter och har en decentraliserad struktur.",
+  "reviewComments": ["Garbo OK", "Economy missing, fixed"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8970000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4708,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 135,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 135,
+          "mb": 135,
+          "unknown": 135,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 135
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 135,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 135
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 150,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 150,
+          "mb": 150,
+          "unknown": 150,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 150
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 150,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 150
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 123,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 123,
+          "mb": 123,
+          "unknown": 123,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 123
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 123,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 123
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151020",
+      "subIndustryCode": "15102010"
+    }
+  }
+}

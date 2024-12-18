@@ -1,0 +1,179 @@
+{
+  "wikidataId": "Q43895238",
+  "name": "Probi",
+  "description": "Probi är ett företag som specialiserar sig på probiotika. Det grundades 1991 och erbjuder produkter inom maghälsa och immunförsvar. Probi bedriver egen produktion i GMP-certifierade anläggningar och säljer sina produkter på över 40 marknader globalt.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.probi.com/media/tszoyd0c/annual_report-2023_sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 627700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 165,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1200,
+          "mb": 1600,
+          "unknown": 800,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1600
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1498,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1450,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 48,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1498
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.probi.com/media/tszoyd0c/annual_report-2023_sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 618300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 168,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1200,
+          "mb": 1600,
+          "unknown": 800,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1600
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.probi.com/media/tszoyd0c/annual_report-2023_sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 658200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 178,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1200,
+          "mb": 1600,
+          "unknown": 800,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1600
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.probi.com/media/tszoyd0c/annual_report-2023_sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 717200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 170,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1200,
+          "mb": 1600,
+          "unknown": 800,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1600
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.probi.com/media/tszoyd0c/annual_report-2023_sv.pdf",
+      "economy": {
+        "turnover": {
+          "value": 626200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 165,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352010",
+      "subIndustryCode": "35201010"
+    }
+  }
+}

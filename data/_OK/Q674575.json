@@ -1,0 +1,464 @@
+{
+  "wikidataId": "Q674575",
+  "name": "Arla",
+  "description": "Arla är ett bondeägt mejeriföretag som producerar och säljer mejeriprodukter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arla.com/493552/globalassets/arla-global/company---overview/investor/annual-reports/2023/arla_annual-report-2023_se_v2.pdf",
+      "economy": {
+        "turnover": {
+          "value": 13700000000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 22929,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 508000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 192000,
+          "mb": 152000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 152000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18141000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 17642000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 159000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 331000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 9000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18141000
+        },
+        "biogenicEmissions": {
+          "total": 90000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 18801000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arla.com/493299/globalassets/arla-global/company---overview/investor/annual-reports/2022/arla-annual-report-2022_se2.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 477000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 165000,
+          "mb": 218000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 218000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18407000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 17874000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 177000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 346000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 10000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18407000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19102000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arla.com/493351/globalassets/pdf-files/annual-report-2021/arla_konsoliderad_aarsredovisning_2021_se.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 447000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 243000,
+          "mb": 286000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 286000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 19050000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 18554000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 125000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 347000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 24000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 19050000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19783000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arla.com/4939eb/globalassets/arla-global/company---overview/investor/annual-reports/2020/update/se_arla_konsoliderad_aarsredovisning_2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 474000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 237000,
+          "mb": 277000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 277000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18625000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 18174000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 120000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 306000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 25000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18625000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19376000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arla.com/492f51/contentassets/0f03c770e356463aa47c492c96271f6d/arla_konsoliderad_arsredovisning_2019_se.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 463000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 274000,
+          "mb": 399000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 399000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18387000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 17940000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 110000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 312000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 25000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18387000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19289000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 490000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 263000,
+          "mb": 456000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 456000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18553000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 18093000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 108000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 326000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 26000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18553000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19499000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 492000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 313000,
+          "mb": 438000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 438000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18671000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 18195000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 105000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 345000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 26000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18671000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19601000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 474000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 334000,
+          "mb": 466000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 466000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18644000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 18644000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 19584000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2015-01-01T00:00:00.000Z",
+      "endDate": "2015-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 535000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 342000,
+          "mb": null,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 342000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 19802000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 19802000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 20679000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

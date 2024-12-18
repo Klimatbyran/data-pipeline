@@ -1,0 +1,112 @@
+{
+  "wikidataId": "Q11853322",
+  "name": "Attendo",
+  "reivewComments": ["Estimated co2 emissions should be used", "Garbo NOT OK"],
+  "description": "Attendo är ett företag som erbjuder omsorgstjänster för individer med olika behov. Verksamheten omfattar äldreomsorg, funktionsomsorg samt individ- och familjeomsorg i flera nordiska länder. Företaget arbetar med att stödja och stärka människor i deras vardag.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 17287000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 21516,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2400,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 16700,
+          "mb": 49600,
+          "unknown": 49600,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 49600
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 85000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 43000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 85000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 137000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 14496000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 20821,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2250,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 19900,
+          "mb": 35600,
+          "unknown": 35600,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 35600
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 131100,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 46000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 131100
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 168950,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2030",
+      "industryCode": "203040",
+      "subIndustryCode": "20304040"
+    }
+  }
+}

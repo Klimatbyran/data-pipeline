@@ -1,0 +1,76 @@
+{
+  "wikidataId": "Q10501780",
+  "name": "G5 Entertainment",
+  "reviewComments": ["Garbo OK", "Turnover ambiguous", "Alex NOT OK"],
+  "description": "G5 Entertainment AB utvecklar och publicerar free-to-play-spel för smartphones, surfplattor och datorer. Företaget är baserat i Stockholm och har utvecklingskontor i flera länder. Deras spel riktar sig främst till kvinnliga spelare över 35 år och distribueras via olika digitala plattformar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.g5.com/sites/default/files/reports_files/2024-04/wkr0006.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1320000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 872,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.g5.com/sites/default/files/reports_files/2024-04/wkr0006.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1400117000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 961,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "50",
+      "groupCode": "5020",
+      "industryCode": "502020",
+      "subIndustryCode": "50202020"
+    }
+  }
+}

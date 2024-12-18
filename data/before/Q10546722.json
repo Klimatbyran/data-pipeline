@@ -1,0 +1,268 @@
+{
+  "wikidataId": "Q10546722",
+  "name": "Knowit",
+  "description": "Knowit är ett nordiskt konsultbolag som stödjer företag och organisationer i digital transformation. Bolaget erbjuder tjänster inom tech, design, kommunikation och strategi genom affärsområdena Solutions, Experience, Connectivity och Insight. Knowit grundades 1990 och är noterat på Nasdaq Nordic Stockholm.",
+  "reviewComments": [
+    "Garbo OK",
+    "Medelantal anställda har Garbo valt rätt siffra",
+    "Alex NOT OK"
+  ],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 7097400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4265,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.022,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.2,
+          "mb": 0.2,
+          "unknown": 0.2,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.2
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5398,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1438,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1023,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1886,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1233,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 63,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 39,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 498,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 387,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5398
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 910,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 6568,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6833746000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3877,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.021,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.27,
+          "mb": 0.27,
+          "unknown": 0.27,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.27
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5355,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5355
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 1138,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 6700,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4811800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2979,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.0087,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.19,
+          "mb": 0.19,
+          "unknown": 0.19,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.19
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3363,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 3363
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3379100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2213,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.023,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.24,
+          "mb": 0.24,
+          "unknown": 0.24,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.24
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1712,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 1712
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3335100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2213,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.041,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.36,
+          "mb": 0.36,
+          "unknown": 0.36,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.36
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5325,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5325
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451020",
+      "subIndustryCode": "45102010"
+    }
+  }
+}

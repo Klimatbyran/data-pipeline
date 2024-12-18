@@ -1,0 +1,140 @@
+{
+  "wikidataId": "Q115168501",
+  "name": "Africa Oil Corp.",
+  "description": "Africa Oil Corp. är ett företag som bedriver prospektering och produktion av olja och gas. Företaget fokuserar på att utveckla och förvalta sina tillgångar i Afrika, med särskild inriktning på att maximera värdet av sina investeringar inom energisektorn.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 87100000,
+          "currency": "USD"
+        },
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 106578,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2200,
+          "mb": 2200,
+          "unknown": 2200,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2200
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2938000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 253,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 2937388,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2938000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 106582,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3044582,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 117048,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2100,
+          "mb": 2100,
+          "unknown": 2100,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2100
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3100,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 3100
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 117165,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 117165,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 126920,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2000,
+          "mb": 2000,
+          "unknown": 2000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 3000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 126920,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 126920,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "10",
+      "groupCode": "1010",
+      "industryCode": "101020",
+      "subIndustryCode": "10102020"
+    }
+  }
+}

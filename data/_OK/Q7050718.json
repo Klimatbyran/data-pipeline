@@ -1,0 +1,259 @@
+{
+  "wikidataId": "Q7050718",
+  "name": "Nordic Paper Holding AB",
+  "description": "Nordic Paper tillverkar specialpapper, inklusive oblekt kraftpapper och greaseproofpapper. Företaget använder förnyelsebara råvaror i sina produktionsprocesser och levererar till kunder globalt som vidareförädlar papperet till olika produkter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordic-paper.com/sites/default/files/2024-04/2718928.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1305000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 677,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 31000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 84,
+          "mb": 84000,
+          "unknown": 84,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 84000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 62000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 40000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 6000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 16000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 62000
+        },
+        "biogenicEmissions": {
+          "total": 546000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 177000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordic-paper.com/sites/default/files/2024-04/2718928.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4440000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 680,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 32000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 87,
+          "mb": 87000,
+          "unknown": 87,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 87000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 67000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 43,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 18,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 67000
+        },
+        "biogenicEmissions": {
+          "total": 601000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 186000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordic-paper.com/sites/default/files/2024-04/2718928.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3128000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 634,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 39000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 75,
+          "mb": 75000,
+          "unknown": 75,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 75000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 60000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 37,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 17,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 60000
+        },
+        "biogenicEmissions": {
+          "total": 571000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 174000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nordic-paper.com/sites/default/files/2024-04/2718928.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2960000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 632,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 29000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 79,
+          "mb": 79000,
+          "unknown": 79,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 79000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 59000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 36,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 17,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 59000
+        },
+        "biogenicEmissions": {
+          "total": 569000,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 167000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151050",
+      "subIndustryCode": "15105020"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "wikidataId": "Q93559269",
+  "name": "SBB",
+  "description": "SBB, eller Samhällsbyggnadsbolaget i Norden AB, är ett ledande fastighetsbolag i Norden med fokus på samhällsfastigheter och bostäder. Företaget arbetar med att förvärva, utveckla och förvalta fastigheter som bidrar till samhällsnytta, såsom skolor, vårdcentraler och äldreboenden. SBB strävar efter att vara en långsiktig och hållbar aktör inom fastighetssektorn och har en stark betoning på social och miljömässig hållbarhet.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.sbbnorden.se/sv/wp-content/uploads/sites/3/2020/04/sbb-hallbarhetsrapport-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 6667000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 303,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 908,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 17381,
+          "mb": 9468,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9468
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 31719,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 738,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 14213,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1292,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1983,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 942,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 43.02,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 10,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 12500,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 738,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 31719
+        },
+        "biogenicEmissions": {
+          "total": 80,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 42095,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.sbbnorden.se/sv/wp-content/uploads/sites/3/2020/01/hallbarhetsrapport-2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1265,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 19105,
+          "mb": 13748,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 13748
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 35763,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1116,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 17100,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1529,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 2496,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1066,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 35.11,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 14,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 12406,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 35763
+        },
+        "biogenicEmissions": {
+          "total": 85,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 50776,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.sbbnorden.se/sv/wp-content/uploads/sites/3/2020/04/hallbarhetsrapport-2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1348,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 25507,
+          "mb": 16911,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 16911
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 12285,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 120,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 7500,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1178,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 2294,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1169,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 21,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 12285
+        },
+        "biogenicEmissions": {
+          "total": 97,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 30544,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://corporate.sbbnorden.se/sv/wp-content/uploads/sites/3/2020/04/sbb-hallbarhetsrapport-2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1382,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 22075,
+          "mb": 14366,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 14366
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 12097,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 114,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 5491,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1093,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 3079,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2318,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 12097
+        },
+        "biogenicEmissions": {
+          "total": 80,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 27845,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601060",
+      "subIndustryCode": "60106010"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "wikidataId": "Q6060751",
+  "name": "Öresund",
+  "reviewComments": [
+    "Utdelning från investerade bolag är den enda omsättningen som redovisas",
+    "Garbo OK",
+    "Alex NOT OK"
+  ],
+  "description": "Investment AB Öresund är ett investmentbolag som bedriver förvaltningsverksamhet. Bolaget investerar opportunistiskt i nordiska företag där det kan agera som en aktiv och långsiktig ägare för att ge aktieägarna en god långsiktig avkastning.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1772/3950562/2690010.pdf",
+      "economy": {
+        "turnover": {
+          "value": 255571000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1772/3950562/2690010.pdf",
+      "economy": {
+        "turnover": {
+          "value": 103368000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1772/3950562/2690010.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1273000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1772/3950562/2690010.pdf",
+      "economy": {
+        "turnover": {
+          "value": -153000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1772/3950562/2690010.pdf",
+      "economy": {
+        "turnover": {
+          "value": 476000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402010",
+      "subIndustryCode": "40201030"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "wikidataId": "Q975655",
+  "name": "SEB",
+  "description": "SEB är en ledande nordisk finansiell koncern som erbjuder ett brett utbud av finansiella tjänster och produkter till privatpersoner, företag och institutioner. SEB har en stark närvaro i Norden och Baltikum och är engagerad i att stödja sina kunder genom att erbjuda hållbara och innovativa finansiella lösningar. Banken strävar efter att upprätthålla höga standarder för skatteförvaltning, riskhantering och efterlevnad av skattelagstiftningar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://sebgroup.com/siteassets/cision/documents/2024/20240227-seb-publicerar-ars-och-hallbarhetsredovisning-2023-sv-1-3410354-4760762.pdf",
+      "economy": {
+        "turnover": {
+          "value": 80193000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 17851,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 796,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5375,
+          "mb": 777,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 777
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 28411678,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 678,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 620,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 20,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 8904,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 1456,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 28400000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 28411678
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 28413251,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/E102D15B7DB0A57FC125896000491E31/$FILE/arsredovisning_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 862,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1072,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1072
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 30109676,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 790,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 696,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 321,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 6043,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 962,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 28400000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1700000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 30109676
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 30111610,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/1FE8DE1E42ED9E6BC12587F7002AC9CC/$FILE/arsredovisning_2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 121,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3467,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3467
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6020,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 882,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 837,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 344,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1050,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 1999,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6020
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 9608,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 6,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2674,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2674
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 46207346,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1160,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 212,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2471,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 2525,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 46200000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 46207346
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 46210026,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1807,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1807
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 19963,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1361,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 12426,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 4968,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1208,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 19963
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 21774,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4010",
+      "industryCode": "401010",
+      "subIndustryCode": "40101010"
+    }
+  }
+}

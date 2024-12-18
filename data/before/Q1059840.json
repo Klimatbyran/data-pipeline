@@ -1,0 +1,66 @@
+{
+  "wikidataId": "Q1059840",
+  "name": "I.A.R Systems Group",
+  "reviewComments": ["Turnover missing", "Employees missing", "Garbo NOT OK"],
+  "description": "IAR Systems Group AB erbjuder mjukvarulösningar för utveckling och säkerhet av inbyggda system. Företaget stödjer mjukvaruutvecklare globalt med verktyg för att skapa pålitlig kod, främst inom branscher som konsumentelektronik, medicinteknik och fordonsindustri. Huvudkontoret ligger i Uppsala.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 458100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 202,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 150,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 100,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 50,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 150
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451030",
+      "subIndustryCode": "45103020"
+    }
+  }
+}

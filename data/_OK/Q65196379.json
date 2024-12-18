@@ -1,0 +1,255 @@
+{
+  "wikidataId": "Q65196379",
+  "name": "Lifco",
+  "description": "Lifco är en industrikoncern som förvärvar och utvecklar marknadsledande nischföretag inom tre affärsområden: Dental, Demolition & Tools och Systems Solutions. Företaget fokuserar på långsiktig tillväxt och lönsamhet genom att erbjuda sina dotterbolag stöd och resurser för att utvecklas och växa. Lifco har en decentraliserad affärsmodell där varje dotterbolag har stor självständighet att driva sin verksamhet.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://network.s-z.se/app/uploads/sites/16/lifco_annual_report_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 24454000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6899,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 8609,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 7424,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 7424
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 13251,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 3723,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2775,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 6753,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 13251
+        },
+        "biogenicEmissions": {
+          "total": 7565,
+          "unit": "tCO2e"
+        },
+        "scope1And2": {
+          "total": 16033,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 29284,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://lifco.network.s-z.se/app/uploads/sites/16/en_lifco_annualreport_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 7740,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 8615,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 8615
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 12123,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 3782,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1845,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 6495,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 12123
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 16355,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 28477,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 6893,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 8046,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 8046
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 9346,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2553,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 798,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5995,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 9346
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 14939,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 24285,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 5624,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 10946,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 10946
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8086,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 8086
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 16570,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 24656,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 6328,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 10849,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 10849
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 10989,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 10989
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 17177,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 28166,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

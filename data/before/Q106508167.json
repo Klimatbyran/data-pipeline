@@ -1,0 +1,119 @@
+{
+  "wikidataId": "Q106508167",
+  "name": "Momentum Group",
+  "description": "Momentum Group är en börsnoterad företagsgrupp som erbjuder produkter och tjänster inom industri och industriell infrastruktur i Norden. Företaget fokuserar på att utveckla och förvärva företag inom sina expertisområden, med ett aktivt ägande och decentraliserat affärsansvar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.momentum.group/sites/momentum/files/Dokument/Momentum%20Group%20%C3%85rs-och%20h%C3%A5llbarhetsredovisning%202023%20-%20Interaktiv%20PDF.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2298000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 749,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 576.29289,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5506,
+          "mb": 5103,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5103
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 373.6,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 11,
+              "total": 373.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 373.6
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 576.29289,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.momentum.group/sites/momentum/files/Dokument/Momentum%20Group%20%C3%85rs-och%20h%C3%A5llbarhetsredovisning%202023%20-%20Interaktiv%20PDF.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1739000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 528,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 645698.434,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 6157,
+          "mb": 4633,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4633
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.momentum.group/sites/momentum/files/Dokument/Momentum%20Group%20%C3%85rs-och%20h%C3%A5llbarhetsredovisning%202023%20-%20Interaktiv%20PDF.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 548452.03,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5065,
+          "mb": 2246,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2246
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201070",
+      "subIndustryCode": "20107010"
+    }
+  }
+}

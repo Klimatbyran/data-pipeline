@@ -1,0 +1,24 @@
+{
+  "wikidataId": "Q52912",
+  "name": "SJ",
+  "description": "SJ är ett svenskt transportföretag som erbjuder persontrafik med tåg. Företaget driver både fjärr- och pendeltågstrafik i egen regi och i samarbete med andra aktörer. SJ:s verksamhet omfattar även upphandling av trafikavtal och investeringar i tåg och personal.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sj.se/content/dam/externt/dokument/finansiell-info/sjab-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 10549000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4336,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

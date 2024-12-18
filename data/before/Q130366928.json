@@ -1,0 +1,132 @@
+{
+  "wikidataId": "Q130366928",
+  "name": "Ependion",
+  "description": "Ependion AB är en global teknikgrupp som levererar digitala lösningar för säker kontroll, visualisering och datakommunikation för industriella applikationer i miljöer där tillförlitlighet och hög kvalitet är avgörande faktorer.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2470647000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 869,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 127,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 645,
+          "mb": 645,
+          "unknown": 645,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 645
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 772,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2128386000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 827,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 98,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 581,
+          "mb": 581,
+          "unknown": 581,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 581
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 679,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 67,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 517,
+          "mb": 517,
+          "unknown": 517,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 517
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 584,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201040",
+      "subIndustryCode": "20104010"
+    }
+  }
+}

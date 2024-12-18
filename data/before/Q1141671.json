@@ -1,0 +1,217 @@
+{
+  "wikidataId": "Q1141671",
+  "name": "Dustin Group",
+  "reviewComments": ["Garbo can not add scope categories", "Garbo OK"],
+  "description": "Dustin Group AB är ett svenskt företag som erbjuder IT-lösningar och tjänster. Företaget säljer produkter online och genom relationsförsäljning, riktat mot små och medelstora företag, stora företag samt offentlig sektor. Dustin har sitt huvudkontor i Nacka Strand, Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2022-09-01T00:00:00.000Z",
+      "endDate": "2023-08-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 23577000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2343,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 501,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 200100,
+          "mb": 597,
+          "unknown": 400300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 597
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1310544,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1039990,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 11288,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 823,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 1345,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 763,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 256335,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1310544
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1311642,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-09-01T00:00:00.000Z",
+      "endDate": "2022-08-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 238,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 200100,
+          "mb": 486,
+          "unknown": 400300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 486
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1432955,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1132000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 11000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 289,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 1280,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1326,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 287000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1432955
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1433679,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-09-01T00:00:00.000Z",
+      "endDate": "2021-08-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 151,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 200100,
+          "mb": 136,
+          "unknown": 400300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 136
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 969160,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 765000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 8000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 10,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 332,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1797,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 194000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 969160
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 969443,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4520",
+      "industryCode": "452030",
+      "subIndustryCode": "45203030"
+    }
+  }
+}

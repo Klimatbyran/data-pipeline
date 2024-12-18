@@ -1,0 +1,277 @@
+{
+  "wikidataId": "Q109790098",
+  "name": "Nederman",
+  "description": "Nederman är ett företag som specialiserar sig på industriell luftrening. Företaget erbjuder lösningar för att skydda människor, miljö och produktion genom digitalisering och tjänstefiering. Verksamheten omfattar flera divisioner med fokus på process- och filtreringsteknik.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1732/3946439/2671937.pdf",
+      "economy": {
+        "turnover": {
+          "value": 6188000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2377,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 783,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2119,
+          "mb": 2119,
+          "unknown": 2119,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2119
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 764,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 764,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 764,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 764
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 2902,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3666,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1732/3946439/2671937.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5179000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2444,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 745,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2152,
+          "mb": 2152,
+          "unknown": 2152,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2152
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 804,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 804,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 804,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 804
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 2897,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3701,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1732/3946439/2671937.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1197,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3761,
+          "mb": 3761,
+          "unknown": 3761,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3761
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1020,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 1020,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1020,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1020
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 4958,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 5978,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1732/3946439/2671937.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 908,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4297,
+          "mb": 4297,
+          "unknown": 4297,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4297
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8907,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 8907,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 8907,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8907
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 5205,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 14112,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1732/3946439/2671937.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 810,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 5023,
+          "mb": 5023,
+          "unknown": 5023,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5023
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8186,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 8186,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 8186,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8186
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 5833,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 14019,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

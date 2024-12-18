@@ -1,0 +1,415 @@
+{
+  "wikidataId": "Q10674550",
+  "name": "Specialfastigheter",
+  "reviewComments": ["Facit wrong?", "Garbo OK", "Alex NOT OK"],
+  "description": "Specialfastigheter Sverige AB äger, utvecklar och förvaltar säkerhetsfastigheter i Sverige. Företaget fokuserar på kunder med särskilda säkerhetskrav och bedriver verksamheten på affärsmässig grund för att generera marknadsmässig avkastning genom hyressättning som beaktar verksamhetens risk.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.specialfastigheter.se/download/18.217077ed18df2ab7477ca6e/1710323162813/Specialfastigheter_Arsredovisning2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 124800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1409,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 141,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9094,
+          "mb": 2439,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2439
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 29870,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 25256,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2186,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1152,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 946,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 330,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 141,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 29870
+        },
+        "biogenicEmissions": {
+          "total": 15,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 32450,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.specialfastigheter.se/download/18.217077ed18df2ab7477ca6e/1710323162813/Specialfastigheter_Arsredovisning2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2430000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 207,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 218,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 10363,
+          "mb": 2179,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2179
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2946,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2466,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 213,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 113,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 92,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 62,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 218,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2946
+        },
+        "biogenicEmissions": {
+          "total": 35,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5343,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.specialfastigheter.se/download/18.217077ed18df2ab7477ca6e/1710323162813/Specialfastigheter_Arsredovisning2023.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 206,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9094,
+          "mb": 2414,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2414
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3495,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2938,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 256,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 148,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 111,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 42,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 126,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3495
+        },
+        "biogenicEmissions": {
+          "total": 45,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6115,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.specialfastigheter.se/download/18.3f96527c178d05b35bf289f/1619515679368/Arsredovisning_2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 160.6,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3101.1,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3101.1
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8111,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 6810,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 594,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 432,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 257,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 17.9,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8111
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 11355,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 921.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3609.5,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3609.5
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3298,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2678,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 234,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 134,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 101,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 150.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3298
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7829,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1035.8,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3432.5,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3432.5
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5101,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4231,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 333,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 123,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 222,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 191.7,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5101
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 9569,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601010",
+      "subIndustryCode": "60101010"
+    }
+  }
+}

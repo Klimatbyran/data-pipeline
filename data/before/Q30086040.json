@@ -1,0 +1,171 @@
+{
+  "wikidataId": "Q30086040",
+  "name": "Karnov Group",
+  "description": "Karnov Group tillhandahåller kritiska kunskaps- och arbetsflödeslösningar för juridiska, skatte- och redovisnings- samt miljö- och hälsoskyddsprofessionella i Europa. Företaget erbjuder digitala tjänster, tryckta böcker och juridiska utbildningar, med kunder inom advokatbyråer, företag och offentlig sektor.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2474600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1226,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 401,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2223,
+          "mb": 135,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 135
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1495,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 521,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 336,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 638,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1495
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2031,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0.4,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 473,
+          "mb": 54,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 54
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 443,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 229,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 39,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 175,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 443
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 497,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 247,
+          "mb": 57,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 57
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 218,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 154,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 19,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 45,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 218
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 275,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202020"
+    }
+  }
+}

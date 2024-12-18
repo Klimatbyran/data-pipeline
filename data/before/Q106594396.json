@@ -1,0 +1,220 @@
+{
+  "wikidataId": "Q106594396",
+  "name": "Trianon",
+  "description": "Fastighets AB Trianon är ett publikt bolag baserat i Malmö som äger, förvaltar och utvecklar fastigheter. Företaget fokuserar på bostäder och kommersiella fastigheter, med verksamhet som inkluderar uthyrning, nyproduktion och fastighetsförvaltning.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15948/3950051/2688912.pdf",
+      "economy": {
+        "turnover": {
+          "value": 733000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 90,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 35.9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3955.9,
+          "mb": 3955.9,
+          "unknown": 3955.9,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3955.9
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6.2,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 6.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6.2
+        },
+        "biogenicEmissions": {
+          "total": 0.3,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3998,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15948/3950051/2688912.pdf",
+      "economy": {
+        "turnover": {
+          "value": 688300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 93,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 35.7,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3960.2,
+          "mb": 3960.2,
+          "unknown": 3960.2,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3960.2
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5.7,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 5.7,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5.7
+        },
+        "biogenicEmissions": {
+          "total": 0.5,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4001.6,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15948/3950051/2688912.pdf",
+      "economy": {
+        "turnover": {
+          "value": 618100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 90,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 33.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4179.1,
+          "mb": 0,
+          "unknown": 4179.1,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 2.9,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2.9
+        },
+        "biogenicEmissions": {
+          "total": 0.3,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15948/3950051/2688912.pdf",
+      "economy": {
+        "turnover": {
+          "value": 553200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 82,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 31.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3871.5,
+          "mb": 0,
+          "unknown": 3871.5,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": {
+          "total": 0.1,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/15948/3950051/2688912.pdf",
+      "economy": {
+        "turnover": {
+          "value": 446400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 69,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6020",
+      "industryCode": "602010",
+      "subIndustryCode": "60201020"
+    }
+  }
+}

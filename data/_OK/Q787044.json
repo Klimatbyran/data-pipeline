@@ -1,0 +1,246 @@
+{
+  "wikidataId": "Q787044",
+  "name": "Autoliv",
+  "description": "Autoliv är en global ledare inom bilsäkerhet, som utvecklar, tillverkar och säljer säkerhetssystem för fordon. Företaget är känt för sina innovativa lösningar inom krockkuddar, säkerhetsbälten och rattar. Autoliv arbetar för att förbättra trafiksäkerheten och minska antalet trafikolyckor och skador genom sina avancerade säkerhetsprodukter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.autoliv.com/sites/autoliv/files/2024-02/Autoliv_Annual_Sustainability_Report_10K_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 10475000000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 62900,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 95000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 306000,
+          "mb": 263000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 263000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3770000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3070000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 460000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 240000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3770000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4128000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.autoliv.com/sites/autoliv/files/pr/Annual_Sustainability_Report_2022.pdf?ts=1682669087",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 102000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 316000,
+          "mb": 328000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 328000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3700000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3000000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 510000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 190000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3700000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4130000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.autoliv.com/sites/autoliv/files/pr/202202227484-1.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 103000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 291000,
+          "mb": 331000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 331000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 434000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.autoliv.com/sites/autoliv/files/pr/Autoliv_Sustainability_Report_2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 98000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 268000,
+          "mb": 313000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 313000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 411000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 107000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 280000,
+          "mb": 326000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 326000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 433000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 110507,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 299158,
+          "mb": null,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 299158
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3400000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2720000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 450000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 230000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3400000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3809665,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2510",
+      "industryCode": "251010",
+      "subIndustryCode": "25101010"
+    }
+  }
+}

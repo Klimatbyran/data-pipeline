@@ -1,0 +1,233 @@
+{
+  "wikidataId": "Q891345",
+  "name": "Boliden",
+  "description": "Boliden är ett metallföretag med verksamhet inom gruvor, smältverk och återvinning av metaller. Företaget spelar en viktig roll i samhällens råvaruförsörjning genom att producera och förädla bas- och ädelmetaller som zink, koppar, bly, nickel, guld och silver. Bolidens verksamhet är också fokuserad på att minimera miljöpåverkan och förbättra produktiviteten genom teknisk spetskompetens.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.boliden.com/sites/boliden-ir/files/pr/202403050636-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 101957000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5664,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 628000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 215000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 215000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 842000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 842000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.boliden.com/sites/boliden-ir/files/pr/202303076677-1.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 629000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 286000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 286000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 915000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 915000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 625000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 375000,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 375000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2814000,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 2814000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 999000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3813000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 544000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 897000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 544000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 598000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 917000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 917000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 644000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 971000,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 971000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 605000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1024000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 594000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1052000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2015-01-01T00:00:00.000Z",
+      "endDate": "2015-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 559000,
+          "unit": "tCO2e"
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 889000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151040",
+      "subIndustryCode": "15104020"
+    }
+  }
+}

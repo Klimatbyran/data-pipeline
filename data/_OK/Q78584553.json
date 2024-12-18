@@ -1,0 +1,132 @@
+{
+  "wikidataId": "Q78584553",
+  "name": "Volati",
+  "description": "Volati är en svensk industrikoncern som äger och utvecklar medelstora företag. Koncernen består av affärsområdena Salix Group, Ettiketto Group och Industry, med verksamhet i 22 länder och cirka 2 000 anställda. Volati är noterat på Nasdaq Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.volati.se/backnet/media_archive/original/5a794f3644054467dfc46e4a566d57dc.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7796000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1942,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2920,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2830,
+          "mb": 2830,
+          "unknown": 2830,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2830
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5750,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5750
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 5750,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 5750,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.volati.se/backnet/media_archive/original/5a794f3644054467dfc46e4a566d57dc.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7751000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1901,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2920,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2830,
+          "mb": 2830,
+          "unknown": 2830,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2830
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6386,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 6386
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.volati.se/backnet/media_archive/original/5a794f3644054467dfc46e4a566d57dc.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2920,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2830,
+          "mb": 2830,
+          "unknown": 2830,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2830
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7250,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 7250
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

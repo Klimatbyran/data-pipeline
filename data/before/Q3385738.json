@@ -1,0 +1,205 @@
+{
+  "wikidataId": "Q3385738",
+  "name": "Alimak Group",
+  "description": "Alimak Group utvecklar och tillhandahåller lösningar för vertikal transport, inklusive hissar och plattformar, för bygg- och industrisektorer. Företaget fokuserar på säkerhet och effektivitet i arbete på höjd och erbjuder produkter och tjänster för att lyfta människor och material.",
+  "reviewComments": ["Garbo OK"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 7097000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 500,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0.76,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.33,
+          "mb": 0.33,
+          "unknown": 0.33,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.33
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1.53,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 0.44,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1.53
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0.79,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.45,
+          "mb": 0.45,
+          "unknown": 0.45,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.45
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1.65,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 0.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1.65
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0.98,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.62,
+          "mb": 0.62,
+          "unknown": 0.62,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.62
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2.05,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 0.46,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2.05
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0.9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.65,
+          "mb": 0.65,
+          "unknown": 0.65,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.65
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1.98,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 0.43,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1.98
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 1.07,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.64,
+          "mb": 0.64,
+          "unknown": 0.64,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.64
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2.35,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 0.64,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2.35
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106010"
+    }
+  }
+}

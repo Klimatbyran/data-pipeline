@@ -1,0 +1,382 @@
+{
+  "wikidataId": "Q792486",
+  "name": "Axfood",
+  "description": "Axfood är en av Sveriges ledande dagligvaruhandelskoncerner med verksamheter som Willys, Hemköp, Eurocash och Snabbgross. Företaget fokuserar på att erbjuda prisvärda och hållbara livsmedel till sina kunder genom både fysiska butiker och e-handel.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2023/axfood-ars--och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 81100000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 13181,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 12225,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20857,
+          "mb": 2195,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2195
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2705502,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2266,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 28101,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1135,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 554,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 2673447,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2705502
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2719922,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2022/axfood-ars--och-hallbarhetsredovisning-2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 13042,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20073,
+          "mb": 2905,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2905
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2526709,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2979,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 24787,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 461,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 397,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 2498085,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 2526709
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2542656,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2021/axfood-ars--och-hallbarhetsredovisning-2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 14126,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20719,
+          "mb": 2833,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2833
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 24548,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2939,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 21007,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 477,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 125,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 24548
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 41507,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2020/axfood-ars--och-hallbarhetsredovisning-2020.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 15568,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 16087,
+          "mb": 2483,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2483
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 21702,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2695,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 18299,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 473,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 236,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 21702
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 39753,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2019/axfood-ars--och-hallbarhetsredovisning-2019.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 16721,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 17021,
+          "mb": 1817,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1817
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18763,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 2387,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 15194,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 452,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 730,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18763
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 37301,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/investerare/rapporter-och-presentationer/2018/axfood_arsredovisning_2018.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 17406,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 4016,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4016
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 773,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 773,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 773
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 22195,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": "https://www.axfood.se/globalassets/startsida/hallbarhet/publikationer-och-rapporter/axfood_har_172.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 11180,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 4170,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 4170
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 658,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 658,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 658
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 16008,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "30",
+      "groupCode": "3010",
+      "industryCode": "301010",
+      "subIndustryCode": "30101030"
+    }
+  }
+}

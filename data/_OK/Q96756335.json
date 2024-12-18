@@ -1,0 +1,191 @@
+{
+  "wikidataId": "Q96756335",
+  "name": "BHG Group",
+  "description": "BHG Group AB är ett av de största e-handelsföretagen i Norden, med verksamhet även i Europa och utvalda marknader utanför Europa. Företaget erbjuder ett brett sortiment av produkter inom gör-det-själv, möbler, heminredning och fritidsprodukter under varumärken som Bygghemma, Nordic Nest och Trademax.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11811000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1994,
+          "unit": "totalt antal"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2896,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 281,
+          "mb": 1888,
+          "unknown": 1888,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1888
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 17964,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 17964,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 17964
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 22748,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13433600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2759,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3602,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 650,
+          "mb": 2456,
+          "unknown": 2456,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2456
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 22823,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 22829,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 22823
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 28887,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 12666000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2693,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 537,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 991,
+          "mb": 991,
+          "unknown": 991,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 991
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 16825,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 16825,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 16825
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 18354,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8968200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2693,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 6212500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2693,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2550",
+      "industryCode": "255040",
+      "subIndustryCode": "25504030"
+    }
+  }
+}

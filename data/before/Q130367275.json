@@ -1,0 +1,243 @@
+{
+  "wikidataId": "Q130367275",
+  "name": "Revolutionrace",
+  "description": "RevolutionRace designar och säljer slitstarka och multifunktionella outdoorprodukter. Företaget fokuserar på att erbjuda kläder och utrustning för friluftsliv, med målet att göra naturen tillgänglig för alla. Produkterna är avsedda att användas ofta och under lång tid.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://downloads.ctfassets.net/xt8hqjvv7b01/7jRFvpaX9zN3rwuTljYWQq/6a7bb9bc239ccc39d88c8a4e6cd14203/rvrc_hallbarhetsredovisning-2022-23.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1560000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 134,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 13736,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 12175,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 207,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1204,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 150,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 13736
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 13742,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-07-01T00:00:00.000Z",
+      "endDate": "2022-06-30T00:00:00.000Z",
+      "reportURL": "https://downloads.ctfassets.net/xt8hqjvv7b01/7jRFvpaX9zN3rwuTljYWQq/6a7bb9bc239ccc39d88c8a4e6cd14203/rvrc_hallbarhetsredovisning-2022-23.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1560000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 3,
+          "unknown": 3,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 23153,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 12175,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 207,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1204,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 150,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 23153
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 23159,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-07-01T00:00:00.000Z",
+      "endDate": "2021-06-30T00:00:00.000Z",
+      "reportURL": "https://downloads.ctfassets.net/xt8hqjvv7b01/7jRFvpaX9zN3rwuTljYWQq/6a7bb9bc239ccc39d88c8a4e6cd14203/rvrc_hallbarhetsredovisning-2022-23.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1332000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 3,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 23153,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 20201,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 1543,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 45,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 23153
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-07-01T00:00:00.000Z",
+      "endDate": "2020-06-30T00:00:00.000Z",
+      "reportURL": "https://downloads.ctfassets.net/xt8hqjvv7b01/7jRFvpaX9zN3rwuTljYWQq/6a7bb9bc239ccc39d88c8a4e6cd14203/rvrc_hallbarhetsredovisning-2022-23.pdf",
+      "economy": {
+        "turnover": {
+          "value": 897000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2018-07-01T00:00:00.000Z",
+      "endDate": "2019-06-30T00:00:00.000Z",
+      "reportURL": "https://downloads.ctfassets.net/xt8hqjvv7b01/7jRFvpaX9zN3rwuTljYWQq/6a7bb9bc239ccc39d88c8a4e6cd14203/rvrc_hallbarhetsredovisning-2022-23.pdf",
+      "economy": {
+        "turnover": {
+          "value": 387000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2520",
+      "industryCode": "252030",
+      "subIndustryCode": "25203010"
+    }
+  }
+}

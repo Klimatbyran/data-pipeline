@@ -1,0 +1,207 @@
+{
+  "wikidataId": "Q1341066",
+  "name": "Enea",
+  "reviewComments": ["Ambiguous turnover", "Garbo OK"],
+  "description": "Enea utvecklar och levererar lösningar för att förbättra säkerhet, prestanda och intelligens i kommunikation. Företaget erbjuder brandväggar, trafikklassificeringsprodukter och skydd för mobil- och Wi-Fi-nätverk. Kunderna inkluderar över 100 leverantörer av kommunikationstjänster globalt.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 934500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 488,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 71,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 361,
+          "mb": 361,
+          "unknown": 361,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 361
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 547,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 547,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 547,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 547
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 976,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 927700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 619,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 24,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 389,
+          "mb": 389,
+          "unknown": 389,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 389
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 646,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 646,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 646,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 646
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1058,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 863200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 504,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 10,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 170,
+          "mb": 170,
+          "unknown": 170,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 170
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 619,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 619,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 619,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 619
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 799,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 780600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 403,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 846200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 389,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451030",
+      "subIndustryCode": "45103020"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "wikidataId": "Q106580668",
+  "name": "Bufab",
+  "description": "Bufab är en global leverantör av C-parts och tekniska komponenter. Företaget hanterar hela processen från inköp till kvalitet och leveranssäkerhet, vilket möjliggör för kunder att fokusera på sin kärnverksamhet.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8680000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1800,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2132,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1652,
+          "mb": 1189,
+          "unknown": 106,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1189
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 841084,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 841084,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 841084
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 844405,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8431000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1764,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1968,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1562,
+          "mb": 1860,
+          "unknown": 106,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1860
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 974111,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 974111,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 974111
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 2197,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2173,
+          "mb": 2198,
+          "unknown": 106,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2198
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1264678,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1264678,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1264678
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201070",
+      "subIndustryCode": "20107010"
+    }
+  }
+}

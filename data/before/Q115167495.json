@@ -1,0 +1,162 @@
+{
+  "wikidataId": "Q115167495",
+  "name": "Eastnine",
+  "description": "Eastnine är ett fastighetsbolag som fokuserar på förvaltning och utveckling av kommersiella fastigheter i Baltikum. Bolaget arbetar med att förbättra fastigheternas energiprestanda och erbjuder moderna kontorslokaler för hyresgäster.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 36200000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 21.4,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 484,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 6736,
+          "mb": 3363,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3363
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3996,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 2715,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 110,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 787,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 141,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 21,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 222,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 222,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 110,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3996
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7843,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 259,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 7249,
+          "mb": 3836,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3836
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4495,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1973,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 897,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 180,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 26,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 234,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 3157,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4495
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 10563,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6020",
+      "industryCode": "602010",
+      "subIndustryCode": "60201020"
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "wikidataId": "Q10657333",
+  "name": "Rottneros",
+  "reviewComments": [
+    "Emissions wrong from Facit. Scope 1 should be 8972 tCO2",
+    "Dubbelton?",
+    "Garbo NOT OK",
+    "Alex NOT OK"
+  ],
+  "description": "Rottneros AB utvecklar och producerar kemisk och mekanisk marknadsmassa för nischmarknader i Europa, Asien och Nordamerika. Företaget fokuserar på massa för kartonger, förpackningar, filter och elektrotekniska isolationsmaterial. Produktionen sker vid Vallviks och Rottneros bruk.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rottneros.com/files/Main/15260/3937242/rottneros-ab--arsredovisning-2023-for-publicering.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2755000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 293,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 99,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 99
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 88,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 88
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 108,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.rottneros.com/files/Main/15260/3937242/rottneros-ab--arsredovisning-2023-for-publicering.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2980000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 293,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 114,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 114
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 123,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 12,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 108,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 108
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 120,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 13,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 101,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 101
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 114,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 19,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 75,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 75
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 94,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151050",
+      "subIndustryCode": "15105020"
+    }
+  }
+}

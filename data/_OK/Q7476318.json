@@ -1,0 +1,272 @@
+{
+  "wikidataId": "Q7476318",
+  "name": "Teracom",
+  "description": "Teracom Group är en statligt ägd koncern som levererar säkra kommunikationstjänster över en robust infrastruktur till samhällsviktiga aktörer i Sverige. Företaget erbjuder datakommunikationstjänster, utsändning av tv och radio samt drift av kommunikationssystemet Rakel.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1367000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 475,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1225,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 45,
+          "mb": 45,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 45
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 297,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 70,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 27,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 200,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 297
+        },
+        "biogenicEmissions": {
+          "total": 363,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1567,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1341000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 480,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2139,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 43,
+          "mb": 43,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 43
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 225,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 81,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 27,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 117,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 225
+        },
+        "biogenicEmissions": {
+          "total": 1071,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2406,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1329000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 487,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1400,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 40,
+          "mb": 40,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 40
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 206,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 88,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 15,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 103,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 206
+        },
+        "biogenicEmissions": {
+          "total": 22,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1646,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1355000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 467,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1581,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 25,
+          "mb": null,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 25
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 224,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 97,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 126,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 224
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1805,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1379000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 473,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "50",
+      "groupCode": "5010",
+      "industryCode": "501010",
+      "subIndustryCode": "50101020"
+    }
+  }
+}

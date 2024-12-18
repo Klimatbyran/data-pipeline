@@ -1,0 +1,230 @@
+{
+  "wikidataId": "Q1657823",
+  "name": "Nobia",
+  "reviewComments": [
+    "Garbo OK",
+    "Alex NOT OK",
+    "Wrongly used last years data for employees"
+  ],
+  "description": "Nobia designar, tillverkar och säljer kök genom flera lokala varumärken i Norden och Storbritannien. Verksamheten omfattar hela värdekedjan från design till installation, med fokus på funktionella och estetiskt tilltalande kökslösningar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nobia.com/globalassets/documents/reports/2023/nobia-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 13373000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6244,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 7108,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9033,
+          "mb": 816,
+          "unknown": 5051,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 816
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 421181,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 211264,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 209917,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 421181
+        },
+        "biogenicEmissions": {
+          "total": 5051,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 429105,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nobia.com/globalassets/documents/reports/2023/nobia-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 19429000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6244,
+          "unit": "average number of employees during the year"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 8287,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9834,
+          "mb": 640,
+          "unknown": 5502,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 640
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 485548,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 243379,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 242169,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 485548
+        },
+        "biogenicEmissions": {
+          "total": 5502,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 494475,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nobia.com/globalassets/documents/reports/2023/nobia-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 13719000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6041,
+          "unit": "average number of employees during the year"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 9978,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9635,
+          "mb": 780,
+          "unknown": 9484,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 780
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 345536,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 220339,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 125197,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 345536
+        },
+        "biogenicEmissions": {
+          "total": 4948,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 356294,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nobia.com/globalassets/documents/reports/2023/nobia-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 12741000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5977,
+          "unit": "average number of employees during the year"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.nobia.com/globalassets/documents/reports/2023/nobia-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 13930000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6161,
+          "unit": "average number of employees during the year"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2520",
+      "industryCode": "252010",
+      "subIndustryCode": "25201030"
+    }
+  }
+}

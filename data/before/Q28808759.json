@@ -1,0 +1,82 @@
+{
+  "wikidataId": "Q28808759",
+  "name": "CTT Systems",
+  "description": "CTT Systems AB utvecklar, tillverkar och underhåller system för aktiv reglering av luftfuktighet i flygplan. Företaget erbjuder två produktgrupper: luftfuktare och avfuktare, med syfte att förbättra passagerarkomfort och minska kondensationsproblem.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 309000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 80,
+          "unit": null
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 8,
+          "unknown": 7,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 8
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 7,
+          "unknown": 7,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 7
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201010",
+      "subIndustryCode": "20101010"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "wikidataId": "Q124252447",
+  "name": "Linc",
+  "description": "Linc är ett investeringsföretag som fokuserar på att utveckla och stödja portföljbolag inom hälso- och sjukvårdssektorn. Företaget investerar i både noterade och onoterade bolag och arbetar med att stärka deras operativa och finansiella positioner.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/c34d12a8-9d45-4c8c-9b0c-a5d85e0159d6/linc-ar-2023-final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1587400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/c34d12a8-9d45-4c8c-9b0c-a5d85e0159d6/linc-ar-2023-final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1111300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352010",
+      "subIndustryCode": "35201010"
+    }
+  }
+}

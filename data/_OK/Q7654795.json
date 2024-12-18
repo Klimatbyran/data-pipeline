@@ -1,0 +1,300 @@
+{
+  "wikidataId": "Q7654795",
+  "name": "Swedish Orphan Biovitrum",
+  "description": "Sobi (Swedish Orphan Biovitrum AB) är ett internationellt biofarmaceutiskt företag specialiserat på behandling av sällsynta sjukdomar. Företaget utvecklar, registrerar, distribuerar och marknadsför läkemedel för dessa sjukdomar och har sitt huvudkontor i Solna, Sverige.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sobi.com/sites/default/files/pr/202403273912-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 22123000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1831,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 904,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 648,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 648
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 124565,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 103001,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2595,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 193,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 7970,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 11,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 9895,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 871,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 29,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 124565
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 1551,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 126117,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sobi.com/sites/default/files/pr/202303312873-1.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 787,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 563,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 563
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 112957,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 94410,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 776,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 159,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 5904,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 14,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 9937,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 1732,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 25,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 112957
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 114307,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sobi.com/sites/sobi/files/pr/202204055842-1.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 704,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 271,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 271
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 975,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 677,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2043,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2043
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2720,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 560,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1941,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1941
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2501,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 467,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1303,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1303
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 467,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2016-01-01T00:00:00.000Z",
+      "endDate": "2016-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 435,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1157,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1157
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1592,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3520",
+      "industryCode": "352020",
+      "subIndustryCode": "35202010"
+    }
+  }
+}

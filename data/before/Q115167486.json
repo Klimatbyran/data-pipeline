@@ -1,0 +1,408 @@
+{
+  "wikidataId": "Q115167486",
+  "name": "Tethys Oil",
+  "description": "Tethys Oil är ett oljeföretag som fokuserar på prospektering och produktion i landbaserade områden med kända oljefyndigheter. Företaget har sitt huvudkontor i Stockholm och är verksamt främst i Oman, där det innehar intressen i flera block och producerar cirka 8,818 fat olja per dag.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.tethysoil.com/en/wp-content/uploads/sites/2/2024/03/tethys-oil-ab-publ-annual-report-2023-240327.pdf",
+      "economy": {
+        "turnover": {
+          "value": 138200000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 31,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 440,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 70,
+          "mb": 70,
+          "unknown": 70,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 70
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 508458,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 94,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 25.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 59.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 22,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 5920,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 14405,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 212547,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 508253,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 21581,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 508458
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 508967,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.tethysoil.com/en/wp-content/uploads/sites/2/2024/03/tethys-oil-ab-publ-annual-report-2023-240327.pdf",
+      "economy": {
+        "turnover": {
+          "value": 156500000,
+          "currency": "USD"
+        },
+        "employees": {
+          "value": 29,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1977,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 67,
+          "mb": 67,
+          "unknown": 67,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 67
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 527362,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 354,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 24.8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 63.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 19,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 5630,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 13499,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 211363,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 526897,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 13538,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 527362
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 529405,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.tethysoil.com/en/wp-content/uploads/sites/2/2024/03/tethys-oil-ab-publ-annual-report-2023-240327.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1813,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 49,
+          "mb": 49,
+          "unknown": 49,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 49
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 537008,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 148,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 43,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 45,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 18,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 6038,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 14635,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 228325,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 536750,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 36952,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 537008
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 538870,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.tethysoil.com/en/wp-content/uploads/sites/2/2024/03/tethys-oil-ab-publ-annual-report-2023-240327.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 32,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 40,
+          "mb": 40,
+          "unknown": 40,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 40
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 465148,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 13,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 23,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 18,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 7401,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 18600,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 274087,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 465091,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 898,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 465148
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 465220,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 13,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 50,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 50
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 545957,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 545957
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 546020,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "10",
+      "groupCode": "1010",
+      "industryCode": "101020",
+      "subIndustryCode": "10102020"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "wikidataId": "Q6460556",
+  "name": "Lundbergföretagen (koncern)",
+  "description": "L E Lundbergföretagen AB är ett svenskt koncernföretag med verksamheter inom fastighetsförvaltning, skogsbruk, energi och investeringar. Företaget är engagerat i ägande och förvärv av byggnader, elproduktion från vindkraft, vattenkraft och bioenergi samt skörd av egen skog.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.lundbergforetagen.se/sites/default/files/files/Lundbergs_ha%CC%8Allbarhetsrapport_2023webb.pdf",
+      "economy": {
+        "turnover": {
+          "value": 29460000000,
+          "currency": "SEK"
+        },
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 54361,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 18761,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 18761
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 629592,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 629592
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 702714,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.lundbergforetagen.se/sites/default/files/files/Lundbergs_ha%CC%8Allbarhetsrapport_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 58543,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 35618,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 35618
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 623939,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 623939
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 718100,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 96518,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 66639,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 66639
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 576394,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 576394
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 739550,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601040",
+      "subIndustryCode": "60104010"
+    }
+  }
+}

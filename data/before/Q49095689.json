@@ -1,0 +1,138 @@
+{
+  "wikidataId": "Q49095689",
+  "name": "MedCap",
+  "description": "MedCap AB är en börsnoterad koncern som investerar i och utvecklar bolag inom tre affärsområden: Hjälpmedel, Medicinteknik och Specialistläkemedel. Verksamheten fokuserar på att förvärva och utveckla nischbolag inom Life Science i norra Europa.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://medcap.se/media/xjuhfd1u/medcap_%C3%A5rsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1587400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 476,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://medcap.se/media/xjuhfd1u/medcap_%C3%A5rsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1111300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 368,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://medcap.se/media/xjuhfd1u/medcap_%C3%A5rsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 916300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 361,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://medcap.se/media/xjuhfd1u/medcap_%C3%A5rsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 817400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 353,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://medcap.se/media/xjuhfd1u/medcap_%C3%A5rsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 757100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 278,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351010",
+      "subIndustryCode": "35101010"
+    }
+  }
+}

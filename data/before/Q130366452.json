@@ -1,0 +1,178 @@
+{
+  "wikidataId": "Q130366452",
+  "name": "Alligo",
+  "description": "Alligo är ett företag i Norden som erbjuder arbetskläder, personligt skydd, verktyg och förnödenheter. Genom varumärkena Swedol och Tools samt lokala specialistvarumärken tillhandahåller de produkter och tjänster till professionella användare via butiker, utesälj och digitala kanaler.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.alligo.com/wp-content/uploads/2023/01/alligo-alligo-publicerar-ars-och-hallbarhetsrapport-2023-240409.pdf",
+      "economy": {
+        "turnover": {
+          "value": 9335000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2444,
+          "unit": "medelantal"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1603,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2245,
+          "mb": 2465,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2465
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 695008,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 680907,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 4114,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 621,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 2935,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 92,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 451,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5817,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 70,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 695008
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 699076,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.alligo.com/wp-content/uploads/2023/01/alligo-alligo-publicerar-ars-och-hallbarhetsrapport-2023-240409.pdf",
+      "economy": {
+        "turnover": {
+          "value": 9211000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2335,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1850,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2131,
+          "mb": 2832,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2832
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 676433,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 643787,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2840,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 996,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 3892,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 32,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 194,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 5916,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 94,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 676433
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201070",
+      "subIndustryCode": "20107010"
+    }
+  }
+}

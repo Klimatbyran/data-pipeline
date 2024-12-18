@@ -1,0 +1,24 @@
+{
+  "wikidataId": "Q10397672",
+  "name": "Almi",
+  "description": "Almi erbjuder lån och affärsutveckling till små och medelstora företag samt riskkapital till företag i tidiga skeden. Företaget är statligt ägt och verkar genom regionala dotterbolag och Almi Invest, med fokus på att komplettera den privata marknaden och stödja företag med tillväxtpotential.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.almi.se/globalassets/om-almi/organisation-och-ekonomi/finansiell-information/2024/almi-ars--och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1321000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 565,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

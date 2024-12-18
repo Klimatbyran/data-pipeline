@@ -1,0 +1,222 @@
+{
+  "wikidataId": "Q63993633",
+  "name": "Kindred Group",
+  "description": "Kindred Group är en ledande online-speloperatör som erbjuder tjänster för vadslagning, casino, poker och andra spelprodukter. Företaget är verksamt internationellt och har sitt huvudkontor på Malta.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.kindredgroup.com/globalassets/documents/investor-relations-related-documents/financial-reports/2023/asr/kindred-group-annual-and-sustainability-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1210500000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2453,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 84.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 467,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 467
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4487.8,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 4487.8
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5038.9,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.kindredgroup.com/globalassets/documents/investor-relations-related-documents/financial-reports/2022/asr/kindred_annual_report_2022.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 97.2,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1226.5,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1226.5
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5591.4,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5591.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6915.1,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.kindredgroup.com/globalassets/documents/investor-relations-related-documents/financial-reports/2021/annual-sustainability-report-2021.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 52.5,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1041.3,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1041.3
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2112.4,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 2112.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3206.2,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 44.3,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1465.4,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1465.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 2752.6,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 2752.6
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4262.3,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 146.2,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2248,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2248
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5483.6,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 5483.6
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 7877.7,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 12.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2329.4,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2329.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3938.2,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 3938.2
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6279.7,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253010",
+      "subIndustryCode": "25301010"
+    }
+  }
+}

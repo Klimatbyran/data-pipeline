@@ -1,0 +1,84 @@
+{
+  "wikidataId": "Q109780665",
+  "name": "Lime Technologies",
+  "description": "Lime Technologies AB (publ) utvecklar och levererar kundrelationshanteringssystem (CRM) för företag och organisationer. Företaget erbjuder lösningar för att förbättra kundinteraktioner och effektivisera affärsprocesser genom sina mjukvaruprodukter och tjänster.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 577100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 397,
+          "unit": "employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 21560,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 35.2719,
+          "mb": 42158,
+          "unknown": 35.2719,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 42158
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 130393,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 96031,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 34362,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 130393
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 194111,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 490400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 352,
+          "unit": "employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451030",
+      "subIndustryCode": "45103010"
+    }
+  }
+}

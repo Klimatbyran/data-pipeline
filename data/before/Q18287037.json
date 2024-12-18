@@ -1,0 +1,261 @@
+{
+  "wikidataId": "Q18287037",
+  "name": "Ambea",
+  "reviewComments": [
+    "Garbo NOT OK",
+    "Stated total emissions for scope 3 (issue #512, issue #513)"
+  ],
+  "description": "Ambea är ett omsorgsföretag som erbjuder tjänster inom äldreomsorg, omsorg för personer med funktionsnedsättning och psykosocialt stöd. Företaget arbetar främst med kommuner i Skandinavien och driver verksamheter i egen regi, inklusive boenden och hemtjänst.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13312000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14663,
+          "unit": "medelantal"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2894,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3226,
+          "mb": 2073,
+          "unknown": 1200,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2073
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 20033,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 8090,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1313,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 64,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1154,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 9047,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 20033
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 24999,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 12635000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14437,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3393,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 1267,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1267
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 24942,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 8854,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1430,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 112,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1513,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 303,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 12731,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 24942
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 29602,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11478000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14437,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11083000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14437,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 3694,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3226,
+          "mb": 5932,
+          "unknown": 1271,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5932
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 23906,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 10584,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 94,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 491,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 26,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 589,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 12122,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 23906
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 33532,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351020",
+      "subIndustryCode": "35102015"
+    }
+  }
+}

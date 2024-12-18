@@ -1,0 +1,196 @@
+{
+  "wikidataId": "Q10509721",
+  "name": "Gränges",
+  "description": "Gränges är ett företag som specialiserar sig på valsning och återvinning av aluminium. Företaget tillhandahåller aluminiumlösningar för olika applikationer, inklusive klimatkontroll i fordon och byggnader, elektrifiering, batterikomponenter och återvinningsbara förpackningar.",
+  "reviewComments": ["Garbo OK", "Economy missing fixed", "Wrong 000 fixed"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 22518000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2718,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 222100,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 243100,
+          "mb": 87700,
+          "unknown": 465300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 87700
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3670000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3560000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 50000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 60000,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 0.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3670000
+        },
+        "biogenicEmissions": {
+          "total": 3660,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3980000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 215400,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 253300,
+          "mb": 181500,
+          "unknown": 468400,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 181500
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3950000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3820,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 80,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 60,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 0.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3950000
+        },
+        "biogenicEmissions": {
+          "total": 3950,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4350000,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 220900,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 268300,
+          "mb": 213800,
+          "unknown": 488900,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 213800
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4200000,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4070,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 80,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 60,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 0.4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4200000
+        },
+        "biogenicEmissions": {
+          "total": 4200,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 4640000,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151040",
+      "subIndustryCode": "15104010"
+    }
+  }
+}

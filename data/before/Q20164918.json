@@ -1,0 +1,198 @@
+{
+  "wikidataId": "Q20164918",
+  "name": "Platzer Fastigheter",
+  "description": "Platzer är ett fastighetsbolag som äger och utvecklar kommersiella fastigheter i Göteborg. Företaget fokuserar på uthyrning, förvaltning, stadsutveckling samt förvärv och försäljning av fastigheter. Beståndet inkluderar kontor, industri och logistik.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://vp282.alertir.com/afw/files/press/platzer/202402223572-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 527000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 83,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 102,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 177,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 177
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8470,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 8168,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 301,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8470
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 279,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 8749,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://vp282.alertir.com/afw/files/press/platzer/202402223572-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1229000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 86,
+          "unit": "total employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 175,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 160,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 160
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5469,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 5233,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 235,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5469
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 335,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 5804,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://vp282.alertir.com/afw/files/press/platzer/202402223572-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1201000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 87,
+          "unit": "total employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 283,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 168,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 168
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 242,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 242,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 241,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 242
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 451,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 693,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601025",
+      "subIndustryCode": "60102510"
+    }
+  }
+}

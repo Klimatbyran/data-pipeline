@@ -1,0 +1,127 @@
+{
+  "wikidataId": "Q106634027",
+  "name": "CellaVision",
+  "description": "CellaVision utvecklar och tillhandahåller digitala mikroskopilösningar för hematologilaboratorier. Företagets produkter, inklusive instrument, reagenser och mjukvara, effektiviserar laboratorieprocesser och förbättrar noggrannheten i provanalys för snabbare patientdiagnos och behandling.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 677292000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 242,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 539,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 55.433,
+          "mb": 52.283,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 52.283
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 539,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 539,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 539
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 539,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 639340000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 242,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 565552000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 201,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 471443000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 182,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 461772000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 125,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351010",
+      "subIndustryCode": "35101010"
+    }
+  }
+}

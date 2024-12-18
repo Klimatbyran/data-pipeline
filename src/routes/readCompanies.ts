@@ -98,14 +98,14 @@ router.get(
                     select: {
                       value: true,
                       currency: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   employees: {
                     select: {
                       value: true,
                       unit: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                 },
@@ -116,7 +116,7 @@ router.get(
                     select: {
                       total: true,
                       unit: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   scope2: {
@@ -125,7 +125,7 @@ router.get(
                       mb: true,
                       unknown: true,
                       unit: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   scope3: {
@@ -134,7 +134,7 @@ router.get(
                         select: {
                           total: true,
                           unit: true,
-                          metadata: minimalMetadata,
+                          //metadata: minimalMetadata,
                         },
                       },
                       categories: {
@@ -142,34 +142,34 @@ router.get(
                           category: true,
                           total: true,
                           unit: true,
-                          metadata: minimalMetadata,
+                          //metadata: minimalMetadata,
                         },
                         orderBy: {
                           category: 'asc',
                         },
                       },
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   biogenicEmissions: {
                     select: {
                       total: true,
                       unit: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   scope1And2: {
                     select: {
                       total: true,
                       unit: true,
-                      metadata: minimalMetadata,
+                      //metadata: minimalMetadata,
                     },
                   },
                   statedTotalEmissions: {
                     select: {
                       total: true,
                       unit: true,
-                      metadata,
+                      //metadata,
                     },
                   },
                 },
@@ -190,7 +190,7 @@ router.get(
                   subIndustryCode: true,
                 },
               },
-              metadata: minimalMetadata,
+              //metadata: minimalMetadata,
             },
           },
         },
@@ -226,58 +226,12 @@ router.get(
                       ).length && {
                         ...removeEmptyValues(reportingPeriod.emissions.scope3),
                         calculatedTotalEmissions:
-                          reportingPeriod.emissions.scope3.categories.some(
-                            (c) => Boolean(c.metadata.verifiedBy)
-                          )
-                            ? reportingPeriod.emissions.scope3.categories.reduce(
-                                (total, category) =>
-                                  isNumber(category.total)
-                                    ? category.total + total
-                                    : total,
-                                0
-                              )
-                            : reportingPeriod.emissions.scope3
-                                .statedTotalEmissions?.total ?? 0,
+                          reportingPeriod.emissions.scope3.statedTotalEmissions
+                            ?.total ?? 0,
                       }) ||
                     undefined,
                 },
                 metadata: reportingPeriod.metadata[0],
-              })
-            ),
-          }))
-          // Calculate total emissions for each reporting period
-          // This allows comparing against the statedTotalEmissions provided by the company report
-          // In cases where we find discrepancies between the statedTotalEmissions and the actual total emissions,
-          // we should highlight this in the UI.
-          .map((company) => ({
-            ...company,
-            reportingPeriods: company.reportingPeriods.map(
-              (reportingPeriod) => ({
-                ...reportingPeriod,
-                emissions: Object.keys(
-                  removeEmptyValues(reportingPeriod.emissions)
-                ).length
-                  ? {
-                      ...removeEmptyValues(reportingPeriod.emissions),
-                      calculatedTotalEmissions:
-                        // If either scope 1 and scope 2 have verification, then we use them for the total.
-                        // Otherwise, we use the combined scope1And2 if it exists
-                        (Boolean(
-                          reportingPeriod.emissions?.scope1?.metadata
-                            ?.verifiedBy
-                        ) ||
-                        Boolean(
-                          reportingPeriod.emissions?.scope2?.metadata
-                            ?.verifiedBy
-                        )
-                          ? (reportingPeriod.emissions?.scope1?.total || 0) +
-                            (reportingPeriod.emissions?.scope2
-                              ?.calculatedTotalEmissions || 0)
-                          : reportingPeriod.emissions?.scope1And2?.total || 0) +
-                        (reportingPeriod.emissions?.scope3
-                          ?.calculatedTotalEmissions || 0),
-                    }
-                  : null,
               })
             ),
           }))

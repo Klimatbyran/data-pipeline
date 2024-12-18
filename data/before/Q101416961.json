@@ -1,0 +1,127 @@
+{
+  "wikidataId": "Q101416961",
+  "name": "Fasadgruppen",
+  "description": "Fasadgruppen är en koncern som samlar entreprenörer inom energirenoveringar och tjänster för fastigheters yttre skal i Norden. Företaget erbjuder lösningar för fasad, fönster, balkong och tak, och betjänar fastighetsbolag, kommuner, regioner, statliga verksamheter, bostadsrättsföreningar, konsulter och byggföretag.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 5110000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2001,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3435,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 355,
+          "mb": 355,
+          "unknown": 355,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 355
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 52162,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 51602,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 52162
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 55952,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 4547700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1807,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2676300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1206,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1340400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 654,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1019000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 519,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201030",
+      "subIndustryCode": "20103010"
+    }
+  }
+}

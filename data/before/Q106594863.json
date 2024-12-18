@@ -1,0 +1,75 @@
+{
+  "wikidataId": "Q106594863",
+  "name": "Traction",
+  "description": "Traction är ett börsnoterat investmentbolag som investerar i noterade små och medelstora företag samt räntebärande tillgångar. Bolaget fokuserar på långsiktigt ägande och samarbete med andra delägare och företagsledningar, utan att begränsa sig till specifika branscher.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.traction.se/wp-content/uploads/2013/12/Traction-rsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 284400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.traction.se/wp-content/uploads/2013/12/Traction-rsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": -362100000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1500,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2500,
+          "mb": 2000,
+          "unknown": 300,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2000
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451020",
+      "subIndustryCode": "45102010"
+    }
+  }
+}

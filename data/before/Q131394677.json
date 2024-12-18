@@ -1,0 +1,104 @@
+{
+  "wikidataId": "Q131394677",
+  "name": "Vestum",
+  "description": "Vestum är en koncern bestående av över 60 specialistbolag med cirka 1 800 anställda. Företaget tillhandahåller tjänster och produkter inom infrastruktur, med fokus på segmenten Water, Services och Infrastructure, i Skandinavien och Storbritannien.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/e1dcb1a5-4b95-467b-9e58-d766c17cc4c9/arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5762000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1787,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5359,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 553,
+          "mb": 553,
+          "unknown": 553,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 553
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 80981,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 73093,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1304,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 5633,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 943,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 8,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 80981
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 86893,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/e1dcb1a5-4b95-467b-9e58-d766c17cc4c9/arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5162000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1806,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2030",
+      "industryCode": "203040",
+      "subIndustryCode": "20304010"
+    }
+  }
+}

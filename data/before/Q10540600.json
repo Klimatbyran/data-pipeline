@@ -1,0 +1,265 @@
+{
+  "wikidataId": "Q10540600",
+  "name": "John Mattson",
+  "description": "John Mattson är ett bostadsbolag verksamt i Stockholmsregionen. Företaget äger cirka 4 300 hyreslägenheter och kommersiella lokaler i fem kommuner. Fastighetsbeståndet omfattar cirka 350 000 kvadratmeter med ett värde på cirka 14 miljarder kronor.",
+  "reviewComments": ["Garbo NOT OK", "Scope 1 is reported only with details"],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 610400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 46,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 61.1,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1694,
+          "mb": 1756,
+          "unknown": 1694,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1756
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4517.9,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 25,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 4470,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 62,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 8,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 13,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 41,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.1,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4517.9
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6335,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 620900000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 54,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 14,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1730,
+          "mb": 1730,
+          "unknown": 1730,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1730
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4084,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 28,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 98,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 344,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 15,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 13,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 64,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4084
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 18,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2238,
+          "mb": 2238,
+          "unknown": 2238,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2238
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8912,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 25,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 95,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 975,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 12,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 0.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 51,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 8912
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6020",
+      "industryCode": "602010",
+      "subIndustryCode": "60201030"
+    }
+  }
+}

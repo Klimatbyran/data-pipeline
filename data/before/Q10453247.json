@@ -1,0 +1,119 @@
+{
+  "wikidataId": "Q10453247",
+  "name": "Cint Group",
+  "reviewComments": ["Ambiguous employee unit", "Garbo OK"],
+  "description": "Cint är ett företag som tillhandahåller digitala lösningar för insamling och analys av marknadsundersökningsdata. Företaget erbjuder en plattform för att koppla samman företag med paneler av respondenter för att genomföra undersökningar och samla in data.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 266500000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 1018,
+          "unit": "Heltidsanställda"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 92,
+          "mb": 92,
+          "unknown": 92,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 92
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5207,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4700,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 116,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 391,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5207
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 92,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 5299,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 295188000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 830,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.cint.com/sites/cint/files/pr/20240326-6414e720-6400-4c33-b5ac-759804266353-1.pdf",
+      "economy": {
+        "turnover": {
+          "value": 138925000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 823,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202020",
+      "subIndustryCode": "20202020"
+    }
+  }
+}

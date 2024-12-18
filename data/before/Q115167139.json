@@ -1,0 +1,210 @@
+{
+  "wikidataId": "Q115167139",
+  "name": "Cibus Nordic Real Estate",
+  "description": "Cibus Nordic Real Estate AB (publ) förvärvar, förvaltar och utvecklar högkvalitativa fastigheter i Norden med livsmedelskedjor som hyresgäster. Företaget äger 451 fastigheter i Finland, Sverige, Danmark och Norge, med en total uthyrningsbar yta på 975,857 m².",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 114729000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 11,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 888,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4683,
+          "mb": 83,
+          "unknown": 7340,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 83
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 25912,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3014,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 805,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2406,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 15,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 19672,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 25912
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 26882,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 7700000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 9,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 936,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 4962,
+          "mb": 2021,
+          "unknown": 7340,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2021
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 27836,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3381,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 1687,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2276,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 20487,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 27836
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 30793,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 7,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 8556,
+          "mb": 2807,
+          "unknown": 1116,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2807
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 18847,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3014,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 805,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2406,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 15,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 19672,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 18847
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 24570,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601070",
+      "subIndustryCode": "60107010"
+    }
+  }
+}

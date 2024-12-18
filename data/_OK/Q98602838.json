@@ -1,0 +1,144 @@
+{
+  "wikidataId": "Q98602838",
+  "name": "Addnode Group",
+  "description": "Addnode Group levererar digitala lösningar för design, produktionshantering och administration. Företaget är verksamt i Sverige, Storbritannien, USA och Tyskland och är organiserat i tre divisioner: Design Management, Product Lifecycle Management och Process Management.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.addnodegroup.com/wp-content/uploads/Addnode-Group_2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7564000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2654,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 740,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 474,
+          "mb": 474,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 474
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 740,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 6,
+              "total": 740,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 740
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.addnodegroup.com/wp-content/uploads/Addnode-Group_2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 6225000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2370,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.addnodegroup.com/wp-content/uploads/Addnode-Group_2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4077000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1897,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.addnodegroup.com/wp-content/uploads/Addnode-Group_2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3807000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1833,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.addnodegroup.com/wp-content/uploads/Addnode-Group_2023_ENG.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3434000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1714,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451030",
+      "subIndustryCode": "45103010"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "wikidataId": "Q131424920",
+  "name": "Prisma Properties",
+  "description": "Prisma Properties är ett fastighetsbolag som fokuserar på långsiktigt ägande och utveckling av fastigheter inom lågpris dagligvaror och snabbmatssegmentet. Företaget arbetar med fastighetsutveckling och förvaltning för att skapa värde genom sina fastighetsinvesteringar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://prismaproperties.se/wordpress/wp-content/uploads/2024/06/Prismas-hallbarhetsarbete-3.pdf",
+      "economy": {
+        "turnover": {
+          "value": 345000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 8,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 27,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 543,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 543
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 7741,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 7741
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 8312,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

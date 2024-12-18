@@ -1,0 +1,75 @@
+{
+  "wikidataId": "Q23044729",
+  "name": "Profoto Holding",
+  "description": "Profoto utvecklar, marknadsför och säljer produkter och mjukvarulösningar för professionella fotografer och studios. Företaget erbjuder ljussättningslösningar som inkluderar blixtar, ljusformare och automatiserade system, med försäljning i 54 länder via återförsäljare och direkt online.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.profoto.com/sv/wp-content/uploads/sites/3/2024/04/profoto-2023-sve-240412.pdf",
+      "economy": {
+        "turnover": {
+          "value": 787000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 139,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.profoto.com/sv/wp-content/uploads/sites/3/2024/04/profoto-2023-sve-240412.pdf",
+      "economy": {
+        "turnover": {
+          "value": 848000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 124,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2520",
+      "industryCode": "252030",
+      "subIndustryCode": "25203010"
+    }
+  }
+}

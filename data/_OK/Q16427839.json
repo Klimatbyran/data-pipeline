@@ -1,0 +1,24 @@
+{
+  "wikidataId": "Q16427839",
+  "name": "BONESUPPORT",
+  "description": "BONESUPPORT är ett ortobiologiföretag som utvecklar och säljer injicerbara biokeramiska bengraftsubstitut baserade på CERAMENT®-plattformen. Produkterna används för behandling av skelettskador, inklusive trauma, revisionsartroplastik och kronisk osteomyelit. Företaget är baserat i Lund, Sverige.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/3f3ff1f9-f278-492e-8c14-f1b072ffa8cc/bonesupport-2023-se.pdf",
+      "economy": {
+        "turnover": {
+          "value": 591000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 118,
+          "unit": null
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

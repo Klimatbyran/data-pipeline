@@ -1,0 +1,154 @@
+{
+  "wikidataId": "Q10398203",
+  "name": "AcadeMedia",
+  "reviewComments": [
+    "Economy is already fixed, a retry worked fine",
+    "Garbo OK"
+  ],
+  "description": "AcadeMedia utvecklar och driver utbildningsverksamheter inom förskola, grundskola, gymnasium och vuxenutbildning i Sverige, Norge, Tyskland och Nederländerna. Företaget arbetar med en decentraliserad affärsmodell där varje enhet har ett helhetsansvar för sin verksamhet.",
+  "reportingPeriods": [
+    {
+      "startDate": "2022-07-01T00:00:00.000Z",
+      "endDate": "2023-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 15539000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 14459,
+          "unit": "Årsanställda"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 28741.222,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 5710.782,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 545.44,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 22485,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 28741.222
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-07-01T00:00:00.000Z",
+      "endDate": "2022-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 15539,
+          "currency": "MSEK"
+        },
+        "employees": {
+          "value": 14459,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2020-07-01T00:00:00.000Z",
+      "endDate": "2021-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 14339,
+          "currency": "MSEK"
+        },
+        "employees": {
+          "value": 13829,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2019-07-01T00:00:00.000Z",
+      "endDate": "2020-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 13340,
+          "currency": "MSEK"
+        },
+        "employees": {
+          "value": 12636,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2018-07-01T00:00:00.000Z",
+      "endDate": "2019-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 12271,
+          "currency": "MSEK"
+        },
+        "employees": {
+          "value": 12405,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    },
+    {
+      "startDate": "2017-07-01T00:00:00.000Z",
+      "endDate": "2018-06-30T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 11715,
+          "currency": "MSEK"
+        },
+        "employees": {
+          "value": 67575,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253020",
+      "subIndustryCode": "25302010"
+    }
+  }
+}

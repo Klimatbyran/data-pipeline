@@ -1,0 +1,192 @@
+{
+  "wikidataId": "Q5464603",
+  "name": "Folksam",
+  "description": "Folksamgruppen erbjuder försäkringar och pensionssparande för privatpersoner och företag i Sverige. Företaget ägs av sina kunder och återinvesterar vinster i form av återbäring och förbättrade tjänster. Folksam samarbetar med fackliga organisationer och idrottsrörelser för att nå sina kunder.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.folksam.se/media/Ars_hallbarhetsrapport_2023_tcm5-76453.pdf",
+      "economy": {
+        "turnover": {
+          "value": 71923000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3495,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3000,
+          "mb": 3000,
+          "unknown": 3000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.folksam.se/media/Ars_hallbarhetsrapport_2023_tcm5-76453.pdf",
+      "economy": {
+        "turnover": {
+          "value": 63693000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3399,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2000,
+          "mb": 2000,
+          "unknown": 2000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.folksam.se/media/Ars_hallbarhetsrapport_2023_tcm5-76453.pdf",
+      "economy": {
+        "turnover": {
+          "value": 61093000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3399,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1000,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1000,
+          "mb": 1000,
+          "unknown": 1000,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1000
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.folksam.se/media/Ars_hallbarhetsrapport_2023_tcm5-76453.pdf",
+      "economy": {
+        "turnover": {
+          "value": 54351000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3478,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.folksam.se/media/Ars_hallbarhetsrapport_2023_tcm5-76453.pdf",
+      "economy": {
+        "turnover": {
+          "value": 55543000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3605,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402010",
+      "subIndustryCode": "40201020"
+    }
+  }
+}

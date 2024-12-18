@@ -1,0 +1,203 @@
+{
+  "wikidataId": "Q7295902",
+  "name": "Ratos",
+  "description": "Ratos är ett svenskt investmentbolag som investerar i och utvecklar medelstora nordiska företag. Företaget fokuserar på att skapa långsiktigt värde genom aktivt ägande och har en diversifierad portfölj av bolag inom olika branscher, inklusive bygg och anläggning, industri och konsumentprodukter.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.ratos.com/493418/globalassets/reports-and-presentation/2023/swedish/2023_ar.pdf",
+      "economy": {
+        "turnover": {
+          "value": 33748000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 11054,
+          "unit": "Head Count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 60757,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 94952,
+          "mb": 1335478,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1335478
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 52,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 7,
+              "total": 47,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 5,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 52
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1396287,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/17707/3728367/1894798.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "categories": [
+            {
+              "category": 7,
+              "total": 47,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "categories": [
+            {
+              "category": 7,
+              "total": 23,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 12,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "categories": [
+            {
+              "category": 7,
+              "total": 41,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 39,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "categories": [
+            {
+              "category": 7,
+              "total": 159,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "categories": [
+            {
+              "category": 7,
+              "total": 135,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

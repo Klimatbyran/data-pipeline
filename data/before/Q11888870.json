@@ -1,0 +1,201 @@
+{
+  "wikidataId": "Q11888870",
+  "name": "Proact IT Group",
+  "reviewComments": [
+    "Garbo NOT OK",
+    "unknown scope 2 reported",
+    "scope 1 for 2022 wrong"
+  ],
+  "description": "Proact är ett företag som specialiserar sig på data- och informationshantering med fokus på molntjänster och datacenterlösningar. Företaget betjänar stora och medelstora företag samt myndigheter, med verksamhet i över 30 kontor i 12 länder i Europa och USA.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/299/3961638/2731732.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4847000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1171,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 60,
+          "mb": 0,
+          "unknown": 5600,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 5911,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 84,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 48,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 329,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 140,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1774,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 3470,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 64,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 5911
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5911,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/299/3961638/2731732.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4756823000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1165,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9,
+          "mb": 0,
+          "unknown": 5800,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 6168,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 305,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 820,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 477,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 97,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2229,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 2240,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 6168
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 6168,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/299/3961638/2731732.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 300,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 5500,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4510",
+      "industryCode": "451020",
+      "subIndustryCode": "45102030"
+    }
+  }
+}

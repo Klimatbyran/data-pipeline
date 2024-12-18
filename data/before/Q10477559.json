@@ -1,0 +1,285 @@
+{
+  "wikidataId": "Q10477559",
+  "name": "Duni",
+  "reviewComments": ["Garbo NOT OK", "Economy missing", "Scope 3 missing"],
+  "description": "Duni Group erbjuder lösningar inom två affärsområden: Dining Solutions och Food Packaging Solutions. Företaget tillhandahåller produkter för sociala måltidsupplevelser, inklusive engångsartiklar och förpackningar för restauranger, kaféer, take-away och hemleverans.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 1577000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2373,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 16364,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 746,
+          "mb": 746,
+          "unknown": 746,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 746
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 146052,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 104566,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 1042,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 5234,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 18136,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 713,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 337,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2332,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 423,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 10595,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 2670,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 146052
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 17109,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 163162,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 171477,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 115999,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 497,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 6143,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 21820,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 746,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 248,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 2367,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 1670,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 18760,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 3223,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 4,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 171477
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 171477,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 197431,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 237753,
+          "mb": 237753,
+          "unknown": 237753,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 237753
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 176921,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 110530,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 3043,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 7219,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 27445,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 461,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 628,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 3381,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 10,
+              "total": 1681,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 20347,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 2186,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 176921
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 176921,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151030",
+      "subIndustryCode": "15103020"
+    }
+  }
+}

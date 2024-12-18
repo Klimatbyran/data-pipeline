@@ -1,0 +1,50 @@
+{
+  "wikidataId": "Q5318875",
+  "name": "Dynavox Group",
+  "description": "Tobii Dynavox utvecklar och tillhandahåller hjälpmedel för kommunikation för personer med funktionsnedsättningar. Företaget erbjuder kompletta lösningar inklusive språkprogramvara, hårdvara och stöd för finansiering, vilket möjliggör för användare att uttrycka sig och förbättra sina liv.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/11919/3975357/2784623.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1613000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 712,
+          "unit": null
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 1394,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 563,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 563
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 979,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 979
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2936,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": null
+}

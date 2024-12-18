@@ -1,0 +1,168 @@
+{
+  "wikidataId": "Q130367296",
+  "name": "VEF",
+  "description": "VEF AB är ett investmentbolag noterat på Nasdaq Stockholm som investerar i privata fintechbolag på tillväxtmarknader. Företaget är minoritetsägare och aktiv investerare med styrelserepresentation i majoriteten av sina portföljbolag, med fokus på långsiktiga investeringar.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/191627e1-0ae4-4017-a741-589fb8a3407f/vef-ar-2023-sve.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 10,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1,
+          "mb": 1.7,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 75.7,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 75.7,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 75.7
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 77.4,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/191627e1-0ae4-4017-a741-589fb8a3407f/vef-ar-2023-sve.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 10,
+          "unit": "Total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.7,
+          "mb": 1.7,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 89.2,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 89.2,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 89.2
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 90.9,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/191627e1-0ae4-4017-a741-589fb8a3407f/vef-ar-2023-sve.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0.7,
+          "mb": 0.7,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0.7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 19.3,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 19.3,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 19.3
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 20,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402010",
+      "subIndustryCode": "40201020"
+    }
+  }
+}

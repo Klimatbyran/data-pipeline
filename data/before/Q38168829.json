@@ -1,0 +1,136 @@
+{
+  "wikidataId": "Q38168829",
+  "name": "Sedana Medical",
+  "description": "Sedana Medical utvecklar och marknadsför inhalationssedering för intensivvårdspatienter. Företaget har fått marknadsgodkännande för Sedaconda (isofluran) i flera europeiska länder och arbetar för att etablera inhalationssedering som standardbehandling globalt.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://sedanamedical.com/media/2w0lziqt/annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 153867000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 79,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://sedanamedical.com/media/2w0lziqt/annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 122865000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 86,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://sedanamedical.com/media/2w0lziqt/annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 159152000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 73,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://sedanamedical.com/media/2w0lziqt/annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 141770000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://sedanamedical.com/media/2w0lziqt/annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 71646000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 39,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351010",
+      "subIndustryCode": "35101010"
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "wikidataId": "Q671398",
+  "name": "Arjo",
+  "description": "Arjo är ett svenskt företag som specialiserar sig på medicintekniska produkter och lösningar för att förbättra livskvaliteten för människor med nedsatt rörlighet och åldersrelaterade sjukdomar. Företaget erbjuder ett brett sortiment av produkter inklusive sängar, lyftar, hygienlösningar och desinfektionssystem. Arjo arbetar globalt och har en stark närvaro inom vård- och omsorgssektorn.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.arjo.com/siteassets/06_investors/annual-report-2023/arjo_ahr23_eng_final.pdf",
+      "economy": {
+        "turnover": {
+          "value": 10980000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6679,
+          "unit": "Head count"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 21388,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 2750,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2750
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 213126,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 143504,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 35234,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 34388,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 213126
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 237264,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/12208/3739398/1936457.pdf",
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 23821,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3791,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3791
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 251127,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 171415,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 45557,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 34155,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 251127
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 278739,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 21397,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 5867,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 5867
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 271802,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 180599,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 49817,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 41386,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 271802
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 299066,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351020",
+      "subIndustryCode": "35102010"
+    }
+  }
+}

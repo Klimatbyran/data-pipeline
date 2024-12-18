@@ -1,0 +1,325 @@
+{
+  "wikidataId": "Q10658096",
+  "name": "Rusta",
+  "reviewComments": ["Ambiguous report", "Garbo unknown"],
+  "description": "Rusta är ett företag inom lågprisdetaljhandel som driver varuhus i Sverige, Norge, Finland och Tyskland samt onlinehandel i Sverige och Finland. Företaget erbjuder ett brett sortiment av heminredning, förbrukningsvaror, säsongsprodukter och DIY-artiklar. Rusta har inköpskontor i flera länder.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-05-01T00:00:00.000Z",
+      "endDate": "2024-04-30T00:00:00.000Z",
+      "reportURL": "https://investors.rusta.com/sv/wp-content/uploads/sites/4/2021/10/rusta-ab-publ-arsredovisning-fy2324-uppslag-240823.pdf",
+      "economy": {
+        "turnover": {
+          "value": 11116000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4844,
+          "unit": "average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 154,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": null,
+          "mb": 3344,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3344
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1162929,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 984558,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 7531,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 446,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 16838,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 208,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1825,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 4749,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 86188,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 56348,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 4237,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1162929
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1166428,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-05-01T00:00:00.000Z",
+      "endDate": "2023-04-30T00:00:00.000Z",
+      "reportURL": "https://investors.rusta.com/sv/wp-content/uploads/sites/4/2021/10/rusta-ab-publ-arsredovisning-fy2324-uppslag-240823.pdf",
+      "economy": {
+        "turnover": {
+          "value": 11116000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4844,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 205,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 16138,
+          "mb": 2941,
+          "unknown": 1166,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2941
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1162929,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 984558,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 7531,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 446,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 16838,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 208,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 614,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 4749,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 86188,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 56348,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 4237,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1162929
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 614,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3146,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-05-01T00:00:00.000Z",
+      "endDate": "2022-04-30T00:00:00.000Z",
+      "reportURL": "https://investors.rusta.com/sv/wp-content/uploads/sites/4/2021/10/rusta-ab-publ-arsredovisning-fy2324-uppslag-240823.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 165,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 11783,
+          "mb": 2041,
+          "unknown": 1139,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2041
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 554,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 952811,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 9737,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 582,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 18062,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 173,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1200,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 4100,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 81483,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 29700,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 12,
+              "total": 4133,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 554
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2760,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 142,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 11281,
+          "mb": 1963,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1963
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 643,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 643
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 2748,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2550",
+      "industryCode": "255030",
+      "subIndustryCode": "25503030"
+    }
+  }
+}

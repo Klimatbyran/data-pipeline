@@ -1,0 +1,397 @@
+{
+  "wikidataId": "Q10684798",
+  "name": "Svensk Exportkredit",
+  "reviewComments": [
+    "Facit wrong on headcount?",
+    "Alex NOT OK",
+    "483 on all scope 3 categories not ok",
+    "Garbo NOT OK"
+  ],
+  "description": "AB Svensk Exportkredit (SEK) erbjuder finansiering till svenska exportföretag, deras underleverantörer och internationella kunder. Företaget stödjer även omställningsprojekt både i Sverige och globalt, med utlåning tillgänglig i cirka 60 länder och över 20 valutor.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sek.se/app/uploads/2024/02/Ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3005000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 258,
+          "unit": "Headcount"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9,
+          "mb": 9,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 15748482,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 138.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1.2,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 326,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 14.7,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 15,
+              "total": 15748000,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 15748482
+        },
+        "biogenicEmissions": {
+          "total": 99.4,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 15748491,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sek.se/app/uploads/2024/02/Ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 283,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 7,
+          "mb": 7,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 7
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 318,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 63,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 0.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0.0008,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 1.1,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 318,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 23.7,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 318
+        },
+        "biogenicEmissions": {
+          "total": 80.4,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 325,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sek.se/app/uploads/2024/02/Ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 264,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 15,
+          "mb": 15,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 15
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 114,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 56.6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 6.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 114,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 114,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 22.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 114
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 129,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sek.se/app/uploads/2024/02/Ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 253,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 9,
+          "mb": 9,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 9
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 156,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 56.4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 10.9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 0.3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 156,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 156,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 22.6,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 156
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 165,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.sek.se/app/uploads/2024/02/Ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 244,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 16,
+          "mb": 16,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 16
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 365,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 365,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 365,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 365
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 381,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402030",
+      "subIndustryCode": "40203010"
+    }
+  }
+}

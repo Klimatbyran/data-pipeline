@@ -1,0 +1,150 @@
+{
+  "wikidataId": "Q61932343",
+  "name": "Sdiptech",
+  "description": "Sdiptech är en teknikkoncern som förvärvar och utvecklar nischade bolag inom infrastruktur. Företaget fokuserar på att förbättra effektivitet och säkerhet i samhällen genom sina verksamheter i Sverige, Storbritannien, Finland, Norge, Danmark, Italien, Nederländerna och Kroatien.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://assets-global.website-files.com/5ccac9906ff35e132721a7ea/662278cef4aa6a7cebb97ef5_Sdiptech%20AB%20-%20%C3%85rsredovisning%202023_kompr.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4818000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2301,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5567,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1194,
+          "mb": 1194,
+          "unknown": 694,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1194
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3200,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 3200,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3200
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 6761,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 9960,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://assets-global.website-files.com/5ccac9906ff35e132721a7ea/662278cef4aa6a7cebb97ef5_Sdiptech%20AB%20-%20%C3%85rsredovisning%202023_kompr.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3505200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2325,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3922,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 590,
+          "mb": 590,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 590
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 650,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 650,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 650
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://assets-global.website-files.com/5ccac9906ff35e132721a7ea/662278cef4aa6a7cebb97ef5_Sdiptech%20AB%20-%20%C3%85rsredovisning%202023_kompr.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 3598,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 820,
+          "mb": 820,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 820
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 393,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 393,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 393
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2020",
+      "industryCode": "202010",
+      "subIndustryCode": "20201050"
+    }
+  }
+}

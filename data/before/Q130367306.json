@@ -1,0 +1,90 @@
+{
+  "wikidataId": "Q130367306",
+  "name": "Viscaria",
+  "description": "Viscaria är ett företag som fokuserar på att identifiera och utveckla mineralresurser i Norden. Företaget arbetar med att förbereda återstarten av Viscariagruvan för kopparproduktion och innehar bearbetningskoncessioner i Arvidsjaur och Smedjebacken.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viscaria.com/sv/wp-content/uploads/sites/4/2024/05/copperstone-resources-arsredovisning-2023-240517.pdf",
+      "economy": {
+        "turnover": {
+          "value": 261000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 31,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viscaria.com/sv/wp-content/uploads/sites/4/2024/05/copperstone-resources-arsredovisning-2023-240517.pdf",
+      "economy": {
+        "turnover": {
+          "value": 0,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 26,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.viscaria.com/sv/wp-content/uploads/sites/4/2024/05/copperstone-resources-arsredovisning-2023-240517.pdf",
+      "economy": {
+        "turnover": null,
+        "employees": null
+      },
+      "emissions": {
+        "scope1": {
+          "total": 28,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 20,
+          "mb": 24,
+          "unknown": 16,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 24
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "15",
+      "groupCode": "1510",
+      "industryCode": "151040",
+      "subIndustryCode": "15104025"
+    }
+  }
+}

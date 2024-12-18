@@ -1,0 +1,151 @@
+{
+  "wikidataId": "Q17102820",
+  "name": "Hoist Finance",
+  "reviewComments": ["Scope 1 should be 329 - fixed", "Garbo OK"],
+  "description": "Hoist Finance AB (publ) är ett kreditmarknadsbolag som regleras av Finansinspektionen. Företaget fokuserar på förvärv och hantering av kreditportföljer, samt erbjuder kreditförvaltningstjänster. Hoist Finance är aktiv på den europeiska marknaden och arbetar med kapitalförvaltning och finansiering.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 3518000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1301,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 329,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1562,
+          "mb": 366,
+          "unknown": 366,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 366
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 890,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 890,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 890
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1586,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2613000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1304,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 266,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1608,
+          "mb": 305,
+          "unknown": 305,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 305
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 860,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 860,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 860
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1431,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": null,
+      "emissions": {
+        "scope1": {
+          "total": 239,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 468,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 468
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 629,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 890,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 629
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1336,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402010",
+      "subIndustryCode": "40201040"
+    }
+  }
+}

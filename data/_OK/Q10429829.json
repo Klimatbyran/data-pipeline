@@ -1,0 +1,24 @@
+{
+  "wikidataId": "Q10429829",
+  "name": "Biotage",
+  "description": null,
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://storage.mfn.se/371b0d79-86e0-4acd-b624-5723d9261980/cs3-5-eng-biotage-annual-report-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1862000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 674,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {}
+    }
+  ],
+  "industry": null
+}

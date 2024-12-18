@@ -1,0 +1,146 @@
+{
+  "wikidataId": "Q91016795",
+  "name": "Humana",
+  "description": "Humana är en nordisk välfärdsaktör som erbjuder tjänster inom personlig assistans, individ- och familjeomsorg samt äldreomsorg. Företaget är verksamt i Sverige, Norge, Finland och Danmark och riktar sig till personer med funktionsnedsättning, psykosocial problematik och psykisk ohälsa.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 2608000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2413,
+          "unit": "Average FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 4097,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1836,
+          "mb": 1355,
+          "unknown": 1012,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1355
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 35817,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 19080,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 2107,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 107,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2558,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 11964,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 35817
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 41269,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 9199000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 24465,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 4129,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1836,
+          "mb": 1012,
+          "unknown": 1012,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1012
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 25944,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 22263,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 1199,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 328,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 2154,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 25944
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 31085,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351020",
+      "subIndustryCode": "35102015"
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "wikidataId": "Q12004589",
+  "name": "Synsam",
+  "reviewComments": [
+    "Garbo NOT OK",
+    "2023 Scope 3 should be null (Garbo issue #531)"
+  ],
+  "description": "Synsam är ett företag verksamt inom optik, ögonmode och ögonhälsa med över 500 butiker i Norden. Företaget erbjuder produkter och tjänster som glasögon, solglasögon och kontaktlinser, samt abonnemangstjänster som Synsam Lifestyle.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.synsamgroup.com/wp-content/uploads/2024/03/Synsam-Group-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5905000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3413,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 201.7,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1065,
+          "mb": 3602,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3602
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 3602,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3602,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 3602
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3803.7,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.synsamgroup.com/wp-content/uploads/2024/03/Synsam-Group-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5277000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 3145,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 265,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 1112.3,
+          "mb": 3525.1,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3525.1
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 3790.1,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.synsamgroup.com/wp-content/uploads/2024/03/Synsam-Group-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4669000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2671,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.synsamgroup.com/wp-content/uploads/2024/03/Synsam-Group-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3806000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2281,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.synsamgroup.com/wp-content/uploads/2024/03/Synsam-Group-ars-och-hallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3741000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 2095,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2550",
+      "industryCode": "255040",
+      "subIndustryCode": "25504010"
+    }
+  }
+}

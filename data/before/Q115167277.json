@@ -1,0 +1,289 @@
+{
+  "wikidataId": "Q115167277",
+  "name": "Stendörren Fastigheter",
+  "description": "Stendörren Fastigheter AB är ett fastighetsbolag noterat på Nasdaq Stockholm Mid Cap. Företaget fokuserar på att förvärva, utveckla och förvalta fastigheter och byggrätter inom logistik, lager och lätt industri i nordiska tillväxtregioner, främst i Storstockholm och Mälardalen.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 843000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 50,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 110,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2160,
+          "mb": 1189,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1189
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 4522,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 3335,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 487.11,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 9,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 8,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 4522
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5821,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 732820000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 48,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 251,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2140,
+          "mb": 1081,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1081
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 9895,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 2,
+              "total": 2088,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 8081,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 9895
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 11227,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 652870000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 210,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2490,
+          "mb": 1269,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 1269
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 227,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 543,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 227
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1706,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 631030000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 578,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 941,
+          "mb": 941,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 941
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 1519,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 591580000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2018-01-01T00:00:00.000Z",
+      "endDate": "2018-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 537400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2017-01-01T00:00:00.000Z",
+      "endDate": "2017-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stendorren.se/sv/wp-content/uploads/sites/4/2023/06/wkr0006-239.pdf",
+      "economy": {
+        "turnover": {
+          "value": 452300000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 55,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601025",
+      "subIndustryCode": "60102510"
+    }
+  }
+}

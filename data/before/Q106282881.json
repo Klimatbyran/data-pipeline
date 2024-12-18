@@ -1,0 +1,239 @@
+{
+  "wikidataId": "Q106282881",
+  "name": "Stillfront Group",
+  "description": "Stillfront är ett globalt spelbolag som utvecklar digitala spel för en mångsidig publik. Företaget har en bred spelportfölj och når över 50 miljoner användare varje månad. Stillfronts huvudkontor ligger i Stockholm och bolagets aktier är noterade på Nasdaq Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2024/04/sve-stillfront-arsredovisning-2023-240422.pdf",
+      "economy": {
+        "turnover": {
+          "value": 6982000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1270,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 78,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 492,
+          "mb": 399,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 399
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 52588,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1744,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 94,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 10,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 932,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 440,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 0,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 49365,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 52588
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 53064,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2024/04/sve-stillfront-arsredovisning-2023-240422.pdf",
+      "economy": {
+        "turnover": {
+          "value": 7058000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1270,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 75,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 511,
+          "mb": 493,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 493
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 56827,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 1744,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 108,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 121,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 3,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 508,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 7,
+              "total": 467,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 11,
+              "total": 54129,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 56827
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 57394,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2024/04/sve-stillfront-arsredovisning-2023-240422.pdf",
+      "economy": {
+        "turnover": {
+          "value": 5455000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1270,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2024/04/sve-stillfront-arsredovisning-2023-240422.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3991000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1270,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.stillfront.com/en/wp-content/uploads/sites/2/2024/04/sve-stillfront-arsredovisning-2023-240422.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1967000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1270,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253010",
+      "subIndustryCode": "25301010"
+    }
+  }
+}

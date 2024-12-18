@@ -1,0 +1,262 @@
+{
+  "wikidataId": "Q130367254",
+  "name": "MEKO",
+  "description": "MEKO är en internationell koncern som bedriver verksamhet på fordons-eftermarknaden. Företaget erbjuder reservdelar, reparationer och service genom verkstäder, butiker och digitala plattformar, med fokus på att förlänga fordonens livslängd för både företag och privatpersoner.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://meko.com/media/asqjoszz/meko-aars-och-haallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 16762000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 6268,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 11487,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2238,
+          "mb": 15570,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 15570
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 572681,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 550503,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 591,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 1770,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1712,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 9,
+              "total": 18105,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 2994,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 572681
+        },
+        "biogenicEmissions": {
+          "total": 399,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 559738,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://meko.com/media/asqjoszz/meko-aars-och-haallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 14067000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5927,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 11088,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2204,
+          "mb": 14493,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 14493
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 452321,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 550503,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 18105,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 1079,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 2741,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 452321
+        },
+        "biogenicEmissions": {
+          "total": 397,
+          "unit": "tCO2e"
+        },
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 477902,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://meko.com/media/asqjoszz/meko-aars-och-haallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 12309000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 5182,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 10535,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 2279,
+          "mb": 15393,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 15393
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 14217,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 435700,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 4,
+              "total": 10603,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 392,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 2215,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 14217
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 40145,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://meko.com/media/asqjoszz/meko-aars-och-haallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 11511000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4912,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://meko.com/media/asqjoszz/meko-aars-och-haallbarhetsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 11842000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 4953,
+          "unit": "total"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2510",
+      "industryCode": "251010",
+      "subIndustryCode": "25101010"
+    }
+  }
+}

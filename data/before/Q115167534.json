@@ -1,0 +1,166 @@
+{
+  "wikidataId": "Q115167534",
+  "name": "KlaraBo",
+  "description": "KlaraBo Sverige AB är ett börsnoterat fastighetsbolag med fokus på förvaltning, förädling och renovering av bostadsfastigheter. Företaget förvärvar äldre bestånd och producerar nya hyresbostäder vid gynnsamma marknadsförhållanden. Huvudkontoret ligger i Malmö, men verksamheten bedrivs över hela Sverige.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://cdn.bequoted.com/media/1/606f3feb-3975-4dc5-9b7c-3f09c5f982d6/KlaraBo_Ars-_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 589700000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 66,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 291,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3091,
+          "mb": 2871,
+          "unknown": 2808,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 2871
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 11852,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 2,
+              "total": 697,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 12.5,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 33,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 6,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 4,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 13,
+              "total": 11127,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1633,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 9461,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 697,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 11852
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 15268,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://cdn.bequoted.com/media/1/606f3feb-3975-4dc5-9b7c-3f09c5f982d6/KlaraBo_Ars-_och_hallbarhetsredovisning_2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 501600000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 63,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 532.2,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 3476,
+          "mb": 3218,
+          "unknown": 3154,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 3218
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1026,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 3,
+              "total": 11,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 5,
+              "total": 34,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 11,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1026
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 5098.2,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "60",
+      "groupCode": "6010",
+      "industryCode": "601060",
+      "subIndustryCode": "60106010"
+    }
+  }
+}

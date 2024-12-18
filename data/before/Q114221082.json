@@ -1,0 +1,192 @@
+{
+  "wikidataId": "Q114221082",
+  "name": "MilDef Group",
+  "description": "MilDef utvecklar och levererar robusta IT-lösningar för krävande miljöer. Företaget fokuserar på att skydda kritisk information genom att erbjuda hårdvara och mjukvara som är anpassad för extrema förhållanden.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.mildef.com/wp-content/uploads/2024/04/MilDef-Arsredovisning-och-hallbarhetsrapport-2023-SWE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1151000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 309,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.mildef.com/wp-content/uploads/2024/04/MilDef-Arsredovisning-och-hallbarhetsrapport-2023-SWE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 739000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 291,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.mildef.com/wp-content/uploads/2024/04/MilDef-Arsredovisning-och-hallbarhetsrapport-2023-SWE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 470000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 188,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 0,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 0,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.mildef.com/wp-content/uploads/2024/04/MilDef-Arsredovisning-och-hallbarhetsrapport-2023-SWE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 398000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 119,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://investors.mildef.com/wp-content/uploads/2024/04/MilDef-Arsredovisning-och-hallbarhetsrapport-2023-SWE.pdf",
+      "economy": {
+        "turnover": {
+          "value": 334000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 93,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201010",
+      "subIndustryCode": "20101010"
+    }
+  }
+}

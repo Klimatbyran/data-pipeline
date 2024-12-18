@@ -1,0 +1,99 @@
+{
+  "wikidataId": "Q51581693",
+  "name": "Gaming Innovation Group",
+  "description": "Gaming Innovation Group Inc. (GiG) erbjuder tjänster inom iGaming-industrin, inklusive plattformslösningar, sportsbook och mediatjänster. Företaget fokuserar på att tillhandahålla tekniska lösningar och operativa tjänster för speloperatörer, vilket möjliggör effektiv hantering av spelverksamhet.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 126500000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 710,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope2": {
+          "lb": null,
+          "mb": 202.4,
+          "unknown": null,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 202.4
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 8997.6,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 8997.6
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 9200,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 105215000,
+          "currency": "EUR"
+        },
+        "employees": {
+          "value": 0,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 100,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 400,
+          "mb": 400,
+          "unknown": 400,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 400
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 14720,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 14720,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 14720
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "25",
+      "groupCode": "2530",
+      "industryCode": "253010",
+      "subIndustryCode": "25301010"
+    }
+  }
+}

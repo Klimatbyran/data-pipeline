@@ -1,0 +1,105 @@
+{
+  "wikidataId": "Q115168499",
+  "name": "Mangold",
+  "description": "Mangold erbjuder finansiella tjänster till företag, institutioner och privatpersoner, med fokus på entreprenörer och tillväxtbolag. Verksamheten är uppdelad i segmenten Investment Banking och Private Banking, där tjänsterna anpassas efter kundernas finansiella behov.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20125/3962100/2734505.pdf",
+      "economy": {
+        "turnover": {
+          "value": 169060000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 75,
+          "unit": "Average"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 117,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 117,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 3.47,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 60.77,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 3.47,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 117
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 117,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/20125/3962100/2734505.pdf",
+      "economy": {
+        "turnover": {
+          "value": 129067000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 461232,
+          "unit": "average number of shares"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 81.66,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 81.66
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 81.66,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "40",
+      "groupCode": "4020",
+      "industryCode": "402030",
+      "subIndustryCode": "40203020"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "wikidataId": "Q106627925",
+  "name": "AQ Group",
+  "description": "AQ Group är en global tillverkare av komponenter och system för krävande industrikunder. Företaget erbjuder tjänster inom tunnplåtsstansning, formsprutning, plåtbearbetning, systemprodukter, induktiva komponenter samt specialteknologier och konstruktion.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": null,
+      "economy": {
+        "turnover": {
+          "value": 8968000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 7846,
+          "unit": "medelantal"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 25348,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 25348,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 0,
+            "unit": "tCO2e"
+          },
+          "categories": [],
+          "calculatedTotalEmissions": 0
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 25348,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 25348,
+          "unit": "tCO2e"
+        }
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "20",
+      "groupCode": "2010",
+      "industryCode": "201060",
+      "subIndustryCode": "20106020"
+    }
+  }
+}

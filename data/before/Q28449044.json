@@ -1,0 +1,194 @@
+{
+  "wikidataId": "Q28449044",
+  "name": "RaySearch Laboratories",
+  "description": "RaySearch Laboratories AB är ett medicinteknikföretag som utvecklar mjukvarulösningar för förbättrad cancerbehandling. Företaget marknadsför RayStation, ett behandlingsplaneringssystem, och RayCare, ett onkologiinformationssystem, till kliniker globalt. RaySearch grundades 2000 och är noterat på Nasdaq Stockholm.",
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1102/3968505/2761920.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1022200000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 200,
+          "unit": "EOY"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 5.47,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 44.4,
+          "mb": 40.16,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 40.16
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 555.4,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 0.93,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 7.61,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 546.86,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 555.4
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 601.03,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1102/3968505/2761920.pdf",
+      "economy": {
+        "turnover": {
+          "value": 843648000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 382,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 6.65,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 42.95,
+          "mb": 39.1,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 39.1
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 285.3,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 1,
+              "total": 0.91,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 3,
+              "total": 7.44,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 6,
+              "total": 276.95,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 285.3
+        },
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": {
+          "total": 331.5,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1102/3968505/2761920.pdf",
+      "economy": {
+        "turnover": {
+          "value": 641673000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 418,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1102/3968505/2761920.pdf",
+      "economy": {
+        "turnover": {
+          "value": 651612000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 394,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://mb.cision.com/Main/1102/3968505/2761920.pdf",
+      "economy": {
+        "turnover": {
+          "value": 741584000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 331,
+          "unit": "average number of employees"
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "35",
+      "groupCode": "3510",
+      "industryCode": "351030",
+      "subIndustryCode": "35103010"
+    }
+  }
+}

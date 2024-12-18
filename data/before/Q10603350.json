@@ -1,0 +1,219 @@
+{
+  "wikidataId": "Q10603350",
+  "name": "Note",
+  "description": "NOTE är ett företag som tillverkar kretskort, delmontage och kompletta produkter. Företaget betjänar kunder inom segmenten industri, kommunikation, medicinteknik och grön teknik. NOTE har tolv fabriker i Europa och Asien och erbjuder tjänster från design till eftermarknad.",
+  "reviewComments": [
+    "Garbo NOT OK",
+    "Category 4 wrongly categorized as category 16"
+  ],
+  "reportingPeriods": [
+    {
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2023-12-31T00:00:00.000Z",
+      "reportURL": "https://www.note-ems.com/wp-content/uploads/2024/04/note-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 4243000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1504,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2055,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1007,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 4,
+              "total": 1007,
+              "unit": "tCO2e"
+            },
+            {
+              "category": 16,
+              "total": 1007,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1007
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 2055,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3062,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2022-01-01T00:00:00.000Z",
+      "endDate": "2022-12-31T00:00:00.000Z",
+      "reportURL": "https://www.note-ems.com/wp-content/uploads/2024/04/note-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 3687000000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 1366,
+          "unit": "FTE"
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2376,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1409,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 1409,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1409
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 2376,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3785,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2021-01-01T00:00:00.000Z",
+      "endDate": "2021-12-31T00:00:00.000Z",
+      "reportURL": "https://www.note-ems.com/wp-content/uploads/2024/04/note-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 2643400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": {
+          "total": 2058,
+          "unit": "tCO2e"
+        },
+        "scope2": {
+          "lb": 0,
+          "mb": 0,
+          "unknown": 0,
+          "unit": "tCO2e",
+          "calculatedTotalEmissions": 0
+        },
+        "scope3": {
+          "statedTotalEmissions": {
+            "total": 1346,
+            "unit": "tCO2e"
+          },
+          "categories": [
+            {
+              "category": 16,
+              "total": 1346,
+              "unit": "tCO2e"
+            }
+          ],
+          "calculatedTotalEmissions": 1346
+        },
+        "biogenicEmissions": null,
+        "scope1And2": {
+          "total": 2058,
+          "unit": "tCO2e"
+        },
+        "statedTotalEmissions": {
+          "total": 3404,
+          "unit": "tCO2e"
+        }
+      }
+    },
+    {
+      "startDate": "2020-01-01T00:00:00.000Z",
+      "endDate": "2020-12-31T00:00:00.000Z",
+      "reportURL": "https://www.note-ems.com/wp-content/uploads/2024/04/note-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1873800000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    },
+    {
+      "startDate": "2019-01-01T00:00:00.000Z",
+      "endDate": "2019-12-31T00:00:00.000Z",
+      "reportURL": "https://www.note-ems.com/wp-content/uploads/2024/04/note-arsredovisning-2023.pdf",
+      "economy": {
+        "turnover": {
+          "value": 1760400000,
+          "currency": "SEK"
+        },
+        "employees": {
+          "value": 0,
+          "unit": ""
+        }
+      },
+      "emissions": {
+        "scope1": null,
+        "biogenicEmissions": null,
+        "scope1And2": null,
+        "statedTotalEmissions": null
+      }
+    }
+  ],
+  "industry": {
+    "industryGics": {
+      "sectorCode": "45",
+      "groupCode": "4520",
+      "industryCode": "452030",
+      "subIndustryCode": "45203020"
+    }
+  }
+}
