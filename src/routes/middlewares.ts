@@ -43,37 +43,9 @@ export const cache = () => {
 }
 
 
-export const fakeAuth =
-  (prisma: PrismaClient) =>
-  async (req: Request, res: Response, next: NextFunction) => {
-    try {
-      const token = req.header('Authorization')?.replace('Bearer ', '')
-      
-      if (!token || !apiConfig.tokens?.includes(token)) {
-        throw GarboAPIError.unauthorized()
-      }
+import { authenticateJWT } from '../lib/auth'
 
-      const [username] = token.split(':')
-      const userEmail = username === 'garbo' ? apiConfig.authorizedUsers.garbo : apiConfig.authorizedUsers.alex
-      
-      if (!userEmail) {
-        throw GarboAPIError.unauthorized()
-      }
-
-      const user = await prisma.user.findFirst({
-        where: { email: userEmail },
-      })
-
-      if (!user?.id) {
-        throw GarboAPIError.unauthorized()
-      }
-
-      res.locals.user = user
-      next()
-    } catch (error) {
-      next(error)
-    }
-  }
+export const auth = authenticateJWT
 
 export const validateMetadata = () =>
   validateRequestBody(

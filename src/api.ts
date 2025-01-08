@@ -6,6 +6,7 @@ import readCompanies from './routes/companies/company.read'
 import updateCompanies from './routes/companies/company.update'
 import { errorHandler } from './routes/middlewares'
 import { swaggerOptions } from './swagger'
+import auth from './routes/auth'
 
 const apiRouter = express.Router()
 const pinoConfig = process.stdin.isTTY && {
@@ -20,12 +21,17 @@ apiRouter.use(pino(pinoConfig || undefined))
 // Generate OpenAPI spec
 const openApiSpec = swaggerJsdoc(swaggerOptions)
 
+apiRouter.use('/auth', auth)
+
 // API Routes
 apiRouter.use('/companies', readCompanies)
 apiRouter.use('/companies', updateCompanies)
 
 // API Documentation
-apiRouter.get('/openapi.json', (req, res) => res.json(openApiSpec))
+apiRouter.get('/openapi.json', (req, res) => {
+  res.json(openApiSpec)
+})
+
 apiRouter.use(
   '/',
   apiReference({

@@ -1,4 +1,5 @@
 import { OpenAPIRegistry } from '@asteasolutions/zod-to-openapi'
+import { z } from 'zod'
 import {
   EmissionsSchema,
   EconomySchema,
@@ -17,6 +18,55 @@ import {
 } from './schemas'
 
 export const registry = new OpenAPIRegistry()
+
+// Auth schemas
+const AuthResponseSchema = z.object({
+  token: z.string().describe('JWT token for API authentication')
+})
+
+registry.registerPath({
+  method: 'get',
+  path: '/auth/github',
+  description: 'Initiates GitHub OAuth flow',
+  tags: ['Authentication'],
+  responses: {
+    302: {
+      description: 'Redirects to GitHub OAuth page',
+      headers: {
+        Location: {
+          description: 'GitHub OAuth authorization URL',
+          schema: { type: 'string' }
+        }
+      }
+    }
+  },
+  security: [] // Explicitly mark as not requiring authentication
+})
+
+registry.registerPath({
+  method: 'get',
+  path: '/auth/github/callback',
+  description: 'GitHub OAuth callback endpoint',
+  tags: ['Authentication'],
+  responses: {
+    200: {
+      description: 'Successfully authenticated',
+      content: {
+        'application/json': {
+          schema: AuthResponseSchema
+        }
+      }
+    },
+    401: {
+      description: 'Authentication failed',
+      content: {
+        'application/json': {
+          schema: ErrorSchemaBase
+        }
+      }
+    }
+  }
+})
 
 // Register all schemas
 export const ErrorSchema = registry.register('Error', ErrorSchemaBase)

@@ -357,12 +357,12 @@ model Metadata {
 }
 
 model User {
-  id    Int    @id @default(autoincrement())
-  email String @unique
-  name  String
+  id         Int    @id @default(autoincrement())
+  email      String @unique
+  name       String
+  githubId   String?
+  githubToken String?
 
-  // TODO: connect with github ID
-  // TODO: store github profile image - or get it via API
   updated  Metadata[] @relation("metadata_user_id")
   verified Metadata[] @relation("metadata_verified_by")
 }

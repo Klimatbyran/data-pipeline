@@ -6,9 +6,14 @@ const generator = new OpenApiGeneratorV3(registry.definitions)
 export const swaggerOptions = {
   definition: {
     ...generator.generateDocument({
+      openapi: '3.0.0',
       info: {
         title: 'Klimatkollen API',
         version: '1.0.0',
+        license: {
+          name: 'Apache 2.0',
+          url: 'http://www.apache.org/licenses/LICENSE-2.0.html',
+        },
         description: `
 ![Klimatkollen Logo](https://beta.klimatkollen.se/klimatkollen_logo.svg)
 
@@ -30,14 +35,21 @@ All endpoints require authentication using a Bearer token. Include your API key 
 
 ## Rate Limiting
 
-- 1000 requests per hour for authenticated users
-- 100 requests per hour for unauthenticated users
+PLEAE NOTE: The API is rate limited to 100 requests per minute.
 
 ## Resources
 
 * [Klimatkollen Website](https://klimatkollen.se)
 * [API Terms of Service](https://klimatkollen.se/terms)
-* [Contact Support](mailto:support@klimatkollen.se)
+* [Contact Support](mailto:hej@klimatkollen.se)
+
+## Authentication
+All endpoints require authentication using a JWT Bearer token. To get a token:
+1. Login via GitHub OAuth at \`/api/auth/github\`
+2. Use the returned JWT token in the Authorization header:
+\`\`\`
+Authorization: Bearer YOUR_JWT_TOKEN
+\`\`\`
 
 ## Examples
 
@@ -62,6 +74,12 @@ curl -X POST "https://api.klimatkollen.se/api/companies/Q123/reporting-periods" 
         {
           url: '/api',
           description: 'API endpoint',
+        },
+      ],
+
+      security: [
+        {
+          bearerAuth: [],
         },
       ],
     }),

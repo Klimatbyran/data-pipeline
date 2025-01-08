@@ -1,8 +1,12 @@
 import express from 'express'
 import { parseArgs } from 'node:util'
+import session from 'express-session'
+import passport from 'passport'
 
 import api from './api'
 import apiConfig from './config/api'
+import authConfig from './config/auth'
+import './lib/auth' // Initialize passport
 
 const { values } = parseArgs({
   options: {
@@ -17,6 +21,15 @@ const START_BOARD = !values['api-only']
 
 const port = apiConfig.port
 const app = express()
+
+app.use(session({
+  secret: authConfig.session.secret,
+  resave: false,
+  saveUninitialized: false
+}))
+
+app.use(passport.initialize())
+app.use(passport.session())
 
 app.get('/favicon.ico', express.static('public/favicon.png'))
 app.use('/api', api)
