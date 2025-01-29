@@ -34,6 +34,7 @@ export const prompt = `
 - Extract values only if explicitly available in the context. Do not infer or create data. Leave optional fields absent or explicitly set to null if no data is provided.
 *** Turnover ***
 - Extract turnover as a numerical value. Use the turnover field to specify the turnover (intäkter, omsättning) of the company. If the currency is not specified, assume SEK. 
+- Prefer turnover to be extracted as net sales (nettomsättning) over revenue if both are present.
   Be as accurate as possible. Extract this data for all available years.
 - Convert units like "MSEK", "kSEK", "kEUR" etc. into the base numerical value in the local currency.
   Example:  
@@ -84,6 +85,8 @@ const queryTexts = [
   'Extract turnover (intäkter, omsättning) values in SEK or EUR for all available years.',
   'Extract the number of employees with their units (e.g., FTE) for all available years.',
   'Retrieve company economy data including turnover in SEK or EUR and number of employees with units for each year.',
+  'Net sales ( nettomsättning )',
+  'Revenue',
 ]
 
 export default { prompt, schema, queryTexts }
