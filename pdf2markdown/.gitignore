@@ -5,11 +5,6 @@ dist
 !.env.example
 .aider*
 .DS_Store
-prisma/generated
-*.xlsx
 
-# Ignore local SQLite databases
-*.db
-*.db-journal
 *.pdf
 *.code-workspace

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pdf2markdown"
+version = "0.1.0"
+description = "Convert PDFs to markdown"
+authors = ["Christian Landgren", "Samuel Plumppu", "Hugo Björk"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "~3.12.0"
+docling = "^2.8.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
