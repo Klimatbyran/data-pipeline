@@ -70,14 +70,16 @@ export async function companyReportingPeriodsRoutes(app: FastifyInstance) {
               )
 
             const [dbEmissions, dbEconomy] = await Promise.all([
-              emissionsService.upsertEmissions({
-                emissionsId: reportingPeriod.emissions?.id ?? '',
-                reportingPeriodId: reportingPeriod.id,
-              }),
-              companyService.upsertEconomy({
-                economyId: reportingPeriod.economy?.id ?? '',
-                reportingPeriodId: reportingPeriod.id,
-              }),
+              emissions &&
+                emissionsService.upsertEmissions({
+                  emissionsId: reportingPeriod.emissions?.id ?? '',
+                  reportingPeriodId: reportingPeriod.id,
+                }),
+              economy &&
+                companyService.upsertEconomy({
+                  economyId: reportingPeriod.economy?.id ?? '',
+                  reportingPeriodId: reportingPeriod.id,
+                }),
             ])
 
             const {
@@ -90,61 +92,62 @@ export async function companyReportingPeriodsRoutes(app: FastifyInstance) {
             } = emissions
             const { turnover, employees } = economy
 
-            // Normalise currency
             if (turnover?.currency) {
               turnover.currency = turnover.currency.trim().toUpperCase()
             }
 
             await Promise.allSettled([
-              scope1 &&
-                emissionsService.upsertScope1(
-                  dbEmissions,
-                  scope1,
-                  createdMetadata
-                ),
-              scope2 &&
-                emissionsService.upsertScope2(
-                  dbEmissions,
-                  scope2,
-                  createdMetadata
-                ),
-              scope3 &&
-                emissionsService.upsertScope3(dbEmissions, scope3, () =>
-                  metadataService.createMetadata({
-                    metadata,
-                    user,
-                  })
-                ),
-              statedTotalEmissions !== undefined &&
-                emissionsService.upsertStatedTotalEmissions(
-                  dbEmissions,
-                  createdMetadata,
-                  statedTotalEmissions
-                ),
-              biogenic &&
-                emissionsService.upsertBiogenic(
-                  dbEmissions,
-                  biogenic,
-                  createdMetadata
-                ),
-              scope1And2 &&
-                emissionsService.upsertScope1And2(
-                  dbEmissions,
-                  scope1And2,
-                  createdMetadata
-                ),
-              turnover &&
-                companyService.upsertTurnover({
-                  economy: dbEconomy,
-                  metadata: createdMetadata,
-                  turnover,
-                }),
-              employees &&
-                companyService.upsertEmployees({
-                  economy: dbEconomy,
-                  employees,
-                  metadata: createdMetadata,
-                }),
+              dbEmissions &&
+                (scope1 &&
+                  emissionsService.upsertScope1(
+                    dbEmissions,
+                    scope1,
+                    createdMetadata
+                  ),
+                scope2 &&
+                  emissionsService.upsertScope2(
+                    dbEmissions,
+                    scope2,
+                    createdMetadata
+                  ),
+                scope3 &&
+                  emissionsService.upsertScope3(dbEmissions, scope3, () =>
+                    metadataService.createMetadata({
+                      metadata,
+                      user,
+                    })
+                  ),
+                statedTotalEmissions !== undefined &&
+                  emissionsService.upsertStatedTotalEmissions(
+                    dbEmissions,
+                    createdMetadata,
+                    statedTotalEmissions
+                  ),
+                biogenic &&
+                  emissionsService.upsertBiogenic(
+                    dbEmissions,
+                    biogenic,
+                    createdMetadata
+                  ),
+                scope1And2 &&
+                  emissionsService.upsertScope1And2(
+                    dbEmissions,
+                    scope1And2,
+                    createdMetadata
+                  )),
+              dbEconomy &&
+                (turnover &&
+                  companyService.upsertTurnover({
+                    economy: dbEconomy,
+                    metadata: createdMetadata,
+                    turnover,
+                  }),
+                employees &&
+                  companyService.upsertEmployees({
+                    economy: dbEconomy,
+                    employees,
+                    metadata: createdMetadata,
+                  })),
             ])
           }
         )
